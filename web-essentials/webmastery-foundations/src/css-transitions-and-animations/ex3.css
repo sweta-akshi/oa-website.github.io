@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+#greeting {
+    width: 400px;
+    height: 400px;
+    background-color: #332532;
+    border: 8px solid #f77a52;
+    color: #f77a52;
+    font-size: 70px;
+    margin: 100px;
+    padding: 40px;
+    text-align: left;
+
+    transition: all 1s ease; /* add this line for smooth transition on hover out */
+}
+
+#greeting:hover {
+    width: 600px;
+    height: 600px;
+    background: #cafcd8;
+    border: 20px solid #04bfbf;
+    font-family: 'Shadows Into Light', cursive;
+    color: #04bfbf;
+    font-size: 120px;
+    line-height: 1;
+    padding: 200px 60px 60px 60px;
+    text-align: right;
+
+    transition: all 1s ease; /* add this line for smooth transition on hover in */
+
+    animation-name: bounce;
+    animation-duration: 0.5s; /* or: 500ms */
+    animation-iteration-count: 3;
+    animation-direction: normal; /* or: alternate, reverse */
+    animation-timing-function: ease-out; /* or: ease, ease-in, ease-in-out, linear, cubic-bezier(x1, y1, x2, y2) */
+    animation-fill-mode: forwards; /* or: backwards, both, none */
+    animation-delay: 0s; /* or: 0ms */
+}
+
+@keyframes bounce {
+    0% {
+        position: relative;
+        top: 0px;
+    }
+    50% {
+        position: relative;
+        top: -120px;
+    }
+    100% {
+        position: initial;
+        top: 0px;
+    }
+}

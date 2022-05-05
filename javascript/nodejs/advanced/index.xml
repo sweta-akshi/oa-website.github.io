@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advanced NodeJS on Orange Academy</title>
+    <link>/javascript/nodejs/advanced/</link>
+    <description>Recent content in Advanced NodeJS on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./javascript/nodejs/advanced/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Buffers &amp; Streams</title>
+      <link>/javascript/nodejs/advanced/stdin-stdout-buffers-streams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/stdin-stdout-buffers-streams/</guid>
+      <description>STDIN / STDOUT Focusing on the process object in node, we&amp;rsquo;ll go over what stdin and stdout do.</description>
+    </item>
+    
+    <item>
+      <title>Labs for stdin/stdout with Buffers &amp; Streams</title>
+      <link>/javascript/nodejs/advanced/stdin-stdout-buffers-streams-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/stdin-stdout-buffers-streams-labs/</guid>
+      <description>Lab 1 – stdin &amp;amp; stdout We&amp;rsquo;ll create a number guessing game for our lab.</description>
+    </item>
+    
+    <item>
+      <title>HTTP Requests</title>
+      <link>/javascript/nodejs/advanced/axios-and-fetch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/axios-and-fetch/</guid>
+      <description>Concepts  Sending HTTP Requests Handling HTTP Responses  Skills  Using the Fetch API for sending HTTP requests and handling HTTP responses Using the axios library for sending HTTP requests and handling HTTP responses Handling errors with either the Fetch API or axios  API Communications  Making external calls to other apps and services is very common  Each call has a request from your app and a response from the external service There are helpful tools to handle these requests and responses: axios and fetch api    Fetch  Fetch is &amp;ldquo;an easy, logical way to fetch resources asynchronously across the network.</description>
+    </item>
+    
+    <item>
+      <title>Labs for AJAX and Fetch</title>
+      <link>/javascript/nodejs/advanced/ajax-and-fetch-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/ajax-and-fetch-lab/</guid>
+      <description>LAB - Working with AJAX and Fetch Use fetch to get the following data from the JSON Placeholder API</description>
+    </item>
+    
+    <item>
+      <title>InquirerJS</title>
+      <link>/javascript/nodejs/advanced/inquirer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/inquirer/</guid>
+      <description>What is Inquirer.js?  A collection of common interactive command line user interfaces. It eases the process of asking end user questions, parsing, validating answers, managing hierarchical prompts and providing error feedback.</description>
+    </item>
+    
+    <item>
+      <title>Labs for InquirerJS</title>
+      <link>/javascript/nodejs/advanced/inquirer-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/inquirer-labs/</guid>
+      <description>Lab 00 - Your Turn from Scratch  Create a repo on GitHub Create a new program using inquirer that will ask your neighbor 5 different questions using a minimum of 5 different prompt types.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solutions on Orange Academy</title>
+    <link>/web-essentials/webmastery-foundations/solutions/</link>
+    <description>Recent content in Solutions on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./web-essentials/webmastery-foundations/solutions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/web-essentials/webmastery-foundations/solutions/frameworks-lab-with-answers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/solutions/frameworks-lab-with-answers/</guid>
+      <description>Learning Objectives Skills  How to install bootstrap on your project Become familiar with bootstrap documentation Build websites with ease  HTML - The Structure This is a paired exercise, feel free to work at your own pace with your partner.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/web-essentials/webmastery-foundations/solutions/sass-lab-with-answers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/solutions/sass-lab-with-answers/</guid>
+      <description>Lab The starter for this lab is at SASS Lab 1 Starter The completed lab is at SASS Lab 1 Finished</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/web-essentials/webmastery-foundations/solutions/sign_up_form_with_answers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/solutions/sign_up_form_with_answers/</guid>
+      <description>Learning Objectives Concepts  Understand custom styling with vanilla css  Skills  Build an html form Gain understanding of the more complex parts of css  HTML Create a new project  create the HTML document create a css directory and a main stylesheet link the css and html together  &amp;lt;!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RESTful API&#39;s on Orange Academy</title>
+    <link>/golang/api/</link>
+    <description>Recent content in RESTful API&#39;s on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./golang/api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Standing up a Webserver with Go</title>
+      <link>/golang/api/go-webserver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/api/go-webserver/</guid>
+      <description>Objectives  Introduce Go&amp;rsquo;s net/http package Discuss Handlers and Handler Functions Work with the Default Serve Multiplexor Handle Request/Response cycle within an application  Skills  Get Experience with the DefaultServeMux How to write HTTP&amp;rsquo;s Handler and HandlerFuncs Handle incoming (GET) requests Use Environment Variables to set your webserver&amp;rsquo;s port  Go&amp;rsquo;s net/http Package If you&amp;rsquo;re coming to Go from another language, like: JavaScript, Python, Java, etc.</description>
+    </item>
+    
+    <item>
+      <title>Building RESTful Services with the Go Standard Library</title>
+      <link>/golang/api/restful-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/api/restful-api/</guid>
+      <description>Objectives  Showcase an API built with the Go Standard Library Demonstrate strategies for working with JSON Discuss working with URL &amp;amp; Query Params Working with standard CRUD actions  Skills  Stand up an API using only the standard library Write handlers that support standard REST actions Encode and Decode JSON Gracefully Handle Errors  The API We are going to continue to build on top of the previous lesson by setting up a tool rental API using Go&amp;rsquo;s net/http package.</description>
+    </item>
+    
+    <item>
+      <title>Routing &amp; Middleware with Gorilla/Mux</title>
+      <link>/golang/api/routing-and-middleware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/api/routing-and-middleware/</guid>
+      <description>Objectives  Introduce gorilla/mux Discuss when to introduce a web framework Refactor our existing application  Skills  Work with major features of gorilla/mux Gracefully handle URL &amp;amp; query params Easily write middleware  Beyond the Standard Library As you may have noticed, we&amp;rsquo;re starting to run into limitations with the net/http package.</description>
+    </item>
+    
+    <item>
+      <title>External APIs</title>
+      <link>/golang/api/external-apis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/api/external-apis/</guid>
+      <description>Objectives  Discuss how to pull in data from an external API Display data from 3rd party along-side existing data Collect and send information to external API Formatting the data once retrieved  API Interaction To interact with APIs in Go, this lesson will use the net/http package provides HTTP client and server implementations.</description>
+    </item>
+    
+    <item>
+      <title>Versioning</title>
+      <link>/golang/api/versioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/api/versioning/</guid>
+      <description>Objectives  Understand why API&amp;rsquo;s should be versioned Understand available versioning schemes/options Properly version API after changes have been made  Versioning APIs When creating and maintaining an API, one of the biggest blockers is taking care of updates to the API.</description>
+    </item>
+    
+    <item>
+      <title>API Testing</title>
+      <link>/golang/api/api-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/api/api-testing/</guid>
+      <description>Where to Start Inside Out vs Outside In Where to start testing can sometimes be a bit hard to determine.</description>
+    </item>
+    
+  </channel>
+</rss>

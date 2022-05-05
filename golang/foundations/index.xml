@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction to Go on Orange Academy</title>
+    <link>/golang/foundations/</link>
+    <description>Recent content in Introduction to Go on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./golang/foundations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Go</title>
+      <link>/golang/foundations/hello-go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/hello-go/</guid>
+      <description>What Is Go?    Go (aka Golang) was created by Google in 2007 and released to the public in 2009.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>/golang/foundations/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/getting-started/</guid>
+      <description>Learning Objectives  Installing Go Configuring Go Creating a Go Project Parts of a Go File Go Modes: Go Modules and GOPATH  Installation and Configuration Mac Installation brew install go or</description>
+    </item>
+    
+    <item>
+      <title>Packages</title>
+      <link>/golang/foundations/packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/packages/</guid>
+      <description>Learning Objectives  Understand how packages are used to organize code Package naming rules How to export from a package How to import and use packages Using external (3rd party) modules and packages  What are Packages?</description>
+    </item>
+    
+    <item>
+      <title>Building</title>
+      <link>/golang/foundations/building/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/building/</guid>
+      <description>Learning Objectives  Building and running a Go file Cross Compiling Installing the built artifact  Building The build subcommand compiles the packages named by the import paths, along with their dependencies, but it does not install the results.</description>
+    </item>
+    
+    <item>
+      <title>Types</title>
+      <link>/golang/foundations/types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/types/</guid>
+      <description>Go Types Learning Objectives Concepts  What is a built-in type The number types The string type Boolean types  Skills  Basic number literal arithmetic and operators Understanding String Using boolean types and operators.</description>
+    </item>
+    
+    <item>
+      <title>Go Variables</title>
+      <link>/golang/foundations/variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/variables/</guid>
+      <description>Go Variables Learning Objectives Concepts  Variable Declarations Short Variable Declarations Constants Multiple Variables Scope Type Definitions  Skills  Defining variables for given types Using variables in place of literals Be able to cleanly define multiple variables Get a basic understanding of scope in Go  Variables Basics There are a few basic rules that must be followed when using a variable in go:</description>
+    </item>
+    
+    <item>
+      <title>Control Structures</title>
+      <link>/golang/foundations/control-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/control-structures/</guid>
+      <description>Control! You must learn control! Learning Objectives Concepts  If statements The Switch statements For — the only loop you will ever need.</description>
+    </item>
+    
+    <item>
+      <title>Array, Slices and Maps</title>
+      <link>/golang/foundations/array-slice-map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/array-slice-map/</guid>
+      <description>Go Collections: Arrays, Slices and Maps Learning Objectives Concepts  Creating and using  Arrays Slices Maps   Using range to loop over arrays, slices and maps  Arrays  Have fixed size collection of elements of the same type.</description>
+    </item>
+    
+    <item>
+      <title>Functions in Go</title>
+      <link>/golang/foundations/function-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/function-intro/</guid>
+      <description>Functions in Go Learning Objectives Concepts  Create and use basic functions Create and use functions with multiple return values Built in defer function  Skills  Creating basic functions Understand how to take input and return output Understand how to receive and return multiple return values in a function  What is a Function?</description>
+    </item>
+    
+    <item>
+      <title>Generating and Handling Errors in Go</title>
+      <link>/golang/foundations/errors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/errors/</guid>
+      <description>Learning Objectives  Built in function: panic Errors are Values  Panic Panic is
+ A built in function Used as a way to exit a program when an unexpected/unrecoverable error occurred Will cause the program to exit and display the panic message.</description>
+    </item>
+    
+    <item>
+      <title>Pointers</title>
+      <link>/golang/foundations/pointers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/pointers/</guid>
+      <description>Learning Objectives  Pointers Creating &amp;amp; Using Structs Creating and Using Methods and an Instance of a Struct  Pointers  Allow you to pass variables by reference Can be edited in multiple locations  Pass by Value Refresher  By default data is passed by value ( a copy is made ) For example, when a string is passed as an argument to a function, the value of the string is passed along as a copy.</description>
+    </item>
+    
+    <item>
+      <title>Structs and Methods</title>
+      <link>/golang/foundations/structs-and-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/structs-and-methods/</guid>
+      <description>Learning Objectives  Creating &amp;amp; Using Structs Creating and Using Methods and an Instance of a Struct  Structs The struct</description>
+    </item>
+    
+    <item>
+      <title>Interfaces</title>
+      <link>/golang/foundations/interfaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/interfaces/</guid>
+      <description>Learning Objectives  Understanding Interfaces in Go Creating an Interface Implementing an interface  Interfaces in Go Interfaces in go:</description>
+    </item>
+    
+    <item>
+      <title>Go Modules Deep Dive</title>
+      <link>/golang/foundations/gomods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/foundations/gomods/</guid>
+      <description>Learning Objectives  Converting to GOMODs from GOPATH mode Getting dependencies Clean up the cache Versioning dependencies Creating a release version  Go Module mode -&amp;gt; GOPATH mode To convert a project from GOPATH to GOMODs mode, do the following:</description>
+    </item>
+    
+  </channel>
+</rss>

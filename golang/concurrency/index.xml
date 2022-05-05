@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concurrency on Orange Academy</title>
+    <link>/golang/concurrency/</link>
+    <description>Recent content in Concurrency on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./golang/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding Concurrency</title>
+      <link>/golang/concurrency/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/concurrency/introduction/</guid>
+      <description>Concurrency Concurrency is the DESIGN or the managing of multiple processes that could occur at the same time but is not necessarily happening at the same time.</description>
+    </item>
+    
+    <item>
+      <title>Goroutines</title>
+      <link>/golang/concurrency/goroutines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/concurrency/goroutines/</guid>
+      <description>Goroutines vs. Threads In general, threads are components of a process. A Process can contain multiple threads.</description>
+    </item>
+    
+    <item>
+      <title>Channels</title>
+      <link>/golang/concurrency/channels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/concurrency/channels/</guid>
+      <description>Channels provide a way for goroutines to communicate. Channels are created by using the the make keyword, and are defined with the type chan and the data type of the data the channel will carry.</description>
+    </item>
+    
+    <item>
+      <title>Coordinating Channels</title>
+      <link>/golang/concurrency/coordination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/concurrency/coordination/</guid>
+      <description>We&amp;rsquo;ve seen how channels can be used for communication between concurrent processes, now lets discuss how to coordinate several concurrent processes.</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking</title>
+      <link>/golang/concurrency/benchmarking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/concurrency/benchmarking/</guid>
+      <description>When we are using concurrency, we probably want to know just how much of an efficiency benefit we&amp;rsquo;re gaining from it.</description>
+    </item>
+    
+    <item>
+      <title>Concurrency Patterns</title>
+      <link>/golang/concurrency/patterns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/concurrency/patterns/</guid>
+      <description>Now that we have a basic understanding of Concurrency in Golang and the basic tools, let&amp;rsquo;s take a deeper dive into some of the patterns we can accomplish using those tools.</description>
+    </item>
+    
+  </channel>
+</rss>

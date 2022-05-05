@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on Orange Academy</title>
+    <link>/python/testing/</link>
+    <description>Recent content in Testing on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./python/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Do We Test?</title>
+      <link>/python/testing/why/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/testing/why/</guid>
+      <description>Goals Gain an understanding why testing code is important and its benefits.
+Learning Objectives  Explore misconceptions about testing Understand the goals of testing Review the benefits of testing correctly  Misconceptions of Testing  too difficult not worth the time  Actual Benefits Reduces time to:</description>
+    </item>
+    
+    <item>
+      <title>Types of Testing</title>
+      <link>/python/testing/types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/testing/types/</guid>
+      <description>Goals Gain an understanding of the different types of testing.
+Learning Objectives  Ways to execute tests Explore scopes of testing Investigate classifications of testing  Executing Tests  Manual - A user runs tests via the UI, in the same fashion as a true customer would.</description>
+    </item>
+    
+    <item>
+      <title>Creating and Writing Tests</title>
+      <link>/python/testing/intro-to-pytest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/testing/intro-to-pytest/</guid>
+      <description>Learning Objectives  Intro to testing in Python with pytest Test File Set Up Test Function Skipping Tests Sub Tests  Testing Intro Testing is an extremely important part of software engineering, ensuring quality and improve reliability.</description>
+    </item>
+    
+    <item>
+      <title>Code Coverage</title>
+      <link>/python/testing/coverage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/testing/coverage/</guid>
+      <description>Goals Understand the meaning of code coverage and why its important.
+Learning Objectives  What is code coverage?</description>
+    </item>
+    
+    <item>
+      <title>Pytest Command</title>
+      <link>/python/testing/pytest-command/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/testing/pytest-command/</guid>
+      <description>Learning Objectives  Identifying Existing Tests Execute a Test Running Specific Tests Skip Tests Setting a Timeout Saving Test Results Generating Coverage Reports  pytest The pytest CLI command is intended to be used with test functions and classes found within a test file.</description>
+    </item>
+    
+    <item>
+      <title>Pytest Assertions</title>
+      <link>/python/testing/pytest-assertions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/testing/pytest-assertions/</guid>
+      <description>Learning Objectives  Showing the different Assertions that can be used with Pytest Combining parametrized test with assertions  pytest Assertions As we&amp;rsquo;ve seen, Assertions in pytest check rather a test condition returns True or False.</description>
+    </item>
+    
+  </channel>
+</rss>

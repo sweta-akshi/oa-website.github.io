@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on Orange Academy</title>
+    <link>/react/foundations/misc/</link>
+    <description>Recent content in Misc on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./react/foundations/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Build a Complete React App</title>
+      <link>/react/foundations/misc/build-a-complete-react-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/misc/build-a-complete-react-app/</guid>
+      <description>Concepts  Use Component Composition (stateful and presentational components) Work with the React useEffect hook to fetch data from an API Work with react-router to create routes and navigate between views  Introduction Now that we have covered all of the fundamentals of React, we are going to build a complete client-side application that makes use of the following:</description>
+    </item>
+    
+    <item>
+      <title>Intro to FP</title>
+      <link>/react/foundations/misc/intro-to-fp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/misc/intro-to-fp/</guid>
+      <description>An brief introduction to Functional Programming
+ Topics 1. Introduction 2. Example - Big Tipper 2.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Looker on Orange Academy</title>
+    <link>/software-eng-essentials/looker/</link>
+    <description>Recent content in Looker on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/looker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started with Looker</title>
+      <link>/software-eng-essentials/looker/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/looker/getting-started/</guid>
+      <description>This lesson will cover the basics of finding and using reports in Looker.
+Objectives  Logging in and finding content How to find reports Filter the data you see in reports  Structure of Looker A LookML project is a collection of LookML files that describes a set of related models, views, Explores, and (optionally) LookML dashboards.</description>
+    </item>
+    
+    <item>
+      <title>Building Reports</title>
+      <link>/software-eng-essentials/looker/building-reports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/looker/building-reports/</guid>
+      <description>This lesson will cover the creation of ad-hoc reports using the Explore interface.
+Objectives  Explains the concepts of dimensions and measures within Looker How to select fields from the field picker How to use filters to limit query results How to create dashboards  Example: Starting with an Explore Getting Set Up In this lesson, there are going to be examples applying the previous section using the Home Depot flavored Looker.</description>
+    </item>
+    
+    <item>
+      <title>Building Reports: Deep Dive</title>
+      <link>/software-eng-essentials/looker/building-reports-dive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/looker/building-reports-dive/</guid>
+      <description>This lesson will cover a deeper dive of the creation of ad-hoc reports using the Explore interface.</description>
+    </item>
+    
+    <item>
+      <title>Scheduling</title>
+      <link>/software-eng-essentials/looker/scheduling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/looker/scheduling/</guid>
+      <description>This lesson will cover the basics of scheduling reports in Looker.
+Objectives  How to send reports  Scheduling It is possible to schedule ahead of time when a Look or Dashboard is run and delivered to any integrated services that are available for a Looker instance.</description>
+    </item>
+    
+    <item>
+      <title>LookerML</title>
+      <link>/software-eng-essentials/looker/lookml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/looker/lookml/</guid>
+      <description>This lesson will cover how Looker works as well as how to build and maintain your own LookML data model.</description>
+    </item>
+    
+  </channel>
+</rss>

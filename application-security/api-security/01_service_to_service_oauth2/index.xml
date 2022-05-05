@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OAuth2 / Service to Service on Orange Academy</title>
+    <link>/application-security/api-security/01_service_to_service_oauth2/</link>
+    <description>Recent content in OAuth2 / Service to Service on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./application-security/api-security/01_service_to_service_oauth2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Can I buy you a beer?</title>
+      <link>/application-security/api-security/01_service_to_service_oauth2/10_buying-beer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/application-security/api-security/01_service_to_service_oauth2/10_buying-beer/</guid>
+      <description>Buying Beer with OAuth2 Buying Beer Slight Modifications From Real World  Tom starts with the license issuing station.</description>
+    </item>
+    
+    <item>
+      <title>What is OAuth2?</title>
+      <link>/application-security/api-security/01_service_to_service_oauth2/20_whatisoauth2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/application-security/api-security/01_service_to_service_oauth2/20_whatisoauth2/</guid>
+      <description>Why OAuth2  Now the de facto industry standard. It has been adopted by some of the largest names in tech: Google, Facebook, Github, Microsoft, etc RFC based solution Can handle Human to Service and Service to Service.</description>
+    </item>
+    
+    <item>
+      <title>Cryptography 101</title>
+      <link>/application-security/api-security/01_service_to_service_oauth2/30_cryptography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/application-security/api-security/01_service_to_service_oauth2/30_cryptography/</guid>
+      <description>Hey Gary is this license from you?
+This is meant as a quick explanation for those unfamiliar with the basics of Cryptography.</description>
+    </item>
+    
+    <item>
+      <title>JSON Web Token (JWT)</title>
+      <link>/application-security/api-security/01_service_to_service_oauth2/40_jwt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/application-security/api-security/01_service_to_service_oauth2/40_jwt/</guid>
+      <description>JWT JWT ( pronounced jot )
+ Stands for JSON Web Token Is a spec defining the fields and value types the JSON should have It is the glue that make all this work.</description>
+    </item>
+    
+    <item>
+      <title>Client Credentials Flow</title>
+      <link>/application-security/api-security/01_service_to_service_oauth2/50_client-cred-flow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/application-security/api-security/01_service_to_service_oauth2/50_client-cred-flow/</guid>
+      <description>Securing API to API Communications The client credentials flow is used to authorize one server against another, no humans.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nonrelational Databases on Orange Academy</title>
+    <link>/python/nonrelational-db/</link>
+    <description>Recent content in Nonrelational Databases on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./python/nonrelational-db/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NoSQL vs SQL Databases</title>
+      <link>/python/nonrelational-db/nosql-vs-sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/nonrelational-db/nosql-vs-sql/</guid>
+      <description>Learning Objectives  Understanding the key differences between relational and nonrelational databases Understanding the use cases for relational vs.</description>
+    </item>
+    
+    <item>
+      <title>MongoDB and Python</title>
+      <link>/python/nonrelational-db/mongo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/nonrelational-db/mongo/</guid>
+      <description>Learning Objectives  Installing the pymongo database adapter Using pymongo to connect to/disconnect from a database Executing MongDB CRUD statements in Python to interact with database resources  Set Up We are going to show how to connect and work with MongoDB and Python.</description>
+    </item>
+    
+    <item>
+      <title>Cassandra and Python</title>
+      <link>/python/nonrelational-db/cassandra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/nonrelational-db/cassandra/</guid>
+      <description>Learning Objectives  Installing the Cassandra database adapter Using cassandra-driver to connect to/disconnect from a database Executing DDL to create a database schema Executing statements to interact with database resources  Set Up We are going to show how to connect and work with Cassandra and Python.</description>
+    </item>
+    
+    <item>
+      <title>Testing Database Interactions</title>
+      <link>/python/nonrelational-db/testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/nonrelational-db/testing/</guid>
+      <description>Learning Objectives  Testing database interactions using the Pytest Library  Testing Cassandra Interactions For testing with Cassandra, we are going to use the same SQL set up script as the Cassandra labs.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text Editors on Orange Academy</title>
+    <link>/software-eng-essentials/text-editors/</link>
+    <description>Recent content in Text Editors on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/text-editors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Text Editors</title>
+      <link>/software-eng-essentials/text-editors/intro-to-text-editors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/text-editors/intro-to-text-editors/</guid>
+      <description>One of the most important tools a software developer uses is the text editor: where they write their software programs.</description>
+    </item>
+    
+    <item>
+      <title>VS Code</title>
+      <link>/software-eng-essentials/text-editors/vs-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/text-editors/vs-code/</guid>
+      <description>The main purpose of this lesson is to get comfortable with the VS Code editor, including how to configure it, install plugins, and discover more efficient ways of editing files.</description>
+    </item>
+    
+    <item>
+      <title>Atom</title>
+      <link>/software-eng-essentials/text-editors/atom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/text-editors/atom/</guid>
+      <description>Learning Objectives The main purpose of this lesson is to get students comfortable with the Atom editor, including how to configure it, install plugins, and discover faster, more efficient ways of editing files.</description>
+    </item>
+    
+    <item>
+      <title>Lab: Test Drive Your Text Editor</title>
+      <link>/software-eng-essentials/text-editors/text-editors-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/text-editors/text-editors-labs/</guid>
+      <description>Instructions:
+ Create a directory, text-editor-labs Complete these challenges with minimal use of the mouse or trackpad  Eggs and Ham  Create a file called eggs-and-ham.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Command line and Bash Scripting on Orange Academy</title>
+    <link>/software-eng-essentials/command-line-bash/</link>
+    <description>Recent content in Command line and Bash Scripting on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/command-line-bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro</title>
+      <link>/software-eng-essentials/command-line-bash/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/intro/</guid>
+      <description>Objectives  Understand why the Unix Command Line and bash scripting are important skills What we are going to do How we are going to do it  Why learn the Unix Command Line and Bash Scripting?</description>
+    </item>
+    
+    <item>
+      <title>Basics</title>
+      <link>/software-eng-essentials/command-line-bash/basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/basics/</guid>
+      <description>Objectives  Run a terminal session Enter commands in the terminal Input/Output Use the man command Edit the line Clean up the command line  Running a terminal For our first terminal session, we simply want to identify the prompt and parts of a typical command.</description>
+    </item>
+    
+    <item>
+      <title>Manipulating files</title>
+      <link>/software-eng-essentials/command-line-bash/manipulating-files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/manipulating-files/</guid>
+      <description>Objectives  Redirecting and appending Listing Renaming, copying, deleting  Redirecting and Appending Let&amp;rsquo;s work with text from one of the oldest recorded epic poems.</description>
+    </item>
+    
+    <item>
+      <title>Inspecting Files</title>
+      <link>/software-eng-essentials/command-line-bash/inspecting-files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/inspecting-files/</guid>
+      <description>Objectives  Downloading a file Heads or Tails Less is more Grepping  Downloading A File To start we&amp;rsquo;ll download a file from the Internet using the powerful curl utility (sometimes written as &amp;ldquo;cURL&amp;rdquo;), which allows us to interact with a URL at the command line.</description>
+    </item>
+    
+    <item>
+      <title>Directories</title>
+      <link>/software-eng-essentials/command-line-bash/directories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/directories/</guid>
+      <description>:lesson-title: Command Line and Bash Scripting :tags: command line commandline cli bash shell scripting scripts :description: Learning to use the power of the command line and bash shell scripting include::vars.</description>
+    </item>
+    
+    <item>
+      <title>Customization</title>
+      <link>/software-eng-essentials/command-line-bash/customization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/customization/</guid>
+      <description>Customization  Bash profile Aliasing Commands Customizing the Prompt  Bash profile This file, which probably already exists on your system, is used to configure the shell, which is the program that supplies a command line.</description>
+    </item>
+    
+    <item>
+      <title>Bash Scripting Intro</title>
+      <link>/software-eng-essentials/command-line-bash/bash-scripting-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/bash-scripting-intro/</guid>
+      <description>Learning to use the power of the command line and bash shell scripting
+ What is a bash script?</description>
+    </item>
+    
+    <item>
+      <title>Terminal: Text Editing</title>
+      <link>/software-eng-essentials/command-line-bash/terminal-text-editing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/terminal-text-editing/</guid>
+      <description>Objectives  GNU Nano, nanu nanu! Emacs Vim  GNU Nano, nanu nanu! Nano session</description>
+    </item>
+    
+    <item>
+      <title>Escalating kill scripts</title>
+      <link>/software-eng-essentials/command-line-bash/escalating-kill-script/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/escalating-kill-script/</guid>
+      <description>Objectives  A custom escalating kill script Choose your $PATH An enhanced version of the custom kill script  Writing an executable bash script As a practical application of extending the versatile Bash shell, in this section we’re going to write a program that’s very useful: a bash script designed to kill a program as safely as possible.</description>
+    </item>
+    
+    <item>
+      <title>Scripting and receiving input</title>
+      <link>/software-eng-essentials/command-line-bash/scripting-and-receiving-input/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/scripting-and-receiving-input/</guid>
+      <description>Objectives  Command line arguments Variables Arrays User input Reading from STDIN  Command line arguments We have already created a script that receives command line arguments.</description>
+    </item>
+    
+    <item>
+      <title>Control flow loops and functions</title>
+      <link>/software-eng-essentials/command-line-bash/control-flow-loops-and-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/control-flow-loops-and-functions/</guid>
+      <description>Learning to use the power of the command line and bash shell scripting
+ Control Flow - if and case Statements Loops - while/until/for Functions select statements  if and case statements The if statement An if statement basically says, if a particular test is true, then perform a given set of actions.</description>
+    </item>
+    
+    <item>
+      <title>Subshell</title>
+      <link>/software-eng-essentials/command-line-bash/subshell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/subshell/</guid>
+      <description>Objectives  Subshell Local variables Environment variables  Subshell A subshell is a child instance of a parent shell.</description>
+    </item>
+    
+    <item>
+      <title>Regex in Bash</title>
+      <link>/software-eng-essentials/command-line-bash/bash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/bash/</guid>
+      <description>Regex in grep (egrep) Anchors    ^ $     ^Harry : Starts with the word &amp;lsquo;Harry&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Sed and Awk</title>
+      <link>/software-eng-essentials/command-line-bash/sed-and-awk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/sed-and-awk/</guid>
+      <description>Objectives  Defining SED Introduction to the AWK Language  Defining The SED command stands for &amp;ldquo;stream editor.</description>
+    </item>
+    
+    <item>
+      <title>Wildcards and Brace Expansion</title>
+      <link>/software-eng-essentials/command-line-bash/wildcards-and-brace-expansion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/wildcards-and-brace-expansion/</guid>
+      <description>Objectives  Know how to play a single wildcard The wide ranging world of brackets Using brace expansion   Know how to play a single wildcard Pattern matching example</description>
+    </item>
+    
+    <item>
+      <title>If and Functions</title>
+      <link>/software-eng-essentials/command-line-bash/if-and-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/if-and-functions/</guid>
+      <description>Objectives  If statements Tests Boolean operators Functions Passing arguments to a function Return values Overriding commands  If statements An if statement basically says, if a particular test is true, then perform a given set of actions.</description>
+    </item>
+    
+    <item>
+      <title>Logging in</title>
+      <link>/software-eng-essentials/command-line-bash/login/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/login/</guid>
+      <description>Linux Intro What Is Linux? Linux is a piece of software called the kernel.
+The kernel handles tasks such as booting the system and interacting with hardware devices.</description>
+    </item>
+    
+    <item>
+      <title>Metacharacters</title>
+      <link>/software-eng-essentials/command-line-bash/metacharacters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/metacharacters/</guid>
+      <description>Advanced Linux Commands Intro Connecting and Expanding Commands Metacharacters The shell uses metacharacters to allow commands to be strung together.</description>
+    </item>
+    
+    <item>
+      <title>Scripting Fundamentals</title>
+      <link>/software-eng-essentials/command-line-bash/scripting-fundamentals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/command-line-bash/scripting-fundamentals/</guid>
+      <description>Objectives  Command line arguments Variables User input Reading from STDIN  Command line arguments We have already created a script that receives command line arguments.</description>
+    </item>
+    
+  </channel>
+</rss>

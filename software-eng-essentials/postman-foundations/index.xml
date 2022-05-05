@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postman Foundations on Orange Academy</title>
+    <link>/software-eng-essentials/postman-foundations/</link>
+    <description>Recent content in Postman Foundations on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/postman-foundations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Postman Essentials</title>
+      <link>/software-eng-essentials/postman-foundations/getting_started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/postman-foundations/getting_started/</guid>
+      <description>Learning Objectives Concepts  Postman App Use Explanation of API&amp;rsquo;s, SOAP, and REST Making a Simple Postman Request  Postman Intro Postman is an App used for interacting with APIs.</description>
+    </item>
+    
+    <item>
+      <title>Testing API Endpoints</title>
+      <link>/software-eng-essentials/postman-foundations/testing_api_endpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/postman-foundations/testing_api_endpoints/</guid>
+      <description>Learning Objectives Concepts  Using the Postman App to exchange data with a local API Create collections of multiple API requests  Skills  Perform CRUD activities with and API resource Bundle several API requests together to create a collection  Sports Teams API To get a real sense of how Postman can be a powerful tool for interacting and testing the endpoints of an API, we will use it to test the endpoints of the Sports Teams API.</description>
+    </item>
+    
+    <item>
+      <title>Postman Essential Labs</title>
+      <link>/software-eng-essentials/postman-foundations/lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/postman-foundations/lab/</guid>
+      <description>Learning Objective  Use Postman to test the endpoints of the Store Data API  Loading the Store Data API Clone the following repository from Github: https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

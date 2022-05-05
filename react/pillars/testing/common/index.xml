@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Common Lessons on Orange Academy</title>
+    <link>/react/pillars/testing/common/</link>
+    <description>Recent content in Common Lessons on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./react/pillars/testing/common/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Testing</title>
+      <link>/react/pillars/testing/common/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/common/intro/</guid>
+      <description>Introduction to testing React applications.
+ Topics 1. In this lesson you will learn: 2. The Myriad of Testing Methods 2.</description>
+    </item>
+    
+    <item>
+      <title>Jest</title>
+      <link>/react/pillars/testing/common/jest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/common/jest/</guid>
+      <description>Using jest to test React apps.
+ 1. In this lesson you will learn:   JavaScript Testing Vocabulary</description>
+    </item>
+    
+    <item>
+      <title>Mocking</title>
+      <link>/react/pillars/testing/common/mocking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/common/mocking/</guid>
+      <description>react Mocking
+ Topics 1. In this lesson you will learn: 2. What are mocks? 3.</description>
+    </item>
+    
+  </channel>
+</rss>

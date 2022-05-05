@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fundamentals of Regex on Orange Academy</title>
+    <link>/software-eng-essentials/fundamentals-of-regex/</link>
+    <description>Recent content in Fundamentals of Regex on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/fundamentals-of-regex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Regex in Python</title>
+      <link>/software-eng-essentials/fundamentals-of-regex/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/fundamentals-of-regex/python/</guid>
+      <description>Regex in the context of Python Skills  Basics of Regex Intermediate Regex  Basics of Regex Anchors    ^ $     ^Harry : Starts with the word &amp;lsquo;Harry&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Regex in Java</title>
+      <link>/software-eng-essentials/fundamentals-of-regex/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/fundamentals-of-regex/java/</guid>
+      <description>Regex in the context of Java Skills  Basics of Regex Intermediate Regex  Basics of Regex Anchors    ^ $     ^Harry : Starts with the word &amp;lsquo;Harry&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Regex in JavaScript</title>
+      <link>/software-eng-essentials/fundamentals-of-regex/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/fundamentals-of-regex/javascript/</guid>
+      <description>During this course, feel free to use the console of a browser, jsfiddle, codepen, repl.it or a JS file in your favorite text editor.</description>
+    </item>
+    
+    <item>
+      <title>Regex in SQL</title>
+      <link>/software-eng-essentials/fundamentals-of-regex/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/fundamentals-of-regex/sql/</guid>
+      <description>Regex in the context of SQL Skills  Basics of Regex Intermediate Regex  Basics of Regex Anchors    ^ $     ^Harry : Starts with the word &amp;lsquo;Harry&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Basic Sed</title>
+      <link>/software-eng-essentials/fundamentals-of-regex/basicsed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/fundamentals-of-regex/basicsed/</guid>
+      <description>indexduction SED stands for Stream editor. It was created exclusively for executing scripts. Thus all the input you feed into it passes through and goes out to STDOUT unless piped to another command.</description>
+    </item>
+    
+    <item>
+      <title>Regex in Bash</title>
+      <link>/software-eng-essentials/fundamentals-of-regex/bash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/fundamentals-of-regex/bash/</guid>
+      <description>Regex in grep (egrep) Anchors    ^ $     ^Harry : Starts with the word &amp;lsquo;Harry&amp;rsquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

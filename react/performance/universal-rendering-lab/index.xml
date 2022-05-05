@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab: Universal Rendering on Orange Academy</title>
+    <link>/react/performance/universal-rendering-lab/</link>
+    <description>Recent content in Lab: Universal Rendering on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./react/performance/universal-rendering-lab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project Setup</title>
+      <link>/react/performance/universal-rendering-lab/project-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/performance/universal-rendering-lab/project-setup/</guid>
+      <description>Purpose: To get hands-on experience with the implementation of universal rendering.
+In this lab, we will clone down a client-side rendered application from Github and convert it to leverage universal rendering.</description>
+    </item>
+    
+    <item>
+      <title>Step 1: Create a route handler</title>
+      <link>/react/performance/universal-rendering-lab/step-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/performance/universal-rendering-lab/step-1/</guid>
+      <description>First, we need to create a route handler with Express so that we can build the document dynamically, rather than serving a static index.</description>
+    </item>
+    
+    <item>
+      <title>Step 2: Render the App markup to a string</title>
+      <link>/react/performance/universal-rendering-lab/step-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/performance/universal-rendering-lab/step-2/</guid>
+      <description>In the request handler that we just created, there is a portion of the string where we define the &amp;ldquo;root&amp;rdquo; element of our application: &amp;lt;div id=&amp;quot;root&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;.</description>
+    </item>
+    
+    <item>
+      <title>Step 3: Call the API from the server to fetch data for the app</title>
+      <link>/react/performance/universal-rendering-lab/step-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/performance/universal-rendering-lab/step-3/</guid>
+      <description>The markets aren&amp;rsquo;t getting populated because the function componentDidMount() in src/client/components/MarketList.jsx doesn&amp;rsquo;t ever get called when our app is rendered via renderToString.</description>
+    </item>
+    
+    <item>
+      <title>Step 4: Attach event listeners in the client</title>
+      <link>/react/performance/universal-rendering-lab/step-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/performance/universal-rendering-lab/step-4/</guid>
+      <description>We can use the hydrate function from react-dom to attach event listeners in the client.</description>
+    </item>
+    
+    <item>
+      <title>Step 5: Pass data from the server to the client</title>
+      <link>/react/performance/universal-rendering-lab/step-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/performance/universal-rendering-lab/step-5/</guid>
+      <description>One way that we can pass data from the server to the client is by serializing it (parsing it into a string) and including it in the response that we send to the client.</description>
+    </item>
+    
+    <item>
+      <title>Step 6: Measure performance</title>
+      <link>/react/performance/universal-rendering-lab/step-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/performance/universal-rendering-lab/step-6/</guid>
+      <description>Using the skills that we acquired in the gathering metrics lesson, let&amp;rsquo;s measure the FCP and FMP of our application now that we have implemented universal rendering.</description>
+    </item>
+    
+    <item>
+      <title>Bonus</title>
+      <link>/react/performance/universal-rendering-lab/bonus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/performance/universal-rendering-lab/bonus/</guid>
+      <description>We finished early! Is there anything else that we can do to improve the performance of our application?</description>
+    </item>
+    
+  </channel>
+</rss>

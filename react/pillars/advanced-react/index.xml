@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>More Advanced React on Orange Academy</title>
+    <link>/react/pillars/advanced-react/</link>
+    <description>Recent content in More Advanced React on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./react/pillars/advanced-react/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started</title>
+      <link>/react/pillars/advanced-react/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/advanced-react/getting-started/</guid>
+      <description>Getting Started with React and Developer Tools for React.
+ Topics 1. Learning Objectives 1.1. Concepts &amp;amp; Skills   2.</description>
+    </item>
+    
+    <item>
+      <title>React Router Advanced</title>
+      <link>/react/pillars/advanced-react/react-router-advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/advanced-react/react-router-advanced/</guid>
+      <description>Advanced patterns with React Router v4 and the Marta API.
+ Topics 1. Learning Objectives 1.</description>
+    </item>
+    
+    <item>
+      <title>React Router Advanced Solutions</title>
+      <link>/react/pillars/advanced-react/react-router-advanced-solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/advanced-react/react-router-advanced-solutions/</guid>
+      <description>Advanced patterns with React Router v4 and the Marta API.
+ Topics 1. Lab 01 - Application Setup 1.</description>
+    </item>
+    
+    <item>
+      <title>Reusable Components</title>
+      <link>/react/pillars/advanced-react/reusable-components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/advanced-react/reusable-components/</guid>
+      <description>Designing React Components for Reuse and Composition.
+ Topics 1. Learning Objectives 1.1. Concepts &amp;amp; Skills   2.</description>
+    </item>
+    
+  </channel>
+</rss>

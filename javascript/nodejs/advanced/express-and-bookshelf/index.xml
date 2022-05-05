@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Express and Bookshelf on Orange Academy</title>
+    <link>/javascript/nodejs/advanced/express-and-bookshelf/</link>
+    <description>Recent content in Express and Bookshelf on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./javascript/nodejs/advanced/express-and-bookshelf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Knex</title>
+      <link>/javascript/nodejs/advanced/express-and-bookshelf/knex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/express-and-bookshelf/knex/</guid>
+      <description>Learning Objectives Concepts  Explain how Knex simplifies access to a relational database Explain migration scripts Explain seeding a database  Skills  Writing a knexfile that defines how knex connects to a database Create database migrations scripts Create seed files Use the Knex API to create SELECT, INSERT, UPDATE, and DELETE SQL statements.</description>
+    </item>
+    
+    <item>
+      <title>Knex Movies Guided Lab</title>
+      <link>/javascript/nodejs/advanced/express-and-bookshelf/knex-movies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/express-and-bookshelf/knex-movies/</guid>
+      <description>Learning Objectives Concepts  Setting up Express and Knex  Skills  Building an applications with Express that connects to a Postgres Database using Knex Creating migration scripts Creating seeds files Calling Knex functions from route handlers  Step 0 - Getting Started In this lesson, we are going to build a sample application using:</description>
+    </item>
+    
+    <item>
+      <title>Knex Todo App</title>
+      <link>/javascript/nodejs/advanced/express-and-bookshelf/knex-todo-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/express-and-bookshelf/knex-todo-app/</guid>
+      <description>Learning Objectives Concepts  Setting up knex Migrations and seeding data Using knex in with express  Skills  Using knex in your RESTful routing Learning how to build RESTful APIS Full CRUD with a database  Big goal Your goal is to create a server that will let make calls to a database for a todo app.</description>
+    </item>
+    
+    <item>
+      <title>Bookshelf</title>
+      <link>/javascript/nodejs/advanced/express-and-bookshelf/bookshelf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/express-and-bookshelf/bookshelf/</guid>
+      <description>Learning Objectives Concepts  Object Relational Mapping Entity relationship diagramming  Skills  How to create a model using Bookshelf.</description>
+    </item>
+    
+    <item>
+      <title>Movies App with Bookshelf</title>
+      <link>/javascript/nodejs/advanced/express-and-bookshelf/bookshelf-movies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/express-and-bookshelf/bookshelf-movies/</guid>
+      <description>Bookshelf Movies This project builds off the knex-movies-express app. The aim is to use knex for migrations and bookshelf&amp;rsquo;s ORM capabilities for interacting with the database.</description>
+    </item>
+    
+    <item>
+      <title>Knex Quick Reference</title>
+      <link>/javascript/nodejs/advanced/express-and-bookshelf/knex-quick-reference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/express-and-bookshelf/knex-quick-reference/</guid>
+      <description>Knex Commands
+   Command Description     knex &amp;ndash;help Print the Knex CLI help message   knex init Create a new knexfile.</description>
+    </item>
+    
+  </channel>
+</rss>

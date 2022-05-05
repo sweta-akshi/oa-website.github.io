@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fact Sheets on Orange Academy</title>
+    <link>/javascript/foundations/cheatsheets/</link>
+    <description>Recent content in Fact Sheets on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./javascript/foundations/cheatsheets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basic JavaScript Fact Sheet</title>
+      <link>/javascript/foundations/cheatsheets/basicjs/basic-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/cheatsheets/basicjs/basic-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern JavaScript Fact Sheet</title>
+      <link>/javascript/foundations/cheatsheets/modernjs/modern-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/cheatsheets/modernjs/modern-js/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git Foundations on Orange Academy</title>
+    <link>/software-eng-essentials/git-foundations/</link>
+    <description>Recent content in Git Foundations on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/git-foundations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>History</title>
+      <link>/software-eng-essentials/git-foundations/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/history/</guid>
+      <description>Learning Objectives  Why use a system of version control History of version control How it makes life better How it could make life worse     To get the idea of why we use version control, go to why version control?</description>
+    </item>
+    
+    <item>
+      <title>History Labs</title>
+      <link>/software-eng-essentials/git-foundations/history-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/history-labs/</guid>
+      <description>Why Version control? Imagine you are part of a team that is tasked to build a bridge.</description>
+    </item>
+    
+    <item>
+      <title>Git set up</title>
+      <link>/software-eng-essentials/git-foundations/git-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/git-setup/</guid>
+      <description>Getting Started Before we can work with git, you first have to make sure you have git.</description>
+    </item>
+    
+    <item>
+      <title>Gitting Started</title>
+      <link>/software-eng-essentials/git-foundations/gitting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/gitting-started/</guid>
+      <description>git help A great resource is the help command within git itself. Simply type:
+git help A list of common commands will pop up in your terminal.</description>
+    </item>
+    
+    <item>
+      <title>Gitting Started Labs</title>
+      <link>/software-eng-essentials/git-foundations/gitting-started-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/gitting-started-labs/</guid>
+      <description>git Research In groups, you&amp;rsquo;ll be assigned to a few of the following commands:
+  git init</description>
+    </item>
+    
+    <item>
+      <title>Git Branching Out</title>
+      <link>/software-eng-essentials/git-foundations/git-branching-out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/git-branching-out/</guid>
+      <description>Branches Branching means that you diverge from the main line of development and continue to work without messing with that main line.</description>
+    </item>
+    
+    <item>
+      <title>Git Branching Out Labs</title>
+      <link>/software-eng-essentials/git-foundations/git-branching-out-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/git-branching-out-labs/</guid>
+      <description>Branch Practice  Navigate back to our git-workshop repository. List all of the branches for this repo.</description>
+    </item>
+    
+    <item>
+      <title>Gitting back together</title>
+      <link>/software-eng-essentials/git-foundations/gitting-back-together/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/gitting-back-together/</guid>
+      <description>Merging Merging allows two branches back together to be put back together by combining multiple sequences of commits into one unified history.</description>
+    </item>
+    
+    <item>
+      <title>Gitting Back Together Labs</title>
+      <link>/software-eng-essentials/git-foundations/gitting-back-together-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/gitting-back-together-labs/</guid>
+      <description>Merge Inside your existing repository (If you did not already create a repository, do so now) and checkout the master branch.</description>
+    </item>
+    
+    <item>
+      <title>GitHub Intro</title>
+      <link>/software-eng-essentials/git-foundations/intro-to-github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/intro-to-github/</guid>
+      <description>Learning Objectives Concepts  Showcase GitHub Discuss how to use GitHub effectively Explain the GitHub lingo (fork, clone, pull, etc)  Skills  Integrate GitHub&amp;rsquo;s many helpful features into your projects Understand and navigate GitHub&amp;rsquo;s UI  Collaboration Until now, we have used git locally.</description>
+    </item>
+    
+    <item>
+      <title>GitHub Intro Labs</title>
+      <link>/software-eng-essentials/git-foundations/intro-to-github-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/intro-to-github-labs/</guid>
+      <description>GitHub Interactions Class Activity  Before doing this lab, the instructor will create a repo called Zoo that has a README.</description>
+    </item>
+    
+    <item>
+      <title>Git Workflow</title>
+      <link>/software-eng-essentials/git-foundations/workflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/workflow/</guid>
+      <description>Learning Objectives  Discuss strategies for handling workflow Demonstrate GitHub flow Showcase GitHub&amp;rsquo;s Code Review options  Skills  Use GitHub Flow to tighten up your team&amp;rsquo;s development cycles Conduct collaborative code reviews    Managing your workflow with GitHub Now that you&amp;rsquo;ve mastered git and GitHub, it&amp;rsquo;s time to discuss workflow strategies.</description>
+    </item>
+    
+    <item>
+      <title>Reclaim Data</title>
+      <link>/software-eng-essentials/git-foundations/reclaim-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/reclaim-data/</guid>
+      <description>Learning Objectives  To be able to recover work you accidentally deleted  Recover a deleted line Recover a deleted file Recover a deleted branch How to avoid a detached head Cherry Picking    So you&amp;rsquo;ve ruined your life.</description>
+    </item>
+    
+    <item>
+      <title>Reclaim Data Labs</title>
+      <link>/software-eng-essentials/git-foundations/reclaim-data-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/reclaim-data-labs/</guid>
+      <description>Let&amp;rsquo;s practice reclaiming data! Before you learn how to fix stuff we have to learn how to break it.</description>
+    </item>
+    
+    <item>
+      <title>UNIX Shell Commands</title>
+      <link>/software-eng-essentials/git-foundations/unix-commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-foundations/unix-commands/</guid>
+      <description>Directory Commands    Command Description Examples     pwd print the current working directory pwd   cd change to a new directory cd ~/Downloads   ls [options] [pattern] print a listing of the current directory ls; ls -als *.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webmastery Foundations on Orange Academy</title>
+    <link>/web-essentials/webmastery-foundations/</link>
+    <description>Recent content in Webmastery Foundations on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./web-essentials/webmastery-foundations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTML Intro</title>
+      <link>/web-essentials/webmastery-foundations/html-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/html-intro/</guid>
+      <description>Learning Objectives Concepts  Explain the various parts of an HTML document, including:  the &amp;lt;head&amp;gt; and &amp;lt;body&amp;gt; tags container elements such as &amp;lt;div&amp;gt;, &amp;lt;header&amp;gt;, &amp;lt;footer&amp;gt;, &amp;lt;section&amp;gt;, and &amp;lt;article&amp;gt; common elements such as &amp;lt;h1&amp;gt;, &amp;lt;h2&amp;gt;, &amp;lt;p&amp;gt;, &amp;lt;ul&amp;gt;, and &amp;lt;li&amp;gt;   Explain the difference between HTML and the DOM  Skills  Build a simple web page using HTML Use Chrome&amp;rsquo;s Dev Tools to inspect the DOM  History   In November of 1989 Tim Berners-Lee connected Hypertext, the Transmission Control Protocol (TCP), and the domain name system ideas to create the World Wide Web to help facilitate the sharing and updating of information among researchers.</description>
+    </item>
+    
+    <item>
+      <title>HTML Intro Labs</title>
+      <link>/web-essentials/webmastery-foundations/html-intro-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/html-intro-labs/</guid>
+      <description>Create a Hello World Page  Create a new directory Create a basic html file Add a &amp;ldquo;Hello World&amp;rdquo; Header Open the html document in your browser Change &amp;ldquo;Hello World&amp;rdquo; to say &amp;ldquo;Hello World from your name&amp;rdquo;     Go to Common HTML Elements Lessons    Build a Simple Web Page Use HTML and a browser to recreate the webpage shown below.</description>
+    </item>
+    
+    <item>
+      <title>CSS Intro</title>
+      <link>/web-essentials/webmastery-foundations/css-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/css-intro/</guid>
+      <description>Learning Objectives Concepts  Define CSS Describe the role of CSS in Building Web Sites List the 3 places where CSS code can go  Skills  Style an HTML element with inline, embedded, or external CSS  Separation of Concerns There is a fundamental principle in Software Engineering that code should be organized based on a separation of concerns.</description>
+    </item>
+    
+    <item>
+      <title>Selectors and Specificity</title>
+      <link>/web-essentials/webmastery-foundations/selectors-and-specificity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/selectors-and-specificity/</guid>
+      <description>Learning Objectives Concepts  Explain the concept of CSS specificity Define &amp;ldquo;cascading&amp;rdquo; in the context of CSS specificity  Skills  Use CSS selectors to style an HTML page Use CSS specificity to apply CSS rules to specific HTML elements  Introduction Since HTML elements can have both a type (the tag) and several attributes (such as an id, a class, or a set of classes), we can use these types and attributes to select a specific DOM node or a set of specific DOM nodes.</description>
+    </item>
+    
+    <item>
+      <title>Selectors and Specificity Labs</title>
+      <link>/web-essentials/webmastery-foundations/selectors-and-specificity-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/selectors-and-specificity-labs/</guid>
+      <description>Percipio lesson on selectors   CSS: Selectors  Play CSS Diner to learn more about CSS Selectors.</description>
+    </item>
+    
+    <item>
+      <title>CSS Colors and Fonts</title>
+      <link>/web-essentials/webmastery-foundations/colors-and-fonts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/colors-and-fonts/</guid>
+      <description>Learning Objectives Concepts  Explain how CSS works with color. Explain CSS font families and fonts.</description>
+    </item>
+    
+    <item>
+      <title>Box Model</title>
+      <link>/web-essentials/webmastery-foundations/box-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/box-model/</guid>
+      <description>Learning Objectives Concepts  Describe the box model Describe the difference between block, inline, and inline-block elements  Skills  Adjust element spacing using padding and margin Create floating elements to position content removed from the standard document flow Explain the difference between and use cases of static, relative, fixed, &amp;amp; absolute positioning Create a page with multicolumn layout  Box Model Intro The CSS box model is essentially a box that wraps around every HTML element.</description>
+    </item>
+    
+    <item>
+      <title>Box Model Labs</title>
+      <link>/web-essentials/webmastery-foundations/box-model-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/box-model-labs/</guid>
+      <description>View the following on Percipio Percipio CSS Box Model
+Percipio CSS Selectors
+Peripio CSS Positioning</description>
+    </item>
+    
+    <item>
+      <title>HTML Forms</title>
+      <link>/web-essentials/webmastery-foundations/html-forms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/html-forms/</guid>
+      <description>Learning Objectives  Introduce the html form element Discuss form actions Review the attributes available to the input element  Skills  Build interactive forms Understand the available input options  Forms The HTML &amp;lt;form&amp;gt; element allows users to interact with an application.</description>
+    </item>
+    
+    <item>
+      <title>HTML Forms Labs</title>
+      <link>/web-essentials/webmastery-foundations/html-forms-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/html-forms-labs/</guid>
+      <description>Build a Basic Form Create a form that contains inputs for the following data
+ LDAP Email Years with THD Password don&amp;rsquo;t enter your actual password!</description>
+    </item>
+    
+    <item>
+      <title>Transitions and Animations</title>
+      <link>/web-essentials/webmastery-foundations/transitions-and-animations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/transitions-and-animations/</guid>
+      <description>Learning Objectives Concepts  Describe keyframe animation Compare &amp;amp; contrast using CSS and JS for animations  Skills  Use CSS Transitions to animate elements Use CSS Animations to create detailed animations  Intro In the past (before CSS3) developers had to use JavaScript and jQuery to make elements move around on the page.</description>
+    </item>
+    
+    <item>
+      <title>Transitions and Animations Labs</title>
+      <link>/web-essentials/webmastery-foundations/transitions-and-animation-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/transitions-and-animation-lab/</guid>
+      <description>Build a Smooth Accordion Here is some starter code for an accordion (taken from Paul Hayes article Creating an accordion using CSS transitions).</description>
+    </item>
+    
+    <item>
+      <title>CSS Responsive Layouts</title>
+      <link>/web-essentials/webmastery-foundations/responsive-layouts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/responsive-layouts/</guid>
+      <description>Learning Objectives Concepts  Describe the purpose of responsive layouts. Discuss the role of media queries in responsive web design.</description>
+    </item>
+    
+    <item>
+      <title>CSS Responsive Layouts Labs</title>
+      <link>/web-essentials/webmastery-foundations/responsive-layouts-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/responsive-layouts-labs/</guid>
+      <description>Follow this link to complete the exercise. The intention is to utilize what you&amp;rsquo;ve learned about responsive design and media queries to create a website with HTML and CSS: Falcon Gazette Exercise</description>
+    </item>
+    
+    <item>
+      <title>Flexbox</title>
+      <link>/web-essentials/webmastery-foundations/flexbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/flexbox/</guid>
+      <description>Learning Objectives Concepts  Give an example of a problem solved by Flexbox. Contrast flex containers and flex items.</description>
+    </item>
+    
+    <item>
+      <title>Flexbox Labs</title>
+      <link>/web-essentials/webmastery-foundations/flexbox-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/flexbox-labs/</guid>
+      <description> Complete the CSS: Using Flexbox for Layout Play Flexbox Froggy and try to complete all 24 levels Play Flexbox Defense and try to complete all 12 levels Complete the Flexbox Cats Lab  Additional Resources  Flexbox Playground The Ultimate Flexbox Cheatsheet CSS Tricks Guide to Flexbox A Visual Guide to CSS3 Flexbox Properties Solved by Flexbox Flexplorer Holy Grail Layout - Solved By Flexbox The CSS grid Module CSS Tricks&amp;rsquo; Guide to Flexbox A Visual Guide to CSS Flexbox Properties Solved by Flexbox Flexplorer  Screencasts      </description>
+    </item>
+    
+    <item>
+      <title>CSS Grid</title>
+      <link>/web-essentials/webmastery-foundations/grid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/grid/</guid>
+      <description>CSS grid layout (or CSS grid) is a technique in Cascading Style Sheets that allows web developers to create complex responsive web design layouts more easily and consistently across browsers.</description>
+    </item>
+    
+    <item>
+      <title>CSS Grid Labs</title>
+      <link>/web-essentials/webmastery-foundations/grid-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/grid-labs/</guid>
+      <description>Play CSS Garden
+Additional Resources  CSS grid container in more detail CSS grid items in more detail Things I&amp;rsquo;ve Learned About CSS Grid Layout Let&amp;rsquo;s get griddy with it Complete grid guide Create a page layout with CSS grid  </description>
+    </item>
+    
+    <item>
+      <title>Recreate Launch</title>
+      <link>/web-essentials/webmastery-foundations/recreate-launch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/recreate-launch/</guid>
+      <description>Recreate the Launch webpage in HTML and CSS For this lab, we&amp;rsquo;ll be using three visual templates to create a static responsive website.</description>
+    </item>
+    
+    <item>
+      <title>CSS Best Practices</title>
+      <link>/web-essentials/webmastery-foundations/css-best-practices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/css-best-practices/</guid>
+      <description>Introduction CSS source code can get messy in a hurry. Here we discuss a set of modern best practices for using CSS.</description>
+    </item>
+    
+    <item>
+      <title>SASS</title>
+      <link>/web-essentials/webmastery-foundations/sass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/sass/</guid>
+      <description>Learning Objectives Concepts  Describe some problems with CSS that Sass solves. Describe what a Preprocessor does.</description>
+    </item>
+    
+    <item>
+      <title>SASS Labs</title>
+      <link>/web-essentials/webmastery-foundations/sass-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/sass-labs/</guid>
+      <description>Given a div container that has 3 child divs:
+&amp;lt;body&amp;gt; &amp;lt;div class=&amp;#34;container&amp;#34;&amp;gt;Colors &amp;lt;div class=&amp;#34;red&amp;#34;&amp;gt; &amp;lt;p&amp;gt;Red&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;green&amp;#34;&amp;gt;&amp;lt;p&amp;gt;Green&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;blue&amp;#34;&amp;gt; &amp;lt;p&amp;gt;Blue&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/body&amp;gt; Using only vanilla CSS (no Sass, no Bootstrap, no Foundation) style the above HTML as follows:</description>
+    </item>
+    
+    <item>
+      <title>CSS Frameworks</title>
+      <link>/web-essentials/webmastery-foundations/frameworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/frameworks/</guid>
+      <description>Learning Objectives Concepts  Bootstrap History How to Bootstrap  Skills  How to install bootstrap on your project Become familiar with bootstrap documentation Build websites with ease  What is Front End Framework?</description>
+    </item>
+    
+    <item>
+      <title>CSS Frameworks Labs</title>
+      <link>/web-essentials/webmastery-foundations/frameworks-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/frameworks-lab/</guid>
+      <description>Create your html document
+ At the top of the &amp;lt;body&amp;gt; wrap an &amp;lt;h1&amp;gt; in a &amp;lt;div&amp;gt; and insert the content &amp;lsquo;Good Coffee Co.</description>
+    </item>
+    
+    <item>
+      <title>Intro to the DOM</title>
+      <link>/web-essentials/webmastery-foundations/dom-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/dom-intro/</guid>
+      <description>HTML &amp;amp; The DOM HTML and DOM are related but separate concepts.
+ HTML: the language used to create an HTML Web Page / Document DOM: the Document Object Model, i.</description>
+    </item>
+    
+    <item>
+      <title>DOM Manipulation and DOM Events</title>
+      <link>/web-essentials/webmastery-foundations/dom-manipulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/dom-manipulation/</guid>
+      <description>Learning Objectives Concepts  Understanding how the DOM is represented Identifying the difference between the HTML document and the DOM  Skills  Access nodes in the DOM using JavaScript Modify content in DOM (thus, the page) using JavaScript Manipulate the DOM based on an external event  The Document Object Model (DOM) is a JavaScript representation of the HTML document loaded into the browser.</description>
+    </item>
+    
+    <item>
+      <title>DOM Manipulation and DOM Events Labs</title>
+      <link>/web-essentials/webmastery-foundations/dom-manipulation-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/dom-manipulation-labs/</guid>
+      <description>Selecting Nodes &amp;lt;html&amp;gt; &amp;lt;body&amp;gt; &amp;lt;header&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li class=&amp;#34;first&amp;#34;&amp;gt;Item 1&amp;lt;/li&amp;gt; &amp;lt;li class=&amp;#34;selected&amp;#34;&amp;gt;Item 2&amp;lt;/li&amp;gt; &amp;lt;li class=&amp;#34;last&amp;#34;&amp;gt;Item 3&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/header&amp;gt; &amp;lt;div class=&amp;#34;col&amp;#34;&amp;gt; &amp;lt;section&amp;gt; &amp;lt;h2&amp;gt;Section 1&amp;lt;/h2&amp;gt; &amp;lt;/section&amp;gt; &amp;lt;section class=&amp;#34;current&amp;#34;&amp;gt; &amp;lt;h2 class=&amp;#34;highlight&amp;#34;&amp;gt;Section 2&amp;lt;/h2&amp;gt; &amp;lt;/section&amp;gt; &amp;lt;section&amp;gt; &amp;lt;h1&amp;gt;Section 3&amp;lt;/h1&amp;gt; &amp;lt;/section&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Using the above html:</description>
+    </item>
+    
+    <item>
+      <title>DOM Manipulation with jQuery</title>
+      <link>/web-essentials/webmastery-foundations/jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/jquery/</guid>
+      <description>Learning Objectives Concepts  jQuery provides simpler syntax for adding event handlers to the DOM - separating application logic from content markup  Skills  Learn how to use jQuery, a JavaScript library, to create interactive web pages Use jQuery to create event listeners Practice reading documentation  Intro jQuery is a 3rd-party library that is intended to make front-end development tasks — particularly those involving DOM selection and manipulation — easier, faster, and more fun.</description>
+    </item>
+    
+    <item>
+      <title>DOM Manipulation with jQuery Labs</title>
+      <link>/web-essentials/webmastery-foundations/jquery-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/jquery-labs/</guid>
+      <description>IMDB Following the directions below to practice using jQuery:
+ Go to IMDB IMDB uses jQuery, so we can use our Chrome developer console to manipulate the site in real time using jQuery.</description>
+    </item>
+    
+    <item>
+      <title>Templating Engines</title>
+      <link>/web-essentials/webmastery-foundations/templating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/templating/</guid>
+      <description>Template engines allows the use of static template files in a web application, making it easier to design an HTML page.</description>
+    </item>
+    
+    <item>
+      <title>Templating Engines Labs</title>
+      <link>/web-essentials/webmastery-foundations/templating-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/templating-labs/</guid>
+      <description>Create template to display a list of all the members of a team(You choose! Sports? Software?</description>
+    </item>
+    
+    <item>
+      <title>Server-side Rendering</title>
+      <link>/web-essentials/webmastery-foundations/server-side/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/server-side/</guid>
+      <description>Server-side rendering works by converting HTML files in the server into usable information for the browser.</description>
+    </item>
+    
+    <item>
+      <title>Add a Front-End to your existing API</title>
+      <link>/web-essentials/webmastery-foundations/project-add-front-end/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/project-add-front-end/</guid>
+      <description>Project Guidelines Team up with your partner from the API project and add a front-end.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PCF Foundations on Orange Academy</title>
+    <link>/cloud/platforms/pcf-foundations/</link>
+    <description>Recent content in PCF Foundations on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./cloud/platforms/pcf-foundations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deploying to PCF</title>
+      <link>/cloud/platforms/pcf-foundations/intro-to-pcf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/platforms/pcf-foundations/intro-to-pcf/</guid>
+      <description>Learning Objectives Concepts  What is PCF? The terms container and image in cloud technology The structure of Cloud Foundary: Foundations, Organizations, and Spaces.</description>
+    </item>
+    
+    <item>
+      <title>Deploying a React client app</title>
+      <link>/cloud/platforms/pcf-foundations/deploy-react-client-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/platforms/pcf-foundations/deploy-react-client-app/</guid>
+      <description>Objectives  Deploy a front-end React app Learn to configure a React client app to proxy a Node.</description>
+    </item>
+    
+    <item>
+      <title>PCF Backing Service</title>
+      <link>/cloud/platforms/pcf-foundations/pcf-backing-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/platforms/pcf-foundations/pcf-backing-service/</guid>
+      <description>Using a PCF Provided Backing Service Run the command cf marketplace. You should see a list of available services on the platform like this:</description>
+    </item>
+    
+    <item>
+      <title>Using a User Defined Service</title>
+      <link>/cloud/platforms/pcf-foundations/user-defined-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/platforms/pcf-foundations/user-defined-service/</guid>
+      <description>These instructions assume that an external database has been created for you. You should be provided with the following information about the database you are to use:</description>
+    </item>
+    
+    <item>
+      <title>PCF Deployment Checklist</title>
+      <link>/cloud/platforms/pcf-foundations/checklist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/platforms/pcf-foundations/checklist/</guid>
+      <description>.cfignore your node_modules Create a .cfignore file that specifies node_modules (a single line of text, similar to the .</description>
+    </item>
+    
+  </channel>
+</rss>

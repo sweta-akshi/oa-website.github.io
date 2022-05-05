@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Additional Resources on Orange Academy</title>
+    <link>/python/foundation/additional-resources/</link>
+    <description>Recent content in Additional Resources on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./python/foundation/additional-resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Base Conversion</title>
+      <link>/python/foundation/additional-resources/base-conversions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/additional-resources/base-conversions/</guid>
+      <description>Base Introduction Our everyday number system is a Base-10 system. The Base-10 number system is known as the decimal system and has 10 digits to show all numbers 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.</description>
+    </item>
+    
+    <item>
+      <title>Picture Manipulation</title>
+      <link>/python/foundation/additional-resources/picture-manipulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/additional-resources/picture-manipulation/</guid>
+      <description>Create a Python file called picture_manipulation.py within a PyCharm project called python-fundamentals
+Have you ever played with special photo effects on a computer?</description>
+    </item>
+    
+    <item>
+      <title>Picture Manipulation Lab</title>
+      <link>/python/foundation/additional-resources/picture-manipulation-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/additional-resources/picture-manipulation-labs/</guid>
+      <description>Picture Manipulation
+Changing Views of Images Open your Python file called changing_view.py within PyCharm. Your file should look like the following:</description>
+    </item>
+    
+    <item>
+      <title>Tkinter</title>
+      <link>/python/foundation/additional-resources/tkinter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/additional-resources/tkinter/</guid>
+      <description>Tkinter Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications.</description>
+    </item>
+    
+    <item>
+      <title>Tkinter Lab</title>
+      <link>/python/foundation/additional-resources/tkinter-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/additional-resources/tkinter-labs/</guid>
+      <description>GitHub GUI The goto way of working with GitHub is to work in the terminal. This is a great way for a user to fully understand how Git and GitHub work.</description>
+    </item>
+    
+  </channel>
+</rss>

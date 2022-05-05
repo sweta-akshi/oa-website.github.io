@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bots on Orange Academy</title>
+    <link>/python/bots/</link>
+    <description>Recent content in Bots on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./python/bots/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Slackbot</title>
+      <link>/python/bots/slackbot_intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/bots/slackbot_intro/</guid>
+      <description>Learning Objectives This is an introduction to using the Slack Client Python API to create a simple bot.</description>
+    </item>
+    
+    <item>
+      <title>Coding Our First Bot</title>
+      <link>/python/bots/coding_first_bot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/bots/coding_first_bot/</guid>
+      <description>We&amp;rsquo;ve got everything we need to write the Starter Bot code. Navigate to starterBot directory.</description>
+    </item>
+    
+    <item>
+      <title>Labs</title>
+      <link>/python/bots/bot_labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/bots/bot_labs/</guid>
+      <description>Create a class called Bot() that:
+ Gets the ID of all &amp;ldquo;bot users&amp;rdquo; Writes a message to slack channel whenever the bot is mentioned List all usernames along with any message sent by a specific user in the channel.</description>
+    </item>
+    
+  </channel>
+</rss>

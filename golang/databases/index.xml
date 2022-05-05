@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Databases on Orange Academy</title>
+    <link>/golang/databases/</link>
+    <description>Recent content in Databases on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./golang/databases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Databases and Golang</title>
+      <link>/golang/databases/database-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/databases/database-intro/</guid>
+      <description>We are going to go over how to interact with multiple databases in Go. Throughout the lessons, we are going to use a Hexagonal architecture.</description>
+    </item>
+    
+    <item>
+      <title>Relational Databases</title>
+      <link>/golang/databases/relational-databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/databases/relational-databases/</guid>
+      <description>Golang and Relational Databases The standard Golang library package database/sql provides a generic interface around SQL (or SQL-like) databases.</description>
+    </item>
+    
+    <item>
+      <title>Connecting to a Postgres Database</title>
+      <link>/golang/databases/postgres-connection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/databases/postgres-connection/</guid>
+      <description>Before you follow the rest of this lesson, make sure:
+ You have created a database called tool_rental.</description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL and Golang</title>
+      <link>/golang/databases/postgres-golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/databases/postgres-golang/</guid>
+      <description>Database Interaction Now that we have a model we can start to build logic around it.</description>
+    </item>
+    
+    <item>
+      <title>Redis Set Up</title>
+      <link>/golang/databases/redis-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/databases/redis-setup/</guid>
+      <description>If you have Homebrew installed, install Redis the following way: brew install redis Launch Redis on computer starts ln -sfv /usr/local/opt/redis/*.</description>
+    </item>
+    
+    <item>
+      <title>Redis and Golang</title>
+      <link>/golang/databases/redis-golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/databases/redis-golang/</guid>
+      <description>Redis and Golang Say now that we have an implementation done, you present the CRUD actions to the team and someone questions your choice in database.</description>
+    </item>
+    
+    <item>
+      <title>Database Migrations</title>
+      <link>/golang/databases/migrations-golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/databases/migrations-golang/</guid>
+      <description>Learning Objectives Concepts  Explain the golang-migrate package Adding migration files to a go project Use golang-migrate to create and migrate files from the command line Build a sample go script to migrate files  Golang and Database Migrations Database migrations are important for making changes to the database schema.</description>
+    </item>
+    
+  </channel>
+</rss>

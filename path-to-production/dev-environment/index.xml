@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Configure Your Development Environment on Orange Academy</title>
+    <link>/path-to-production/dev-environment/</link>
+    <description>Recent content in Configure Your Development Environment on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./path-to-production/dev-environment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Access Request Portal</title>
+      <link>/path-to-production/dev-environment/arp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/path-to-production/dev-environment/arp/</guid>
+      <description>Access Request There are two main resources to which you will need to request access before you can get far with the development of anything at The Home Depot.</description>
+    </item>
+    
+    <item>
+      <title>Tools and Editors</title>
+      <link>/path-to-production/dev-environment/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/path-to-production/dev-environment/tools/</guid>
+      <description>Tools and Editors This section covers some of the most common tools that you will need to be immediately successful here at The Home Depot.</description>
+    </item>
+    
+  </channel>
+</rss>

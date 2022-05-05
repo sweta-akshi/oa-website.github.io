@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Performance on Orange Academy</title>
+    <link>/javascript/performance/</link>
+    <description>Recent content in Web Performance on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./javascript/performance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started</title>
+      <link>/javascript/performance/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/performance/getting-started/</guid>
+      <description>Agenda How to gather performance metrics Client-side rendering Server-side rendering Universal (isomorphic) rendering Why Universal Rendering?</description>
+    </item>
+    
+    <item>
+      <title>Lab: Measure FCP and FMP</title>
+      <link>/javascript/performance/gathering-metrics-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/performance/gathering-metrics-lab/</guid>
+      <description>Purpose: To get hands-on experience with measuring the rendering performance of web applications.
+In this lab, we will be using the performance measurement tools provided by Google Chrome to take a look under the hood of several web applications and observe the impact of different rendering strategies on performance.</description>
+    </item>
+    
+    <item>
+      <title>Client-side Rendering</title>
+      <link>/javascript/performance/client-side-rendering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/performance/client-side-rendering/</guid>
+      <description>Modern web development: client-side rendering What is client-side rendering? Client-side rendering is a way to present rich data in an application, but relies on the client (rather than the server) to build the content of the webpage.</description>
+    </item>
+    
+    <item>
+      <title>Server-side Rendering</title>
+      <link>/javascript/performance/server-side-rendering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/performance/server-side-rendering/</guid>
+      <description>What is server-side rendering? Server-side rendering is one of the earliest techniques for serving web pages, and involves building a web document before it is sent to a client.</description>
+    </item>
+    
+    <item>
+      <title>Universal Rendering</title>
+      <link>/javascript/performance/universal-rendering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/performance/universal-rendering/</guid>
+      <description>What is universal rendering? Universal rendering is an approach for building web applications wherein the server provides the client with the HTML and CSS for the initial load while the client attaches event listeners to the page so that the user can interact with the application as soon as possible.</description>
+    </item>
+    
+  </channel>
+</rss>

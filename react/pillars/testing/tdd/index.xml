@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TDD with Enzyme on Orange Academy</title>
+    <link>/react/pillars/testing/tdd/</link>
+    <description>Recent content in TDD with Enzyme on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./react/pillars/testing/tdd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syllabus</title>
+      <link>/react/pillars/testing/tdd/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/tdd/syllabus/</guid>
+      <description>Learn how to do test-driven development (TDD) of React components with Enzyme.
+ Lessons  Intro to Testing</description>
+    </item>
+    
+    <item>
+      <title>Intro to TDD</title>
+      <link>/react/pillars/testing/tdd/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/tdd/intro/</guid>
+      <description>Test Driven Development
+ Topics 1. In this lesson you will learn: 2. Why Write Tests?</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Enzyme</title>
+      <link>/react/pillars/testing/tdd/enzyme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/tdd/enzyme/</guid>
+      <description>Let&amp;#8217;s get started with Enzyme
+ Topics 1. In this lesson you will learn: 2. What Is Enzyme?</description>
+    </item>
+    
+    <item>
+      <title>Lab: Gift List App Set Up</title>
+      <link>/react/pillars/testing/tdd/gift-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/tdd/gift-list/</guid>
+      <description>Gift List App Set Up
+ Topics 1. In this lesson you will learn: 2. The Demo 3.</description>
+    </item>
+    
+    <item>
+      <title>Testing Suite Structure</title>
+      <link>/react/pillars/testing/tdd/test-suite-structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/tdd/test-suite-structure/</guid>
+      <description>Testing Suite Structure
+ Topics 1. In this lesson you will learn: 2. How do you structure a test suite?</description>
+    </item>
+    
+    <item>
+      <title>Lab: Gift App, Choose your own adventure</title>
+      <link>/react/pillars/testing/tdd/gift-list-choice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/tdd/gift-list-choice/</guid>
+      <description>Gift App, Choose your own adventure
+ Topics 1. Choose your own adventure lab 1.1. Level A: I got this!</description>
+    </item>
+    
+    <item>
+      <title>Lab: Gift App, Choose your own adventure: Option A</title>
+      <link>/react/pillars/testing/tdd/gift-list-level-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/tdd/gift-list-level-a/</guid>
+      <description>Gift App, Choose your own adventure
+ 1. In this lesson you will learn:   How to turn acceptance criteria into tests</description>
+    </item>
+    
+    <item>
+      <title>Lab: Gift App, Choose your own adventure: Option B</title>
+      <link>/react/pillars/testing/tdd/gift-list-level-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/tdd/gift-list-level-b/</guid>
+      <description>Gift App, Choose your own adventure
+ 1. In this lesson you will learn:   How to turn acceptance criteria into tests</description>
+    </item>
+    
+    <item>
+      <title>How to Test Routing</title>
+      <link>/react/pillars/testing/tdd/gift-list-routing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/tdd/gift-list-routing/</guid>
+      <description>How to Test Routing
+ Topics 1. How to Test Routing 1.1. Bonus     1.</description>
+    </item>
+    
+  </channel>
+</rss>

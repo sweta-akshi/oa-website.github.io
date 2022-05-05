@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OIDC / Human to Service on Orange Academy</title>
+    <link>/application-security/api-security/02_human_to_service_oidc/</link>
+    <description>Recent content in OIDC / Human to Service on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./application-security/api-security/02_human_to_service_oidc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modern Web Applications</title>
+      <link>/application-security/api-security/02_human_to_service_oidc/10_modern-webapps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/application-security/api-security/02_human_to_service_oidc/10_modern-webapps/</guid>
+      <description>Two In One These days WebApp are really two different apps shoved together:
+ SPA - Single Page Apps.</description>
+    </item>
+    
+    <item>
+      <title>Quick Recap</title>
+      <link>/application-security/api-security/02_human_to_service_oidc/20_recap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/application-security/api-security/02_human_to_service_oidc/20_recap/</guid>
+      <description>Roles in OAuth2  Resource Owner (Human, Optional :D ) Client (Browser, iPhone, FirstPhone, Server, etc) Resource Server (Service on PCF or GCP) Authorization Server (PingFed, AzureAD, etc)  Authorization Server (AS) / Identity Provider (IdP)  The Authorization Server&amp;rsquo;s job is to handle OAuth2 requests.</description>
+    </item>
+    
+    <item>
+      <title>OpenID Connect &#43; Auth Code Grant</title>
+      <link>/application-security/api-security/02_human_to_service_oidc/30_openid-connect-auth-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/application-security/api-security/02_human_to_service_oidc/30_openid-connect-auth-code/</guid>
+      <description>Auth Code Grant Remember the Client Credentials grant for service to service? Auth Code Grant is the much larger cousin for Authorization of Humans and their clients to resource servers.</description>
+    </item>
+    
+    <item>
+      <title>Hands On Lab</title>
+      <link>/application-security/api-security/02_human_to_service_oidc/40_lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/application-security/api-security/02_human_to_service_oidc/40_lab/</guid>
+      <description>Identifying and Authorizing Users  This section covers the OIDC+Auth Code grant While not limited to browsers specifically it is the most common interaction with the flow developers and users have, but can be used with Native Mobile apps and even CLIs.</description>
+    </item>
+    
+    <item>
+      <title>Full Architecture</title>
+      <link>/application-security/api-security/02_human_to_service_oidc/50_full_architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/application-security/api-security/02_human_to_service_oidc/50_full_architecture/</guid>
+      <description>Putting together the OIDC + OAuth2 </description>
+    </item>
+    
+  </channel>
+</rss>

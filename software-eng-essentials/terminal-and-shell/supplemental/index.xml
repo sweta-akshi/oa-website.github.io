@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Additional Resources on Orange Academy</title>
+    <link>/software-eng-essentials/terminal-and-shell/supplemental/</link>
+    <description>Recent content in Additional Resources on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/terminal-and-shell/supplemental/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mac Shortcuts</title>
+      <link>/software-eng-essentials/terminal-and-shell/supplemental/mac-shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/terminal-and-shell/supplemental/mac-shortcuts/</guid>
+      <description>Mac keyboard shortcuts  Save: command + s Quit: command + q Copy: command + c Paste: command + v Force Quit: command + option +escape  Mac commands review When you need to open a program on a Mac, simply type command + spacebar and the Spotlight Search bar will appear.</description>
+    </item>
+    
+    <item>
+      <title>Liquid Prompt</title>
+      <link>/software-eng-essentials/terminal-and-shell/supplemental/liquidprompt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/terminal-and-shell/supplemental/liquidprompt/</guid>
+      <description>We can customize the appearance of our BASH prompt to include fun and/or useful information. We can do this manually but there is a very nice GitHub project called LiquidPrompt that contains all of the BASH code to provide us with a very powerful BASH prompt.</description>
+    </item>
+    
+  </channel>
+</rss>

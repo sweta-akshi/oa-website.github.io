@@ -1,0 +1,37 @@
+bbb {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+.main {
+  margin-top: 50px;   /* make room for the navbar */
+}
+.inline {
+  display: inline;
+  border: 1px solid red;
+}
+
+.block {
+  display: block;
+  border: 1px solid green;
+}
+
+.inline-block {
+  display: inline-block;
+  border: 1px solid blue;
+}
+
+navbar {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.annoying-ad {
+  position: fixed;
+  background-color: red;
+  top: 100px;
+  right: 100px;
+  text-align: center;
+  padding: 5px;
+}

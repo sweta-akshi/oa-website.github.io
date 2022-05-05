@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advanced State Management on Orange Academy</title>
+    <link>/react/pillars/advanced-state-mgmt/</link>
+    <description>Recent content in Advanced State Management on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./react/pillars/advanced-state-mgmt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syllabus</title>
+      <link>/react/pillars/advanced-state-mgmt/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/advanced-state-mgmt/syllabus/</guid>
+      <description>Advanced State Management in React
+ Topics 1. Lessons 2. Labs &amp;amp; Exercises 3. Additional Resources   1.</description>
+    </item>
+    
+    <item>
+      <title>Context and Hooks</title>
+      <link>/react/pillars/advanced-state-mgmt/context-and-hooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/advanced-state-mgmt/context-and-hooks/</guid>
+      <description>How to combine the Context API and React Hooks for State Management
+ Topics 1. Learning Objectives 1.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontend Development at THD on Orange Academy</title>
+    <link>/custom-workshops/frontend-at-thd/</link>
+    <description>Recent content in Frontend Development at THD on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./custom-workshops/frontend-at-thd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Harmony</title>
+      <link>/custom-workshops/frontend-at-thd/intro-to-components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/custom-workshops/frontend-at-thd/intro-to-components/</guid>
+      <description>Concepts and Skills  Understand why Harmony was created Use Harmony UI to discover existing components  Introduction Harmony is a UI component design system created by The Home Depot.</description>
+    </item>
+    
+    <item>
+      <title>Harmony in Practice</title>
+      <link>/custom-workshops/frontend-at-thd/harmony-in-practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/custom-workshops/frontend-at-thd/harmony-in-practice/</guid>
+      <description>Concepts and Skills  Use Harmony CLI to create a new component Use Harmony UI to document a new component  Introduction So far, we have seen how to discover components using the Harmony UI.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Experiences</title>
+      <link>/custom-workshops/frontend-at-thd/intro-to-experiences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/custom-workshops/frontend-at-thd/intro-to-experiences/</guid>
+      <description>Nucleus Why was Nucleus created? Standardization As the Online organization moved into the Squad Model, it was soon discovered that the existing applications (CPR, PIP, BASS, etc) were built very differently.</description>
+    </item>
+    
+    <item>
+      <title>JS Crash Course</title>
+      <link>/custom-workshops/frontend-at-thd/js-crash-course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/custom-workshops/frontend-at-thd/js-crash-course/</guid>
+      <description>Object Destructuring One of the many features that ES2015 (aka ES6) brought us is the Destructuring Assignment for Objects.</description>
+    </item>
+    
+    <item>
+      <title>Universal Rendering Crash Course</title>
+      <link>/custom-workshops/frontend-at-thd/universal-rendering-crash-course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/custom-workshops/frontend-at-thd/universal-rendering-crash-course/</guid>
+      <description>What is universal rendering? Universal rendering is an approach for building web applications wherein the server provides the client with the HTML and CSS for the initial load while the client attaches event listeners to the page so that the user can interact with the application as soon as possible.</description>
+    </item>
+    
+    <item>
+      <title>SASS Crash Course</title>
+      <link>/custom-workshops/frontend-at-thd/sass-crash-course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/custom-workshops/frontend-at-thd/sass-crash-course/</guid>
+      <description>Learning Objectives Concepts  Describe some problems with CSS that Sass solves. Describe what a Preprocessor does.</description>
+    </item>
+    
+  </channel>
+</rss>

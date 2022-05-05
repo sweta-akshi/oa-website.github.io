@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+#greeting {
+    width: 400px;
+    height: 400px;
+    background-color: #332532;
+    border: 8px solid #f77a52;
+    color: #f77a52;
+    font-size: 70px;
+    margin: 100px;
+    padding: 40px;
+    text-align: left;
+}
+
+#greeting:hover {
+    width: 600px;
+    height: 600px;
+    background: #cafcd8;
+    border: 20px solid #04bfbf;
+    font-family: 'Shadows Into Light', cursive;
+    color: #04bfbf;
+    font-size: 120px;
+    line-height: 1;
+    padding: 200px 60px 60px 60px;
+    text-align: right;
+}

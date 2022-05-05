@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science on Orange Academy</title>
+    <link>/software-eng-essentials/comp-sci/</link>
+    <description>Recent content in Computer Science on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/comp-sci/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programming Languages Fundamentals</title>
+      <link>/software-eng-essentials/comp-sci/programming-languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/comp-sci/programming-languages/</guid>
+      <description>Introduction The primary goal for all programming languages is to provide a language that is both:</description>
+    </item>
+    
+  </channel>
+</rss>

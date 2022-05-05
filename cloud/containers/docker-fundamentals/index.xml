@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker Fundamentals on Orange Academy</title>
+    <link>/cloud/containers/docker-fundamentals/</link>
+    <description>Recent content in Docker Fundamentals on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./cloud/containers/docker-fundamentals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Containers and Virtualization</title>
+      <link>/cloud/containers/docker-fundamentals/containers-and-virtualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/docker-fundamentals/containers-and-virtualization/</guid>
+      <description>Concepts    Explain the purpose of a Virtual Machine Explain the purpose of a Container Identify the differences between Virtual Machines and Containers List some advantages of using Containers over Virtual Machines  A Little History To best understand containers we need to first look at the history of virtualization, data centers, and cloud computing.</description>
+    </item>
+    
+    <item>
+      <title>Docker Installation</title>
+      <link>/cloud/containers/docker-fundamentals/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/docker-fundamentals/installation/</guid>
+      <description>Concepts  Installing Docker Components on a Mac Installing Docker Components on Windows Installing Docker on Server on Demand Overview of the Components  Mac Installation You have 2 options for installing Docker on a Mac:</description>
+    </item>
+    
+    <item>
+      <title>How Docker Works</title>
+      <link>/cloud/containers/docker-fundamentals/how-docker-works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/docker-fundamentals/how-docker-works/</guid>
+      <description>Objectives  Understand the difference between Images vs Containers Using Basic Docker Commands  Images vs Containers In Docker, there are images and there are containers.</description>
+    </item>
+    
+    <item>
+      <title>Docker Registries</title>
+      <link>/cloud/containers/docker-fundamentals/docker-registries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/docker-fundamentals/docker-registries/</guid>
+      <description>Objectives  How to use Docker Hub? How to use THD&amp;rsquo;s Artifactory  What Are Registries?</description>
+    </item>
+    
+    <item>
+      <title>Container Basics</title>
+      <link>/cloud/containers/docker-fundamentals/container-basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/docker-fundamentals/container-basics/</guid>
+      <description>Objectives  Understand the difference between Images vs Containers Using Basic Docker Commands What is Docker Hub Running Containers Viewing lists of containers and images Removing containers and images  Running Containers docker create [OPTIONS] IMAGE [COMMAND] [ARG.</description>
+    </item>
+    
+    <item>
+      <title>The Dockerfile</title>
+      <link>/cloud/containers/docker-fundamentals/thedockerfile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/docker-fundamentals/thedockerfile/</guid>
+      <description>Concepts  Using a docker file to create a custom image Using FROM to build from a base image Using COPY/ADD to add files to an image Using RUN to execute a command at built time Using CMD to execute a command at runtime Use Docker Build to build an image Tagging your images  What is the Dockerfile?</description>
+    </item>
+    
+    <item>
+      <title>Build Context</title>
+      <link>/cloud/containers/docker-fundamentals/build-context/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/docker-fundamentals/build-context/</guid>
+      <description>Concepts  Use a PATH or URL as a context. Filter the build context.  What is build context?</description>
+    </item>
+    
+    <item>
+      <title>Running a Service in Docker</title>
+      <link>/cloud/containers/docker-fundamentals/services-in-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/docker-fundamentals/services-in-docker/</guid>
+      <description>Concepts  Understanding Port Mappings Exposing Ports in a Container Running a container in detached mode Reattaching to a container that is in detached mode  Port Mapping Before you can run you application, you need to be sure that your application is reachable.</description>
+    </item>
+    
+    <item>
+      <title>Docker and THD Artifactory</title>
+      <link>/cloud/containers/docker-fundamentals/docker-artifactory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/docker-fundamentals/docker-artifactory/</guid>
+      <description>Using The Home Depot&amp;rsquo;s Artifactory as an Image Registry
+Objectives  How to appropriately tag your image to push to Artifactory Pushing to Artifactory  Pushing Images to THD Artifactory You will first need to tag your images appropriately in order to push.</description>
+    </item>
+    
+    <item>
+      <title>Additional Resources</title>
+      <link>/cloud/containers/docker-fundamentals/additional-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/docker-fundamentals/additional-resources/</guid>
+      <description>Additional Resources Docker Documentation
+ Docker Documentation Docker overview Docker Samples  PluralSight Courses
+ Docker and Kubernetes: The Big Picture | Pluralsight Getting Started with Docker | Pluralsight Docker Deep Dive | Pluralsight Docker Networking | Pluralsight  Youtube Videos</description>
+    </item>
+    
+  </channel>
+</rss>

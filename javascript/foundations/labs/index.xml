@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labs on Orange Academy</title>
+    <link>/javascript/foundations/labs/</link>
+    <description>Recent content in Labs on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./javascript/foundations/labs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello JavaScript Lab</title>
+      <link>/javascript/foundations/labs/hello-js-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/hello-js-lab/</guid>
+      <description>Step 1: Setup Create a directory for your labs for this course:
+cd $HOME mkdir js-foundations cd js-foundations mkdir labs cd labs Step 2: Create a JavaScript file and add some code touch hello.</description>
+    </item>
+    
+    <item>
+      <title>Expressions Lab</title>
+      <link>/javascript/foundations/labs/expressions-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/expressions-lab/</guid>
+      <description>Let&amp;rsquo;s code a Temperature Converter.
+Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch expressions.</description>
+    </item>
+    
+    <item>
+      <title>Strings Lab</title>
+      <link>/javascript/foundations/labs/strings-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/strings-lab/</guid>
+      <description>Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch strings.js Add the following code to strings.</description>
+    </item>
+    
+    <item>
+      <title>Arrays Lab</title>
+      <link>/javascript/foundations/labs/arrays-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/arrays-lab/</guid>
+      <description>Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch arrays.js Add the following code to arrays.</description>
+    </item>
+    
+    <item>
+      <title>Decisions Lab</title>
+      <link>/javascript/foundations/labs/decisions-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/decisions-lab/</guid>
+      <description>Let&amp;rsquo;s write a Tip Calculator.
+Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch tip-calculator.</description>
+    </item>
+    
+    <item>
+      <title>Iterations Lab</title>
+      <link>/javascript/foundations/labs/iterations-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/iterations-lab/</guid>
+      <description>Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch iterations.js Add the following code to iterations.</description>
+    </item>
+    
+    <item>
+      <title>Objects Lab</title>
+      <link>/javascript/foundations/labs/objects-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/objects-lab/</guid>
+      <description>Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch objects.js Add the following code to objects.</description>
+    </item>
+    
+    <item>
+      <title>Functions Lab</title>
+      <link>/javascript/foundations/labs/functions-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/functions-lab/</guid>
+      <description>Step 1: Create the JavaScript file cd $HOME/js-foundations/labs touch functions.js Step 2: Implement the fizzBuzz function  Write a function named fizzBuzz that takes a single argument The argument should be a number/integer Write a condition that determines if the argument is evenly divisible  If the argument is evenly divisible by 3 and 5 return the string &amp;ldquo;FizzBuzz&amp;rdquo; If the number can be evenly divisible by 3 return the string &amp;ldquo;Fizz&amp;rdquo; If the number is evenly divisible by 5 return the string &amp;ldquo;Buzz&amp;rdquo; If none of these conditions apply, return the number    Step 3: Test your solution Add a statement that calls your fizzBuzz function with a value, such as 3 and prints the result to the console.</description>
+    </item>
+    
+    <item>
+      <title>Arrow Functions Lab</title>
+      <link>/javascript/foundations/labs/arrow-functions-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/arrow-functions-lab/</guid>
+      <description>Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch arrow-functions.js Add the following code to arrow-functions.</description>
+    </item>
+    
+    <item>
+      <title>Modern Array Methods Lab</title>
+      <link>/javascript/foundations/labs/modern-array-methods-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/modern-array-methods-lab/</guid>
+      <description>Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch modern-array-methods.js Add the following code to modern-array-methods.</description>
+    </item>
+    
+    <item>
+      <title>Error Handling Lab</title>
+      <link>/javascript/foundations/labs/error-handling-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/error-handling-lab/</guid>
+      <description>Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch error-handling.js Add the following code to error-handling.</description>
+    </item>
+    
+    <item>
+      <title>Higher Order Functions Lab</title>
+      <link>/javascript/foundations/labs/higher-order-functions-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/higher-order-functions-lab/</guid>
+      <description>Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch higher-order-functions.js Add the following code to higher-order-functions.</description>
+    </item>
+    
+    <item>
+      <title>Closures Lab</title>
+      <link>/javascript/foundations/labs/closures-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/closures-lab/</guid>
+      <description>Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch closures.js Add the following code to closures.</description>
+    </item>
+    
+    <item>
+      <title>OOP Lab</title>
+      <link>/javascript/foundations/labs/oop-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/oop-lab/</guid>
+      <description>Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch oop.js Add the following code to oop.</description>
+    </item>
+    
+    <item>
+      <title>Classes Lab</title>
+      <link>/javascript/foundations/labs/classes-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/classes-lab/</guid>
+      <description>Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch classes.js Add the following code to classes.</description>
+    </item>
+    
+    <item>
+      <title>Promises Lab</title>
+      <link>/javascript/foundations/labs/promises-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/promises-lab/</guid>
+      <description>Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch promises.js Add the following code to promises.</description>
+    </item>
+    
+    <item>
+      <title>Async Await Lab</title>
+      <link>/javascript/foundations/labs/async-await-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/labs/async-await-lab/</guid>
+      <description>Step 1: Create the JavaScript file and Add the Starter Code cd $HOME/js-foundations/labs touch async-await.js Add the following code to async-await.</description>
+    </item>
+    
+  </channel>
+</rss>

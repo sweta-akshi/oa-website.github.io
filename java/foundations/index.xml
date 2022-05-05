@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java Foundations on Orange Academy</title>
+    <link>/java/foundations/</link>
+    <description>Recent content in Java Foundations on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./java/foundations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Java</title>
+      <link>/java/foundations/what-is-java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/what-is-java/</guid>
+      <description>Learning Objectives Concepts  Describe the various aspects of Java as a language, a runtime environment, and an ecosystem Explain the process of compiling a Java program into bytecode List some advantages of compiling a language to a bytecode Describe the roles of the JVM, the JRE, and the JDK Define the concept of Garbage Collection?</description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>/java/foundations/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/getting-started/</guid>
+      <description>Concepts  Installing the JVM, JRE, and JDK Setting your classpath IDE: IntelliJ  Skills  Configure the Java classpath Write a simple Java Program Compile and run a simple Java Program Install and run a Java IDE  Installing Java  ℹ️ The following instructions are for MacOS.</description>
+    </item>
+    
+    <item>
+      <title>Packages</title>
+      <link>/java/foundations/package/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/package/</guid>
+      <description>Learning Objectives Concepts  Package structures Package naming conventions Import statements  Skills  Organize your Java apps into packages  What is a Package A package is a group of related classes and interfaces.</description>
+    </item>
+    
+    <item>
+      <title>Primitives</title>
+      <link>/java/foundations/primitives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/primitives/</guid>
+      <description>Learning Objectives Concepts  Understanding primitive types List the primitive types  Skills  Declare variables using any of the primitive types  Variables Creating a variable has two main parts:</description>
+    </item>
+    
+    <item>
+      <title>Commenting</title>
+      <link>/java/foundations/comments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/comments/</guid>
+      <description>Learning Objectives Concepts  Line Comments Block Comments JavaDocs  Skills  Use comments to enhance code readability  Implementation Comments In general, comments are used to provide insight into a specific implementation or idea behind a block of code.</description>
+    </item>
+    
+    <item>
+      <title>Expressions</title>
+      <link>/java/foundations/expressions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/expressions/</guid>
+      <description>Learning Objectives Concepts &amp;amp; Skills  Declaring variables Arithmetic expressions and operator precedence String expressions Logic expressions  Keyword: final The modifier final makes a variable immutable which means that once it has been assigned, it cannot be reassigned.</description>
+    </item>
+    
+    <item>
+      <title>Easter Calculation Lab</title>
+      <link>/java/foundations/easter-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/easter-lab/</guid>
+      <description>Starter code for this lab can be found: here
+A convenient algorithm for determining the date of Easter in a given year was devised in 1876 and first appeared in Butcher’s Ecclesiastical Handbook.</description>
+    </item>
+    
+    <item>
+      <title>Control Flow</title>
+      <link>/java/foundations/control-flow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/control-flow/</guid>
+      <description>Learning Objectives Concepts &amp;amp; Skills  Write if/else Switch case Use a for loop for iteration Use a while loop  Algorithms There are only three necessary control structures needed to solve problems:</description>
+    </item>
+    
+    <item>
+      <title>Software Objects</title>
+      <link>/java/foundations/object/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/object/</guid>
+      <description>Learning Objectives Concepts  Object States and Behavior Fields and Methods Object Encapsulation Modularity of Code  Skills  Describe what makes an effective software object Design basic software objects  Objects Object types are not as straightforward as primitive types.</description>
+    </item>
+    
+    <item>
+      <title>Classes and Objects</title>
+      <link>/java/foundations/class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/class/</guid>
+      <description>Learning Objectives Concepts  Classes and their members (fields and methods) Object instantiations  Skills  Writing a class with custom behavior Create objects and utilize the defined behavior  Java Classes Imagine, if you will, that you&amp;rsquo;re making gingerbread cookies.</description>
+    </item>
+    
+    <item>
+      <title>Inheritance</title>
+      <link>/java/foundations/inheritance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/inheritance/</guid>
+      <description>Learning Objectives Concepts  Parent/Child relationships in Objects Using the super keyword Inheritance from the Object class  Skills  Create your own child class Utilize the special access of child to the parent Override Object methods  Inheritance Inheritance is when you are given something, passed down from (usually) a parent or grandparent in your family.</description>
+    </item>
+    
+    <item>
+      <title>Interface</title>
+      <link>/java/foundations/interface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/interface/</guid>
+      <description>Learning Objectives Concepts  Abstraction Interfaces vs Classes  Skills  Creating a Java Interface Implementing an interface  Abstraction Abstraction is the process of separating ideas from implementation.</description>
+    </item>
+    
+    <item>
+      <title>Data Structures</title>
+      <link>/java/foundations/data-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/data-structures/</guid>
+      <description>Learning Objectives Concepts &amp;amp; Skills Creating and using:
+ Arrays Lists: Array Maps: Hash   Data Structures are collections of associated data.</description>
+    </item>
+    
+    <item>
+      <title>Data Structures Advanced</title>
+      <link>/java/foundations/data-structures-advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/data-structures-advanced/</guid>
+      <description>Learning Objectives Concepts &amp;amp; Skills Creating and using:
+ Lists: Linked Stacks Queues   There are many Data Structures in Java.</description>
+    </item>
+    
+    <item>
+      <title>Exceptions</title>
+      <link>/java/foundations/exceptions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/exceptions/</guid>
+      <description>Learning Objectives Concepts &amp;amp; Skills  Define exceptions vs errors Catching exceptions   No application is bulletproof.</description>
+    </item>
+    
+    <item>
+      <title>CLI Lab</title>
+      <link>/java/foundations/cli-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/java/foundations/cli-lab/</guid>
+      <description>The goal of this lab is to create a basic Command Line Interface in Java. There are a general set of features we are looking for that you will need to include but feel free to use your creativity and knowledge to go above and beyond these requirements!</description>
+    </item>
+    
+  </channel>
+</rss>

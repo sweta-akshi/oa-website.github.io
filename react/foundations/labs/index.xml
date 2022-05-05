@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labs on Orange Academy</title>
+    <link>/react/foundations/labs/</link>
+    <description>Recent content in Labs on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./react/foundations/labs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello React</title>
+      <link>/react/foundations/labs/lab-hello-react/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/labs/lab-hello-react/</guid>
+      <description>Lab: Create your own &amp;ldquo;Hello World&amp;rdquo; React App Create a React app that introduces you.</description>
+    </item>
+    
+    <item>
+      <title>JSX Expressions</title>
+      <link>/react/foundations/labs/lab-jsx-expressions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/labs/lab-jsx-expressions/</guid>
+      <description>In this lab you will refactor a Shopping Cart App to better organize the JSX expressions.</description>
+    </item>
+    
+    <item>
+      <title>Component Props</title>
+      <link>/react/foundations/labs/lab-component-props/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/labs/lab-component-props/</guid>
+      <description>Part 1: Create a React Application to display a list of Products Using create-react-app create a new application:</description>
+    </item>
+    
+    <item>
+      <title>Component State</title>
+      <link>/react/foundations/labs/lab-component-state/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/labs/lab-component-state/</guid>
+      <description>Traffic Light Part 1 - Function Components with the useState hook Follow the Basic Instructions below using all function components</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>/react/foundations/labs/lab-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/labs/lab-events/</guid>
+      <description>Lab - Build a Simple TODO App Use create-react-app to create a TODO app with the following:</description>
+    </item>
+    
+    <item>
+      <title>Forms</title>
+      <link>/react/foundations/labs/lab-forms-calculator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/labs/lab-forms-calculator/</guid>
+      <description>A lab for working with React and forms.
+Use controlled components to build a simple form that calculates a user&amp;rsquo;s input</description>
+    </item>
+    
+    <item>
+      <title>Side Effects</title>
+      <link>/react/foundations/labs/lab-side-effects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/labs/lab-side-effects/</guid>
+      <description>In this lab you will clone an existing React project add the useEffect hook to properly fetch data from a RESTful server.</description>
+    </item>
+    
+    <item>
+      <title>Context</title>
+      <link>/react/foundations/labs/lab-context/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/labs/lab-context/</guid>
+      <description>In this lab you will be replacing Prop Drilling with the Context API.
+Instructions for the lab can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Routing</title>
+      <link>/react/foundations/labs/lab-routing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/labs/lab-routing/</guid>
+      <description>The React Music Browser App  To get more experience with React Router, we will be building a Music Browser application.</description>
+    </item>
+    
+    <item>
+      <title>Budget App</title>
+      <link>/react/foundations/labs/lab-budget-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/labs/lab-budget-app/</guid>
+      <description>A lab for working with components, props, state, and events.
+Part 1: Setup Let&amp;rsquo;s start by spinning up a react app and creating our first component.</description>
+    </item>
+    
+  </channel>
+</rss>

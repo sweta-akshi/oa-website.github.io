@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git Pillar on Orange Academy</title>
+    <link>/software-eng-essentials/git-pillars/</link>
+    <description>Recent content in Git Pillar on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/git-pillars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git Branching Out</title>
+      <link>/software-eng-essentials/git-pillars/git-branching-out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/git-branching-out/</guid>
+      <description>The following OM content has been curated to create a course with topics specific to increasing Collaboration and work Flow</description>
+    </item>
+    
+    <item>
+      <title>Git Information with git log</title>
+      <link>/software-eng-essentials/git-pillars/git-log/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/git-log/</guid>
+      <description>Git Logs git log provides the ability to see the history of commits on a repo.</description>
+    </item>
+    
+    <item>
+      <title>Git Plumbing</title>
+      <link>/software-eng-essentials/git-pillars/plumbing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/plumbing/</guid>
+      <description>Git Plumbing Just what does git do? What makes a git repository? Where is this “git database” you speak of…</description>
+    </item>
+    
+    <item>
+      <title>Rebase vs Merge</title>
+      <link>/software-eng-essentials/git-pillars/rebase-merge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/rebase-merge/</guid>
+      <description>Introduction A common question is when to rebase and when to merge?
+This is a question that should be answered by your team.</description>
+    </item>
+    
+    <item>
+      <title>Git Plumbing Labs</title>
+      <link>/software-eng-essentials/git-pillars/plumbing-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/plumbing-labs/</guid>
+      <description>Exercise 1: How Git Saves Files  Create a new folder and initialize git on it Use a text editor to create &amp;amp; save a new file.</description>
+    </item>
+    
+    <item>
+      <title>Git Hooks</title>
+      <link>/software-eng-essentials/git-pillars/hooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/hooks/</guid>
+      <description>Git Life cycle hook Once a repo is initialized it takes the default template from the locations below and copies them to the hooks folder in the .</description>
+    </item>
+    
+    <item>
+      <title>Git Filter Branch</title>
+      <link>/software-eng-essentials/git-pillars/filter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/filter/</guid>
+      <description>Learning Objectives  Remove History Remove Dead Branches  Mistakes were made Say something private (like personal email or password) was accidentally committed.</description>
+    </item>
+    
+    <item>
+      <title>Git Filter Branch Lab</title>
+      <link>/software-eng-essentials/git-pillars/filter-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/filter-lab/</guid>
+      <description>Scenario You are working on a team that is writing tests. A team member accidentally pushed private information onto GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Git Interactive Rebase</title>
+      <link>/software-eng-essentials/git-pillars/interactive-rebase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/interactive-rebase/</guid>
+      <description>Let&amp;rsquo;s clean up our messy history tree! We can actually combine and even get rid of commits of our choosing.</description>
+    </item>
+    
+    <item>
+      <title>Git Interactive Rebase Lab</title>
+      <link>/software-eng-essentials/git-pillars/interactive-rebase-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/interactive-rebase-lab/</guid>
+      <description>No hints this time
+ Open the dir you worked on in the filter-branch lesson/lab Checkout a branch with the empty commits Get rid of those commits!</description>
+    </item>
+    
+    <item>
+      <title>Git Stash</title>
+      <link>/software-eng-essentials/git-pillars/stash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/stash/</guid>
+      <description>Learning Objectives  Holding changes out of the index Putting changes back into the index Selectively stash changes out of the index  Git Stash git stash puts aside a set of commits while you commit another set.</description>
+    </item>
+    
+    <item>
+      <title>Git Stash Lab</title>
+      <link>/software-eng-essentials/git-pillars/stash-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/stash-lab/</guid>
+      <description>Stashing Lab  Create a directory and call it git-stash-lab Navigate into the git-stash-lab directory Initialize this as a git repo Create three text files: test1.</description>
+    </item>
+    
+    <item>
+      <title>Git Cherry Pick</title>
+      <link>/software-eng-essentials/git-pillars/cherry-pick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/cherry-pick/</guid>
+      <description>Learning Objectives  Isolate a diff from a specific commit Play that diff onto a current branch  Scenario If you are working on a feature branch of a product and someone creates a fixbug or hotfix to fix a bug in production, your feature branch will need to bring in that bug fix as well.</description>
+    </item>
+    
+    <item>
+      <title>Git Cherry Pick Lab</title>
+      <link>/software-eng-essentials/git-pillars/cherry-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/cherry-lab/</guid>
+      <description>The Setup  Work in the same repo as the filter practice: https://github.com/one-thd/om_labs_git-filter.git Run your favorite log to find the commit from fixbug1 that fixes bug 1.</description>
+    </item>
+    
+    <item>
+      <title>Git set up</title>
+      <link>/software-eng-essentials/git-pillars/git-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/git-setup/</guid>
+      <description>Getting Started Before we can work with git, you first have to make sure you have git.</description>
+    </item>
+    
+    <item>
+      <title>UNIX Shell Commands</title>
+      <link>/software-eng-essentials/git-pillars/unix-commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/git-pillars/unix-commands/</guid>
+      <description>Directory Commands    Command Description Examples     pwd print the current working directory pwd   cd change to a new directory cd ~/Downloads   ls [options] [pattern] print a listing of the current directory ls; ls -als *.</description>
+    </item>
+    
+  </channel>
+</rss>

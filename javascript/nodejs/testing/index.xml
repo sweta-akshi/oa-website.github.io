@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on Orange Academy</title>
+    <link>/javascript/nodejs/testing/</link>
+    <description>Recent content in Testing on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./javascript/nodejs/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing Basics</title>
+      <link>/javascript/nodejs/testing/testing-basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/testing/testing-basics/</guid>
+      <description>Learning Objectives  Why we test Types of testing Behavior Driven Development  Why We Test Testing in software is crucial, but often overlooked or misunderstood part of the process.</description>
+    </item>
+    
+    <item>
+      <title>Dependency Injection &amp; Mocks</title>
+      <link>/javascript/nodejs/testing/di-and-mocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/testing/di-and-mocks/</guid>
+      <description>Dependency Injection Dependency Injection (DI) is a pattern in software development that says you should separate dependencies form the code that uses them.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Testing</title>
+      <link>/javascript/nodejs/testing/javascript-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/testing/javascript-testing/</guid>
+      <description>Learning Objectives  Test Runners vs Assertion Common BDD test structure in JavaScript Writing tests in JavaScript &amp;amp; Jest  Test Runners vs Assertions Frameworks In modern JavaScript development (and most other languages as well) it is standard to use some tooling to assist with testing.</description>
+    </item>
+    
+    <item>
+      <title>Testing Express</title>
+      <link>/javascript/nodejs/testing/testing-express/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/testing/testing-express/</guid>
+      <description>Learning Objectives  Creating Mocks with Jest Testing an express route and middleware using nock and supertest  Creating Mocks With Jest Mocking is a powerful testing pattern use in just about all languages.</description>
+    </item>
+    
+    <item>
+      <title>Intro to TDD</title>
+      <link>/javascript/nodejs/testing/intro-to-tdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/testing/intro-to-tdd/</guid>
+      <description>Learning Objectives  What is TDD Why use TDD Approaches to TDD  What is TDD Test Driven Development (TDD) is an approach to programming where test code drives the implementation and detailed design of the production code.</description>
+    </item>
+    
+    <item>
+      <title>Intro to TDD Lab</title>
+      <link>/javascript/nodejs/testing/tdd-js-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/testing/tdd-js-lab/</guid>
+      <description>JavaScript TDD Lab This lab will require you to write both integration tests and unit tests.</description>
+    </item>
+    
+  </channel>
+</rss>

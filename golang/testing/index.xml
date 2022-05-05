@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing with Go on Orange Academy</title>
+    <link>/golang/testing/</link>
+    <description>Recent content in Testing with Go on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./golang/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Do We Test?</title>
+      <link>/golang/testing/why/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/why/</guid>
+      <description>Goals Gain an understanding why testing code is important and its benefits.
+Learning Objectives  Explore misconceptions about testing Understand the goals of testing Review the benefits of testing correctly  Misconceptions of Testing  too difficult not worth the time  Actual Benefits Reduces time to:</description>
+    </item>
+    
+    <item>
+      <title>Types of Testing</title>
+      <link>/golang/testing/types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/types/</guid>
+      <description>Goals Gain an understanding of the different types of testing.
+Learning Objectives  Ways to execute tests Explore scopes of testing Investigate classifications of testing  Executing Tests  Manual - A user runs tests via the UI, in the same fashion as a true customer would.</description>
+    </item>
+    
+    <item>
+      <title>Creating and Writing Tests</title>
+      <link>/golang/testing/creating-tests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/creating-tests/</guid>
+      <description>Learning Objectives  Intro to testing Test File Set Up Test Function Skipping Tests Sub Tests  Testing Intro Testing is an extremely important part of software engineering, ensuring quality and improve reliability.</description>
+    </item>
+    
+    <item>
+      <title>Code Coverage</title>
+      <link>/golang/testing/coverage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/coverage/</guid>
+      <description>Goals Understand the meaning of code coverage and why its important.
+Learning Objectives  What is code coverage?</description>
+    </item>
+    
+    <item>
+      <title>Using the go test command</title>
+      <link>/golang/testing/go-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/go-test/</guid>
+      <description>Learning Objectives  Identifying Existing Tests Execute a Test Running tests Recursively Running a Specific Test Short Flags Tags (Unit, Int) Args Flag Setting a Timeout Saving Test Results Generating coverage reports  Go Test The go test command is intended to be used in concert with the testing package which provides support for automating testing of Go packages.</description>
+    </item>
+    
+    <item>
+      <title>Testify Assertion</title>
+      <link>/golang/testing/testify-assertion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/testify-assertion/</guid>
+      <description>Learning Objectives  Installing testify assert methods  Life without testify Go allows for testing with its built-in testing framework.</description>
+    </item>
+    
+    <item>
+      <title>Test Driven Development</title>
+      <link>/golang/testing/tdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/tdd/</guid>
+      <description>Goals To learn what test driven development is and where to start
+Learning Objectives  What is TDD How to Start  What is TDD Test-Driven development is an incremental way to build a feature.</description>
+    </item>
+    
+    <item>
+      <title>Behavior Driven Development</title>
+      <link>/golang/testing/bdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/bdd/</guid>
+      <description>Goals Gain an understanding of what Behavior Driven Development is and how it could be accomplished.</description>
+    </item>
+    
+    <item>
+      <title>BDD with Ginkgo and Gomega</title>
+      <link>/golang/testing/go-bdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/go-bdd/</guid>
+      <description>Learning Objectives  Intro to BDD Generating tests Test Suite File Organizational functions It aliases Teardown and Setup for tests and suites  Behavioral Driven Development Behavioral Driven Development (BDD) is a software development approach that has evolved from TDD (Test Driven Development).</description>
+    </item>
+    
+    <item>
+      <title>Dependency Injection</title>
+      <link>/golang/testing/dependency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/dependency/</guid>
+      <description>Goals Understand what Dependency Injection (DI) is and why it allows for smaller, digestable units that make testing an application easier.</description>
+    </item>
+    
+    <item>
+      <title>Testing Techniques</title>
+      <link>/golang/testing/testing-techniques/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/testing-techniques/</guid>
+      <description>Goals To delve into techniques that are considered standard in the Go community.
+Learning Objectives  Comparing Types and Collections Dependency Injection in Go   Comparing Types and Collections When comparing two types we have to keep in mind that Go is pass by value.</description>
+    </item>
+    
+    <item>
+      <title>Mocking, Stubbing, and Spying</title>
+      <link>/golang/testing/mocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/mocks/</guid>
+      <description>Goals Understand what mocks, stubs, and spies are and how to use them.
+Learning Objectives  What are mocks, stubs, and spies When and how to use them  What are Mocks, Stubs, and Spies To best understand mocks, stubs, and spies a proper understanding of Dependency Injection is needed.</description>
+    </item>
+    
+    <item>
+      <title>Golang Mocks, Stubs and Spies</title>
+      <link>/golang/testing/go-mock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/go-mock/</guid>
+      <description>Objectives  Rehash of Dependency Injection and how its important to Mocks, Stubs and Spies Why using mocking The difference between a mock and a stub Generating mocks, stubs and spies with:  Go&amp;rsquo;s built-in mock package gomock&amp;rsquo;s mockgen testify&amp;rsquo;s mock package    Goals Become familiar with stubs, mocks, and spies.</description>
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>/golang/testing/future-additions/performance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/golang/testing/future-additions/performance/</guid>
+      <description>Benchmarking Tests func BenchmarkCalculate(b *testing.B){ ... Ran with: go test -bench
+Capping CPU Usage During Test Note: We&amp;rsquo;re going to use benchmarking in the next couple of topics as it can clearly demonstrate the concepts being covered, but rest assured, benchmarking will have its own lesson.</description>
+    </item>
+    
+  </channel>
+</rss>

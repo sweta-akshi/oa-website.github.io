@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React Testing Library on Orange Academy</title>
+    <link>/react/pillars/testing/react-testing-library/</link>
+    <description>Recent content in React Testing Library on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./react/pillars/testing/react-testing-library/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syllabus</title>
+      <link>/react/pillars/testing/react-testing-library/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/react-testing-library/syllabus/</guid>
+      <description>Learn how to test React components with the React Testing Library
+ Lessons Testing and Tools  Intro to Testing</description>
+    </item>
+    
+    <item>
+      <title>Introduction to RTL</title>
+      <link>/react/pillars/testing/react-testing-library/rtl-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/react-testing-library/rtl-intro/</guid>
+      <description>Introduction to the React Testing Library Kent C. Dodds created the React Testing Library to address one problem:</description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>/react/pillars/testing/react-testing-library/rtl-getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/react-testing-library/rtl-getting-started/</guid>
+      <description>Getting Started If you are using the latest version of create-react-app and its react-scripts dependency then jest and react-testing-library are already setup for you.</description>
+    </item>
+    
+    <item>
+      <title>Testing Presentational Components</title>
+      <link>/react/pillars/testing/react-testing-library/rtl-presentational-components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/react-testing-library/rtl-presentational-components/</guid>
+      <description>Introduction  The easiest and most common component to test is the presentational component. Recall that there are generally 2 kinds of React components:  Presentational Components - only depend on the props being passed into them Container Components - have state (memory) that is managed by React (setState, useState, or useReducer) or a 3rd party library such as redux or mobx    Testing the Product Component Our first component to test is the Product component at client/src/components/product/Product.</description>
+    </item>
+    
+    <item>
+      <title>Testing Generic Components</title>
+      <link>/react/pillars/testing/react-testing-library/rtl-generic-components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/react-testing-library/rtl-generic-components/</guid>
+      <description>Introduction  Generic Components are components that are intended to be reused throughout your application. They can easily be tested as they will not have dependencies on other components in your project (thus making them generic and reusable).</description>
+    </item>
+    
+    <item>
+      <title>Testing Forms</title>
+      <link>/react/pillars/testing/react-testing-library/rtl-forms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/react-testing-library/rtl-forms/</guid>
+      <description>Introduction Forms in React generally have these characteristics:
+ a &amp;lt;form&amp;gt; HTML element that contains one or more &amp;lt;input&amp;gt; elements a &amp;lt;submit&amp;gt; input or button that submits the form state variables that track the state of each input element inside the form a callback to invoke when submitting the form some form validation logic - an invalid form state may mean the submit button is disabled  Our ProductForm component has all of these characteristics, so let&amp;rsquo;s get to testing them.</description>
+    </item>
+    
+    <item>
+      <title>Testing Custom Hooks</title>
+      <link>/react/pillars/testing/react-testing-library/rtl-custom-hooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/react-testing-library/rtl-custom-hooks/</guid>
+      <description>Introduction  A custom hook is simply a function that uses other React hooks in its implementation.</description>
+    </item>
+    
+    <item>
+      <title>Testing Routes</title>
+      <link>/react/pillars/testing/react-testing-library/rtl-routes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/react-testing-library/rtl-routes/</guid>
+      <description>Introduction  The react-router library provides dynamic routing for React Applications, resulting in a SPA experience for the user.</description>
+    </item>
+    
+    <item>
+      <title>RTL Cheat Sheet</title>
+      <link>/react/pillars/testing/react-testing-library/rtl-cheat-sheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/testing/react-testing-library/rtl-cheat-sheet/</guid>
+      <description>This Cheatsheet was taken from RTL Cheatsheet (Printable PDF).
+ For a more detailed cheatsheet, see: RTL Cheatsheet.</description>
+    </item>
+    
+  </channel>
+</rss>

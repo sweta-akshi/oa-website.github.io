@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Additional Testing Material on Orange Academy</title>
+    <link>/python/testing/additional-material/</link>
+    <description>Recent content in Additional Testing Material on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./python/testing/additional-material/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up Pytest with PyCharm</title>
+      <link>/python/testing/additional-material/pytest-pycharm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/testing/additional-material/pytest-pycharm/</guid>
+      <description>Adding pytest to pycharm project To add pytest to your Pycharm Project goto:
+ PyCharm &amp;gt; Preferences &amp;gt; Tools &amp;gt; Python Integrated Tools &amp;gt; Testing.</description>
+    </item>
+    
+    <item>
+      <title>Unit Tests</title>
+      <link>/python/testing/additional-material/unit-tests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/testing/additional-material/unit-tests/</guid>
+      <description>Introducing Unit Testing in Python Using the unittest module Let&amp;rsquo;s see what a unit and tests look like as a whole:</description>
+    </item>
+    
+    <item>
+      <title>Unit Test Labs</title>
+      <link>/python/testing/additional-material/unit-tests-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/testing/additional-material/unit-tests-labs/</guid>
+      <description>Write a unit test Take the age calculator we created previously, and write a test for it.</description>
+    </item>
+    
+  </channel>
+</rss>

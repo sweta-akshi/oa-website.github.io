@@ -1,0 +1,362 @@
+{
+	"id": "e76e395a-7ab7-422a-98aa-191d773d91c7",
+	"name": "Sports Teams API Endpoint Test",
+	"allTests": [],
+	"timestamp": "2018-10-03T18:11:47.187Z",
+	"collection_id": "cabb9396-0ac2-4b4b-bf99-b784f946d3ef",
+	"folder_id": 0,
+	"target_type": "collection",
+	"environment_id": "0",
+	"data": [],
+	"delay": 0,
+	"count": 1,
+	"collection": {
+		"id": "cabb9396-0ac2-4b4b-bf99-b784f946d3ef",
+		"name": "Sports Teams API Endpoint Test",
+		"description": "Testing the endpoints of Sports Teams API.  ",
+		"auth": null,
+		"events": null,
+		"variables": [],
+		"order": [
+			"d7996905-7f3d-46d0-9bd0-d36f34ede1a9",
+			"053a2c75-e471-4e41-b50e-bdc3a58013c7",
+			"b12a7e6e-13df-4481-8ace-53f612fcd50e",
+			"752f9689-f8c4-4cc3-9352-48819bba9fb7",
+			"e4152d34-694f-4103-9203-392d190cb7fc",
+			"85f021fa-8e5a-4ea1-8bee-166dc1f80cc5",
+			"713c9c7b-e5d7-4c34-998c-fbcf434a6a25",
+			"91258cb0-e1eb-4d1e-98ae-6432a05dbfe3"
+		],
+		"folders_order": [],
+		"owner": "5282521",
+		"permissions": {},
+		"favorite": false,
+		"shared": false,
+		"type": "collection",
+		"depth": 0
+	},
+	"folder": null,
+	"environment": null,
+	"globals": [],
+	"results": [
+		{
+			"name": "Get All Teams",
+			"id": "d7996905-7f3d-46d0-9bd0-d36f34ede1a9",
+			"url": "http://localhost:3000/api/teams",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {},
+			"times": [
+				"15"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "15",
+			"totalRequestTime": "15",
+			"iterationResults": {}
+		},
+		{
+			"name": "Get One Team",
+			"id": "053a2c75-e471-4e41-b50e-bdc3a58013c7",
+			"url": "http://localhost:3000/api/teams/10",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {},
+			"times": [
+				"3"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "3",
+			"totalRequestTime": "3",
+			"iterationResults": {}
+		},
+		{
+			"name": "Get a specific league",
+			"id": "b12a7e6e-13df-4481-8ace-53f612fcd50e",
+			"url": "http://localhost:3000/api/teams/league/NBA",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {},
+			"times": [
+				"3"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "3",
+			"totalRequestTime": "3",
+			"iterationResults": {}
+		},
+		{
+			"name": "Get teams from a specific state",
+			"id": "752f9689-f8c4-4cc3-9352-48819bba9fb7",
+			"url": "http://localhost:3000/api/state/Texas",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {},
+			"times": [
+				"3"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "3",
+			"totalRequestTime": "3",
+			"iterationResults": {}
+		},
+		{
+			"name": "Get teams from a specific state in a specific league",
+			"id": "e4152d34-694f-4103-9203-392d190cb7fc",
+			"url": "http://localhost:3000/api/state/Texas/MLB",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {},
+			"times": [
+				"3"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "3",
+			"totalRequestTime": "3",
+			"iterationResults": {}
+		},
+		{
+			"name": "PUT change to team name",
+			"id": "85f021fa-8e5a-4ea1-8bee-166dc1f80cc5",
+			"url": "http://localhost:3000/api/teams/9",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 201,
+				"name": "Created",
+				"detail": {
+					"name": "Created",
+					"detail": "The request has been fulfilled and resulted in a new resource being created."
+				}
+			},
+			"testPassFailCounts": {},
+			"times": [
+				"10"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "10",
+			"totalRequestTime": "10",
+			"iterationResults": {}
+		},
+		{
+			"name": "Add a team to the database",
+			"id": "713c9c7b-e5d7-4c34-998c-fbcf434a6a25",
+			"url": "http://localhost:3000/api/teams/",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 201,
+				"name": "Created",
+				"detail": {
+					"name": "Created",
+					"detail": "The request has been fulfilled and resulted in a new resource being created."
+				}
+			},
+			"testPassFailCounts": {},
+			"times": [
+				"7"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "7",
+			"totalRequestTime": "7",
+			"iterationResults": {}
+		},
+		{
+			"name": "Delete a team to the database",
+			"id": "91258cb0-e1eb-4d1e-98ae-6432a05dbfe3",
+			"url": "http://localhost:3000/api/teams/10",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content",
+				"detail": {
+					"name": "No Content",
+					"detail": "The server successfully processed the request, but is not returning any content."
+				}
+			},
+			"testPassFailCounts": {},
+			"times": [
+				"2"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "2",
+			"totalRequestTime": "2",
+			"iterationResults": {}
+		}
+	],
+	"totalPass": 0,
+	"totalFail": 0,
+	"totalTime": 46,
+	"lifecycle": "done",
+	"requests": [
+		{
+			"name": "Get All Teams",
+			"id": "d7996905-7f3d-46d0-9bd0-d36f34ede1a9",
+			"url": "http://localhost:3000/api/teams",
+			"time": "2018-10-03T18:11:47.187Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "Get One Team",
+			"id": "053a2c75-e471-4e41-b50e-bdc3a58013c7",
+			"url": "http://localhost:3000/api/teams/10",
+			"time": "2018-10-03T18:11:47.187Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "Get a specific league",
+			"id": "b12a7e6e-13df-4481-8ace-53f612fcd50e",
+			"url": "http://localhost:3000/api/teams/league/NBA",
+			"time": "2018-10-03T18:11:47.187Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "Get teams from a specific state",
+			"id": "752f9689-f8c4-4cc3-9352-48819bba9fb7",
+			"url": "http://localhost:3000/api/state/Texas",
+			"time": "2018-10-03T18:11:47.187Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "Get teams from a specific state in a specific league",
+			"id": "e4152d34-694f-4103-9203-392d190cb7fc",
+			"url": "http://localhost:3000/api/state/Texas/MLB",
+			"time": "2018-10-03T18:11:47.187Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "PUT change to team name",
+			"id": "85f021fa-8e5a-4ea1-8bee-166dc1f80cc5",
+			"url": "http://localhost:3000/api/teams/9",
+			"time": "2018-10-03T18:11:47.187Z",
+			"responseCode": {
+				"code": 201,
+				"name": "Created",
+				"detail": {
+					"name": "Created",
+					"detail": "The request has been fulfilled and resulted in a new resource being created."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "Add a team to the database",
+			"id": "713c9c7b-e5d7-4c34-998c-fbcf434a6a25",
+			"url": "http://localhost:3000/api/teams/",
+			"time": "2018-10-03T18:11:47.187Z",
+			"responseCode": {
+				"code": 201,
+				"name": "Created",
+				"detail": {
+					"name": "Created",
+					"detail": "The request has been fulfilled and resulted in a new resource being created."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "Delete a team to the database",
+			"id": "91258cb0-e1eb-4d1e-98ae-6432a05dbfe3",
+			"url": "http://localhost:3000/api/teams/10",
+			"time": "2018-10-03T18:11:47.187Z",
+			"responseCode": {
+				"code": 204,
+				"name": "No Content",
+				"detail": {
+					"name": "No Content",
+					"detail": "The server successfully processed the request, but is not returning any content."
+				}
+			},
+			"testPassFailCounts": {}
+		}
+	],
+	"synced": false
+}

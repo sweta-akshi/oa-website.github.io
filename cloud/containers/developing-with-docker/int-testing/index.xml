@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Integration Testing on Orange Academy</title>
+    <link>/cloud/containers/developing-with-docker/int-testing/</link>
+    <description>Recent content in Integration Testing on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./cloud/containers/developing-with-docker/int-testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction</title>
+      <link>/cloud/containers/developing-with-docker/int-testing/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/developing-with-docker/int-testing/intro/</guid>
+      <description>Concepts  Review TDD and BDD concepts Define Integration Testing Demo integration testing from app in container to a dependent app in a different container Demo integration testing from app in container to a database in a container  Introduction In this course we will be learning about how Docker and docker-compose can assist us with integration testing.</description>
+    </item>
+    
+    <item>
+      <title>Docker Volumes</title>
+      <link>/cloud/containers/developing-with-docker/int-testing/volumes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/developing-with-docker/int-testing/volumes/</guid>
+      <description>Concepts  Describe how volumes allow containers to persisting data Compare bind mounts vs. docker volumes Explain how to create a volume Describe how volumes can be shared between containers  Persisting Data For the most part docker containers are ephimeral.</description>
+    </item>
+    
+    <item>
+      <title>Containerizing Persistent Data Sources</title>
+      <link>/cloud/containers/developing-with-docker/int-testing/data-sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/developing-with-docker/int-testing/data-sources/</guid>
+      <description>Concepts  List some purposes for containerizing data sources Explain how containerizing a data source helps with testing Write a Dockerfile to containerize a data source Use environment variables to configure a containerized data source Seed a database as part of a docker build Clean up data source volumes  Why Containerize a Data Source?</description>
+    </item>
+    
+    <item>
+      <title>Docker Networks</title>
+      <link>/cloud/containers/developing-with-docker/int-testing/networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/developing-with-docker/int-testing/networks/</guid>
+      <description>Concepts  Describe how Docker networks allow containers to communicate Explain the default network Explain named networks and how they differ from the default network  Introduction Docker networks:</description>
+    </item>
+    
+    <item>
+      <title>Docker Compose</title>
+      <link>/cloud/containers/developing-with-docker/int-testing/docker-compose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/developing-with-docker/int-testing/docker-compose/</guid>
+      <description>Concepts  Describe how Docker Compose allows for connecting multiple containers (services) for intercommunication Explain the purpose of the docker-compose.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Frameworks on Orange Academy</title>
+    <link>/python/web-framework/</link>
+    <description>Recent content in Web Frameworks on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./python/web-framework/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Django Introduction</title>
+      <link>/python/web-framework/django_intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/web-framework/django_intro/</guid>
+      <description>What is Django ¶ Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.</description>
+    </item>
+    
+    <item>
+      <title>Django Databases</title>
+      <link>/python/web-framework/django_db/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/web-framework/django_db/</guid>
+      <description>Next we&amp;rsquo;re going to create the database for our application, but first we will create the the Models or database tables our application will use.</description>
+    </item>
+    
+    <item>
+      <title>Interacting with the API</title>
+      <link>/python/web-framework/django_db_api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/web-framework/django_db_api/</guid>
+      <description>Now, let’s hop into the interactive Python shell and play around with the free API Django gives you.</description>
+    </item>
+    
+    <item>
+      <title>Customizing Views</title>
+      <link>/python/web-framework/django_views/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/web-framework/django_views/</guid>
+      <description>Overview A view is a “type” of Web page in your Django application that generally serves a specific function and has a specific template.</description>
+    </item>
+    
+    <item>
+      <title>Generic Views</title>
+      <link>/python/web-framework/django_generic_views/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/web-framework/django_generic_views/</guid>
+      <description>Less code is better The stores() view is very simple – and, as mentioned above, redundant.</description>
+    </item>
+    
+    <item>
+      <title>Django Admin</title>
+      <link>/python/web-framework/django_admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/web-framework/django_admin/</guid>
+      <description>Philosophy Generating admin sites for your staff or clients to add, change, and delete content is tedious work that doesn’t require much creativity.</description>
+    </item>
+    
+    <item>
+      <title>Django Testing</title>
+      <link>/python/web-framework/django_testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/web-framework/django_testing/</guid>
+      <description>Why Test!?! We don&amp;rsquo;t need to stress the importance of testing your code, but if you need an explanation go here</description>
+    </item>
+    
+    <item>
+      <title>THD Style Guide</title>
+      <link>/python/web-framework/thd_api_and_ux/thd_style_guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/web-framework/thd_api_and_ux/thd_style_guide/</guid>
+      <description>THD Style Guide Set Up You can find Home Depot&amp;rsquo;s style guide for HTML, CSS and JavaScript here.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,218 @@
+/* this is a test */
+#body a.highlight:after {
+    background-color: #fff;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px !important;
+}
+.anchor {
+    color: #f96302;
+}
+.footline {
+    display: none;
+}
+/* Hiding the breadcrumb menu on top bar */
+#body #breadcrumbs {
+    display: none;
+}
+#top-bar {
+    width: fit-content;
+    position: relative;
+    float: right;
+    margin: 2.75rem 0rem 1rem 0rem;
+}
+h1 {
+    text-align: left !important;
+    text-transform: none;
+    font-size: 4rem !important;
+}
+
+/*
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+    line-height: 4rem;
+    margin: 2.25rem 0 0 0;
+    text-transform: none;
+    text-align: left !important;
+    color: #404040;
+}
+h3 {
+    font-family: 'Open Sans', sans-serif !important;
+    color: #404040 !important;
+    font-size: 22px !important;
+}
+h4 {
+    font-size: 20px !important;
+}
+*/
+
+/* Override of rule from THD UX Styleguide */
+h5 {
+    text-transform: none;
+}
+
+
+/* Hiding the dropdown carats */
+.fa-fw {
+    display: none;
+}
+/* Shadow border on sidebar */
+/* .highlightable {
+    box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.1);
+} */
+/* Shadow border on header above sidebar */
+/* #header-wrapper {
+    box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.1);
+} */
+/* Begin sidebar adjustments */
+#sidebar {
+    background-color: #fff;
+}
+#sidebar hr {
+    display: none;
+}
+#sidebar a {
+    color: #404040 !important;
+    padding-left: 0 !important;
+}
+
+#header-logo a {
+    color: #f96302 !important;
+    border: 2px solid #fff !important;
+    height: 57px !important;
+    width: 56px !important;
+    display: inline-block !important;
+    margin-bottom: 20px !important;
+    background: #fff !important;
+    font-size: 52px !important;
+}
+
+#header-logo a:link, a:visited {
+    font-size: 52px !important;
+    color: #f96302 !important;
+}
+
+#sidebar ul.topics {
+    margin-top: 1.5rem;
+    margin-left: 1.5rem;
+}
+
+/* To hide the navigation folder chevrons
+  #sidebar .category-icon {
+    display: none !important;
+  }
+*/
+
+#sidebar ul.topics ul {
+    padding-bottom: 0;
+}
+#sidebar ul.topics > li.parent,
+#sidebar ul.topics > li.active {
+    background: #fff !important;
+    margin-left: 0;
+    padding-left: 0;
+}
+#sidebar ul li li {
+    padding-left: 0;
+    margin-left: 1rem;
+    text-indent: 0;
+}
+#sidebar ul li {
+    margin-left: 0;
+    margin-top: 0.5rem;
+}
+#sidebar .parent li,
+#sidebar .active li {
+    border-left: none;
+}
+/* Will need to update these links when uploaded */
+#sidebar ul li a[href$='/designguide/'],
+#sidebar ul li a[href$='/health/'],
+#sidebar ul li a[href$='/services/'] {
+    font-weight: 700;
+    color: #404040 !important;
+}
+#sidebar ul li a[href$='/designguide/']:hover,
+#sidebar ul li a[href$='/health/']:hover,
+#sidebar ul li a[href$='/services/']:hover {
+    font-weight: 700;
+    color: #b5b5b5 !important;
+}
+#sidebar ul li.active > div > a,
+#sidebar ul li.parent > div > a {
+    color: #f96302 !important;
+}
+/* End sidebar */
+
+#header-wrapper {
+    border-bottom-color: #fff;
+    background-color: #fff;
+    padding: 0;
+}
+#header {
+    /* background-color: #000000; */
+    padding-top: 1.8rem;
+    padding-bottom: 1.8rem;
+    padding-right: 0.3rem;
+    padding-left: 0.3rem;
+    /* box-shadow: 0px 4px 9px 2px rgba(0, 0, 0, 0.12); */
+}
+#header p {
+    margin-top: 0;
+}
+.searchbox {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+    background-color: #fff;
+    border: none;
+    outline: #e6e6e6 2px solid;
+    outline-offset: 3px;
+}
+.searchbox span {
+    color: #f48120;
+}
+.searchbox input::-webkit-input-placeholder {
+    color: #cccccc;
+}
+.searchbox input {
+    color: #404040;
+    box-shadow: none;
+}
+.searchbox input:focus {
+    color: #404040;
+    box-shadow: none;
+    border: none;
+}
+.searchbox label {
+    color: #f48120;
+}
+.iconOperational {
+    color: #00ae4d;
+}
+.iconDegrade {
+    color: #ffc20e;
+}
+.iconMajor {
+    color: #ed1c24;
+}
+.iconUnknown {
+    color: grey;
+}
+
+/* this breaks AsciiDoc admonition blocks
+  .icon {
+    font-size: 22px;
+    margin-top: 2px;
+    float: right;
+  }
+  */
+
+::selection {
+    background: #f96302;
+    color: #fff; /* WebKit/Blink Browsers */
+}

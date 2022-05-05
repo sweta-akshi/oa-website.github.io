@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile Foundations on Orange Academy</title>
+    <link>/software-eng-essentials/agile-lean/</link>
+    <description>Recent content in Agile Foundations on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/agile-lean/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to the Agile Process</title>
+      <link>/software-eng-essentials/agile-lean/intro-to-agile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/agile-lean/intro-to-agile/</guid>
+      <description>Learning Objectives  Describe the Waterfall Process and why it isn&amp;rsquo;t suitable for most software products.</description>
+    </item>
+    
+    <item>
+      <title>Minimum Viable Product (MVP)</title>
+      <link>/software-eng-essentials/agile-lean/mvp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/agile-lean/mvp/</guid>
+      <description>Learning Objectives  Define MVP Describe the benefits of building an MVP List some uses of building an MVP  Definition of MVP The concept of an MVP:</description>
+    </item>
+    
+    <item>
+      <title>Scrum &amp; Kanban</title>
+      <link>/software-eng-essentials/agile-lean/scrum_and_kanban/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/agile-lean/scrum_and_kanban/</guid>
+      <description>Learning Objectives  Describe the Scrum Process and sprints Describe the Kanban Process and pull Compare Scrum and Kanban List and describe the Agile ceremonies commonly used in Agile Development Describe Scrum and Kanban Boards  What are Scrum and Kanban?</description>
+    </item>
+    
+    <item>
+      <title>User Stories</title>
+      <link>/software-eng-essentials/agile-lean/user-stories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/agile-lean/user-stories/</guid>
+      <description>Learning Objectives  Describe User Stories and their benefits List some benefits of User Stories Write a User Story that follows the INVEST criteria Describe Epics and Themes  Some History User stories:</description>
+    </item>
+    
+  </channel>
+</rss>

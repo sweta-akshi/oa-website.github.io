@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal &amp; Shell on Orange Academy</title>
+    <link>/software-eng-essentials/terminal-and-shell/</link>
+    <description>Recent content in Terminal &amp; Shell on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/terminal-and-shell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Unix (optional)</title>
+      <link>/software-eng-essentials/terminal-and-shell/intro-to-unix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/terminal-and-shell/intro-to-unix/</guid>
+      <description>Learning Objectives  Explain the advantages of the UNIX operating systems Compare and contrast CLIs to GUIs Explain how command line usage can increase efficiency Explain the difference between the Terminal and the Shell  What is an Operating System?</description>
+    </item>
+    
+    <item>
+      <title>Intro to the CLI</title>
+      <link>/software-eng-essentials/terminal-and-shell/intro-to-cli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/terminal-and-shell/intro-to-cli/</guid>
+      <description>Learning Objectives  Compare and contrast CLIs to GUIs Explain how command line usage can increase efficiency Explain the difference between the Terminal and the Shell  What is a Command Line Interface?</description>
+    </item>
+    
+    <item>
+      <title>CLI - Getting Started</title>
+      <link>/software-eng-essentials/terminal-and-shell/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/terminal-and-shell/getting-started/</guid>
+      <description>Learning Objectives  How to start a terminal session Understanding the role of the Terminal and the Shell Executing basic commands Using man pages Chaining and Piping commands  Starting a Terminal Session Recall that the Terminal is a window where we can interact with the computer using a Command Line Interface.</description>
+    </item>
+    
+    <item>
+      <title>Input, Output, and Streams</title>
+      <link>/software-eng-essentials/terminal-and-shell/input-output-streams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/terminal-and-shell/input-output-streams/</guid>
+      <description>Input/Output In computer programming, input/output (or I/O) is the communication between computers and the outside world.</description>
+    </item>
+    
+    <item>
+      <title>Navigating the File System</title>
+      <link>/software-eng-essentials/terminal-and-shell/navigating-file-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/terminal-and-shell/navigating-file-system/</guid>
+      <description>Learning Objectives  What is a file system Understanding Files and Directories Relative and Absolute Paths The Home Directory and Getting Home The pwd command Listing directory contents with the ls command  What is The File System?</description>
+    </item>
+    
+    <item>
+      <title>Managing the File System</title>
+      <link>/software-eng-essentials/terminal-and-shell/managing-file-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/terminal-and-shell/managing-file-system/</guid>
+      <description>Learning Objectives  Managing directories - the mkdir, rmdir, and rm -r commands Managing Files - the touch, cp commands Moving and Renaming Files and Directories - the mv command Copying Files and Directories - the cp command Removing Files - the rm command Viewing file contents - cat, more or less, head and tail Searching files - grep  Creating Directories  The command to create a directory is mkdir (make directory).</description>
+    </item>
+    
+    <item>
+      <title>File Permissions</title>
+      <link>/software-eng-essentials/terminal-and-shell/file-permissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/terminal-and-shell/file-permissions/</guid>
+      <description>Learning Objectives  Managing file ownership - the chown and chgrp commands File permissions - the chmod command  Introduction  In a UNIX based file system, every file and directory has an owner, a group, and a set of permissions.</description>
+    </item>
+    
+    <item>
+      <title>Shell Configuration</title>
+      <link>/software-eng-essentials/terminal-and-shell/shell-configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/terminal-and-shell/shell-configuration/</guid>
+      <description>Learning Objectives  Explain the purpose of environment variables Describe the purpose of the shell configuration files  For bash: .</description>
+    </item>
+    
+    <item>
+      <title>Processes</title>
+      <link>/software-eng-essentials/terminal-and-shell/processes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/terminal-and-shell/processes/</guid>
+      <description>Learning Objectives  Define a process View running processes Terminating a process  Introduction  When an application (or program) is running on your computer it is running as a process or as a set of processes.</description>
+    </item>
+    
+    <item>
+      <title>UNIX Shell Commands</title>
+      <link>/software-eng-essentials/terminal-and-shell/unix-commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/terminal-and-shell/unix-commands/</guid>
+      <description>Directory Commands    Command Description Examples     pwd print the current working directory pwd   cd change to a new directory cd ~/Downloads   ls [options] [pattern] print a listing of the current directory ls; ls -als *.</description>
+    </item>
+    
+  </channel>
+</rss>

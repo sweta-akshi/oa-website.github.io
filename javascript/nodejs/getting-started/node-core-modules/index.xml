@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Node Core Modules on Orange Academy</title>
+    <link>/javascript/nodejs/getting-started/node-core-modules/</link>
+    <description>Recent content in Node Core Modules on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./javascript/nodejs/getting-started/node-core-modules/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The OS Module</title>
+      <link>/javascript/nodejs/getting-started/node-core-modules/os-module/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/node-core-modules/os-module/</guid>
+      <description>Learning Objectives Concepts  Retrieving information from the underlying system using Node  Skills  Learn to use the os module and its objects  Operating system module The Node.</description>
+    </item>
+    
+    <item>
+      <title>Labs for OS Module</title>
+      <link>/javascript/nodejs/getting-started/node-core-modules/os-module-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/node-core-modules/os-module-labs/</guid>
+      <description>This lab will have you use the os module and its objects to retrieve and interact with system information.</description>
+    </item>
+    
+    <item>
+      <title>The Path Module</title>
+      <link>/javascript/nodejs/getting-started/node-core-modules/path-module/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/node-core-modules/path-module/</guid>
+      <description>Path module  The path module provides a way of working with directories and file paths.</description>
+    </item>
+    
+    <item>
+      <title>The Path Module Labs</title>
+      <link>/javascript/nodejs/getting-started/node-core-modules/path-module-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/node-core-modules/path-module-labs/</guid>
+      <description>Path module exercise  Create a new path-exercise.js file. Copy and paste the code below into the new file:  const userObj = JSON.</description>
+    </item>
+    
+    <item>
+      <title>The FS Module</title>
+      <link>/javascript/nodejs/getting-started/node-core-modules/fs-module/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/node-core-modules/fs-module/</guid>
+      <description>Learning Objectives Concepts  Using Node to interact with the file system.  Skills  Learn to use the fs module Reading Receiving arguments  File system module Node can interact with files on your system.</description>
+    </item>
+    
+    <item>
+      <title>Labs for FS Module</title>
+      <link>/javascript/nodejs/getting-started/node-core-modules/fs-module-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/node-core-modules/fs-module-labs/</guid>
+      <description>Lab 1 - I/O with fs In your main.js (or app.js) file of the car module from our previous lab…​</description>
+    </item>
+    
+    <item>
+      <title>Error Handling</title>
+      <link>/javascript/nodejs/getting-started/node-core-modules/error-handling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/node-core-modules/error-handling/</guid>
+      <description>Learning Objectives Concepts  Error handling in Node.  Skills  Learn to write an error-first callback.</description>
+    </item>
+    
+    <item>
+      <title>Streams</title>
+      <link>/javascript/nodejs/getting-started/node-core-modules/streams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/node-core-modules/streams/</guid>
+      <description>Working with streams An option when working with the larger files or http request/response is to use Streams.</description>
+    </item>
+    
+    <item>
+      <title>The HTTP Module</title>
+      <link>/javascript/nodejs/getting-started/node-core-modules/http-module/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/node-core-modules/http-module/</guid>
+      <description>HTTP Server Node comes with a module specific to creating an http server. The basic server consists of a server object created by doing the following.</description>
+    </item>
+    
+    <item>
+      <title>Labs for HTTP Module</title>
+      <link>/javascript/nodejs/getting-started/node-core-modules/http-module-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/node-core-modules/http-module-labs/</guid>
+      <description>5.1. Lab 3 - Working with a server  Using the previous Car example Create a file named server.</description>
+    </item>
+    
+    <item>
+      <title>The Event Module</title>
+      <link>/javascript/nodejs/getting-started/node-core-modules/event-module/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/node-core-modules/event-module/</guid>
+      <description>Learning Objectives Concepts  Event Driven Programming The Events Module Creating Events Triggering Events Cleaning up Events  Event Driven Programming What is event driven programming?</description>
+    </item>
+    
+    <item>
+      <title>Labs for Event Module</title>
+      <link>/javascript/nodejs/getting-started/node-core-modules/event-module-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/node-core-modules/event-module-lab/</guid>
+      <description>Lab  Create 2 functions that will print out the largest, and smallest representable number.  Number.</description>
+    </item>
+    
+  </channel>
+</rss>

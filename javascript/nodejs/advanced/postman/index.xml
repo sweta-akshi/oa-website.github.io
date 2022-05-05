@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postman on Orange Academy</title>
+    <link>/javascript/nodejs/advanced/postman/</link>
+    <description>Recent content in Postman on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./javascript/nodejs/advanced/postman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started With Postman</title>
+      <link>/javascript/nodejs/advanced/postman/postman-getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/postman/postman-getting-started/</guid>
+      <description>Learning Objectives Concepts  Postman App Use Explanation of API&amp;rsquo;s, SOAP, and REST Making a Simple Postman Request  Getting started with the Postman App What is Postman?</description>
+    </item>
+    
+    <item>
+      <title>Testing with Postman</title>
+      <link>/javascript/nodejs/advanced/postman/postman-sports-team-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/postman/postman-sports-team-api/</guid>
+      <description>Learning Objectives Concepts  Using the Postman App to exchange data with a local API Create collections of multiple API requests  Skills  Perform CRUD activities with and API resource Bundle several API requests together to create a collection  Review of CRUD Besides reading the data from a API interaction, if the APIs endpoint allow, we can also create data objects, update data objects and delete data objects from an APIs resource.</description>
+    </item>
+    
+    <item>
+      <title>Labs for Postman</title>
+      <link>/javascript/nodejs/advanced/postman/postman-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/advanced/postman/postman-lab/</guid>
+      <description>Learning Objectives Concepts  Use Postman to test the endpoints of the Store Data API  Loading the Store Data API Clone the following repository from Github:</description>
+    </item>
+    
+  </channel>
+</rss>

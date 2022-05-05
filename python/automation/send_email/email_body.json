@@ -1,0 +1,40 @@
+{
+    "message": {
+        "importance": "High",
+        "subject": "Meet for lunch?",
+        "body": {
+            "contentType": "Text",
+            "content": "The new cafeteria is open."
+        },
+        "toRecipients": [
+            {
+                "emailAddress": {
+                    "address": "example@homedepot.com"
+                }
+            }
+        ],
+        "ccRecipients": [
+            {
+                "emailAddress": {
+                    "address": "example@homedepot.com"
+                }
+            }
+        ],
+        "bccRecipients": [
+            {
+                "emailAddress": {
+                    "address": "example@homedepot.com"
+                }
+            }
+        ],
+        "attachments": [
+            {
+                "@odata.type": "#microsoft.graph.fileAttachment",
+                "name": "attachment.txt",
+                "contentType": "text/plain",
+                "contentBytes": "SGVsbG8gV29ybGQh" 
+            }
+        ]
+    },
+    "saveToSentItems": "true"
+}

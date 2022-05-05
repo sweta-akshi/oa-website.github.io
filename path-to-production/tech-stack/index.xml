@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Choosing a Tech Stack on Orange Academy</title>
+    <link>/path-to-production/tech-stack/</link>
+    <description>Recent content in Choosing a Tech Stack on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./path-to-production/tech-stack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paved Road</title>
+      <link>/path-to-production/tech-stack/paved-road/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/path-to-production/tech-stack/paved-road/</guid>
+      <description>Knowing What Technology to Use When deciding to develop a thing, you&amp;rsquo;ll want an idea of what technologies you are going to use to develop and support that thing.</description>
+    </item>
+    
+    <item>
+      <title>Choosing your Data Solution</title>
+      <link>/path-to-production/tech-stack/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/path-to-production/tech-stack/data/</guid>
+      <description>Data Classification Before you choose a data service, you will need to understand the data classification under which the data for your application falls.</description>
+    </item>
+    
+    <item>
+      <title>Messaging Options</title>
+      <link>/path-to-production/tech-stack/messaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/path-to-production/tech-stack/messaging/</guid>
+      <description>PubSub Through Service Catalog What is Pub/Sub?
+ Cloud Pub/Sub is a scalable, durable, event ingestion and delivery system that supports the publish-subscribe pattern at large and small scales.</description>
+    </item>
+    
+    <item>
+      <title>Choosing a CICD Solution</title>
+      <link>/path-to-production/tech-stack/cicd-options/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/path-to-production/tech-stack/cicd-options/</guid>
+      <description>CICD Options In addition to delivering value, we want to be able to be able to deliver quickly.</description>
+    </item>
+    
+  </channel>
+</rss>

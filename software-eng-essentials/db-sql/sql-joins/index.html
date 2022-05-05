@@ -1,0 +1,4958 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Orange Academy</title>
+    
+      <meta charset="utf-8">
+<!-- <base href=""> -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="generator" content="Hugo 0.72.0" />
+
+<title></title>
+<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
+<link href="css/nucleus.css" rel="stylesheet">
+<link href="css/font-awesome.min.css" rel="stylesheet">
+<link href="css/hybrid.css" rel="stylesheet">
+<link href="css/featherlight.min.css" rel="stylesheet">
+<link href="css/auto-complete.css" rel="stylesheet">
+<link href="theme-original/style.css" rel="stylesheet">
+
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<script src="js/jquery-2.x.min.js"></script>
+<style type="text/css">
+  :root #header+#content>#left>#rlblock_left {
+    display: none !important;
+  }
+</style>
+
+
+<link
+  rel="stylesheet"
+  href="https://designsystem.homedepot.com/ux-styleguide/2.16.2/ux-styleguide.min.css"
+  crossorigin="anonymous"
+/>
+
+
+
+<link
+  href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700"
+  rel="stylesheet"
+/>
+
+<script
+  src="https://designsystem.homedepot.com/ux-styleguide/2.16.2/ux-styleguide.min.js"
+  crossorigin="anonymous"
+></script>
+
+<script src="prism.js" defer></script>
+<script defer>
+    setTimeout(() => {
+        
+        const preBlocks = document.querySelectorAll('pre.highlight');
+        for (let i = 0; i < preBlocks.length; i++) {
+            console.log('preBlock')
+            preBlocks[i].classList.add('line-numbers');
+        }
+        const markdownPreBlocks = document.querySelectorAll('div.highlight pre');
+        for (let i = 0; i < markdownPreBlocks.length; i++) {
+            console.log('markdownPreBlock')
+            markdownPreBlocks[i].classList.add('line-numbers');
+        }
+        Prism.highlightAll();
+    }, 200);
+</script>
+
+<link rel="stylesheet" type="text/css" href="custom-head.css">
+<link rel="stylesheet" type="text/css" href="normalize.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="asciidoc-base.css" />
+<link rel="stylesheet" type="text/css" href="asciidoc-theme.css" />
+<link rel="stylesheet" type="text/css" href="prism.css" />
+<link rel="stylesheet" type="text/css" href="toc.css" />
+<link rel="stylesheet" type="text/css" href="custom.css" />
+
+<div>
+  
+  <noscript
+    ><iframe
+      src="https://www.googletagmanager.com/ns.html?id=GTM-WZ6KHBR"
+      height="0"
+      width="0"
+      style="display:none;visibility:hidden"
+    ></iframe
+  ></noscript>
+  
+</div>
+
+
+<script type="text/javascript">(function (c, a) {
+    if (!a.__SV) {
+      var b = window; try { var d, m, j, k = b.location, f = k.hash; d = function (a, b) { return (m = a.match(RegExp(b + "=([^&]*)"))) ? m[1] : null }; f && d(f, "state") && (j = JSON.parse(decodeURIComponent(d(f, "state"))), "mpeditor" === j.action && (b.sessionStorage.setItem("_mpcehash", f), history.replaceState(j.desiredHash || "", c.title, k.pathname + k.search))) } catch (n) { } var l, h; window.mixpanel = a; a._i = []; a.init = function (b, d, g) {
+        function c(b, i) {
+          var a = i.split("."); 2 == a.length && (b = b[a[0]], i = a[1]); b[i] = function () {
+            b.push([i].concat(Array.prototype.slice.call(arguments,
+              0)))
+          }
+        } var e = a; "undefined" !== typeof g ? e = a[g] = [] : g = "mixpanel"; e.people = e.people || []; e.toString = function (b) { var a = "mixpanel"; "mixpanel" !== g && (a += "." + g); b || (a += " (stub)"); return a }; e.people.toString = function () { return e.toString(1) + ".people (stub)" }; l = "disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" ");
+        for (h = 0; h < l.length; h++)c(e, l[h]); var f = "set set_once union unset remove delete".split(" "); e.get_group = function () { function a(c) { b[c] = function () { call2_args = arguments; call2 = [c].concat(Array.prototype.slice.call(call2_args, 0)); e.push([d, call2]) } } for (var b = {}, d = ["get_group"].concat(Array.prototype.slice.call(arguments, 0)), c = 0; c < f.length; c++)a(f[c]); return b }; a._i.push([b, d, g])
+      }; a.__SV = 1.2; b = c.createElement("script"); b.type = "text/javascript"; b.async = !0; b.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ?
+        MIXPANEL_CUSTOM_LIB_URL : "file:" === c.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"; d = c.getElementsByTagName("script")[0]; d.parentNode.insertBefore(b, d)
+    }
+  })(document, window.mixpanel || []);
+  mixpanel.init("77c34f1c29157c7d4818bc8822a298d0");</script>
+
+<script>
+  function getCookieValue(a) {
+    var b = document.cookie.match('(^|[^;]+)\\s*' + a + '\\s*=\\s*([^;]+)');
+    return b ? b.pop() : '';
+  }
+
+  uname = getCookieValue("username")
+  if (uname){
+    mixpanel.identify(uname)
+  }
+  var USER_ID = "12148";
+var USER_SIGNUP_DATE = "2020-01-02T21:07:03Z";
+
+mixpanel.people.set({
+  "identifiedBy": uname,    
+});
+  mixpanel.track("Page View")
+</script>
+    
+  </head>
+  <body data-url="/software-eng-essentials/db-sql/sql-joins/">
+    
+      <div id="headermain"></div>
+<nav id="sidebar" class="">
+    <div class="highlightable">
+        <div id="header-wrapper">
+            <div id="header">
+                
+  
+
+	
+    <div id="header-logo">
+        <a href="../sql-joins">
+          <i class="icon_homedepot"></i>
+        </a>
+    </div>
+    <div class="om-stacked-div">
+       
+    </div>
+    
+
+    
+
+            </div>
+                <div class="searchbox">
+		            <label for="search-by"><i class="fa fa-search"></i></label>
+                    <input data-search-input id="search-by" type="text" placeholder="Search...">
+                    <span data-search-clear=""><i class="fa fa-close"></i></span>
+                </div>
+                <script type="text/javascript" src="js/lunr.min.js"></script>
+                <script type="text/javascript" src="js/auto-complete.js"></script>
+                <script type="text/javascript">
+                    
+                        var baseurl = "\/";
+                    
+                </script>
+                <script type="text/javascript" src="js/search.js"></script>
+        </div>
+        <div class="topics-container">
+            <ul class="topics"><div id="nav">
+      <li data-nav-id="/application-security/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="application-security">Application Security</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/application-security/api-security/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="application-security/api-security">API Security</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/application-security/api-security/00_preflight/" class="dd-item
+      ">
+        <div>
+          <a href="application-security/api-security/00_preflight">PreFlight</a>
+        </div>
+      </li>
+      <li data-nav-id="/application-security/api-security/01_service_to_service_oauth2/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="application-security/api-security/01_service_to_service_oauth2">OAuth2 / Service to Service</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/application-security/api-security/01_service_to_service_oauth2/10_buying-beer/" class="dd-item">
+          <div>
+            <a href="application-security/api-security/01_service_to_service_oauth2/10_buying-beer">
+              Can I buy you a beer?
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/application-security/api-security/01_service_to_service_oauth2/20_whatisoauth2/" class="dd-item">
+          <div>
+            <a href="application-security/api-security/01_service_to_service_oauth2/20_whatisoauth2">
+              What is OAuth2?
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/application-security/api-security/01_service_to_service_oauth2/30_cryptography/" class="dd-item">
+          <div>
+            <a href="application-security/api-security/01_service_to_service_oauth2/30_cryptography">
+              Cryptography 101
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/application-security/api-security/01_service_to_service_oauth2/40_jwt/" class="dd-item">
+          <div>
+            <a href="application-security/api-security/01_service_to_service_oauth2/40_jwt">
+              JSON Web Token (JWT)
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/application-security/api-security/01_service_to_service_oauth2/50_client-cred-flow/" class="dd-item">
+          <div>
+            <a href="application-security/api-security/01_service_to_service_oauth2/50_client-cred-flow">
+              Client Credentials Flow
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/application-security/api-security/02_human_to_service_oidc/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="application-security/api-security/02_human_to_service_oidc">OIDC / Human to Service</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/application-security/api-security/02_human_to_service_oidc/10_modern-webapps/" class="dd-item">
+          <div>
+            <a href="application-security/api-security/02_human_to_service_oidc/10_modern-webapps">
+              Modern Web Applications
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/application-security/api-security/02_human_to_service_oidc/20_recap/" class="dd-item">
+          <div>
+            <a href="application-security/api-security/02_human_to_service_oidc/20_recap">
+              Quick Recap
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/application-security/api-security/02_human_to_service_oidc/30_openid-connect-auth-code/" class="dd-item">
+          <div>
+            <a href="application-security/api-security/02_human_to_service_oidc/30_openid-connect-auth-code">
+              OpenID Connect &#43; Auth Code Grant
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/application-security/api-security/02_human_to_service_oidc/40_lab/" class="dd-item">
+          <div>
+            <a href="application-security/api-security/02_human_to_service_oidc/40_lab">
+              Hands On Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/application-security/api-security/02_human_to_service_oidc/50_full_architecture/" class="dd-item">
+          <div>
+            <a href="application-security/api-security/02_human_to_service_oidc/50_full_architecture">
+              Full Architecture
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/application-security/api-security/03_where_to_from_here/" class="dd-item
+      ">
+        <div>
+          <a href="application-security/api-security/03_where_to_from_here">Where To From Here?</a>
+        </div>
+      </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/cloud/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="cloud">Cloud Offerings</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/cloud/containers/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="cloud/containers">Containers</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/cloud/containers/docker-fundamentals/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="cloud/containers/docker-fundamentals">Docker Fundamentals</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/cloud/containers/docker-fundamentals/containers-and-virtualization/" class="dd-item">
+          <div>
+            <a href="cloud/containers/docker-fundamentals/containers-and-virtualization">
+              Intro to Containers and Virtualization
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/docker-fundamentals/installation/" class="dd-item">
+          <div>
+            <a href="cloud/containers/docker-fundamentals/installation">
+              Docker Installation
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/docker-fundamentals/how-docker-works/" class="dd-item">
+          <div>
+            <a href="cloud/containers/docker-fundamentals/how-docker-works">
+              How Docker Works
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/docker-fundamentals/docker-registries/" class="dd-item">
+          <div>
+            <a href="cloud/containers/docker-fundamentals/docker-registries">
+              Docker Registries
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/docker-fundamentals/container-basics/" class="dd-item">
+          <div>
+            <a href="cloud/containers/docker-fundamentals/container-basics">
+              Container Basics
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/docker-fundamentals/thedockerfile/" class="dd-item">
+          <div>
+            <a href="cloud/containers/docker-fundamentals/thedockerfile">
+              The Dockerfile
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/docker-fundamentals/build-context/" class="dd-item">
+          <div>
+            <a href="cloud/containers/docker-fundamentals/build-context">
+              Build Context
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/docker-fundamentals/services-in-docker/" class="dd-item">
+          <div>
+            <a href="cloud/containers/docker-fundamentals/services-in-docker">
+              Running a Service in Docker
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/docker-fundamentals/docker-artifactory/" class="dd-item">
+          <div>
+            <a href="cloud/containers/docker-fundamentals/docker-artifactory">
+              Docker and THD Artifactory
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/docker-fundamentals/additional-resources/" class="dd-item">
+          <div>
+            <a href="cloud/containers/docker-fundamentals/additional-resources">
+              Additional Resources
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/cloud/containers/developing-with-docker/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="cloud/containers/developing-with-docker">Developing with Docker</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/cloud/containers/developing-with-docker/containerizing-your-application/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="cloud/containers/developing-with-docker/containerizing-your-application">Containerizing Your Application</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/cloud/containers/developing-with-docker/containerizing-your-application/containerizing-your-application/" class="dd-item">
+          <div>
+            <a href="cloud/containers/developing-with-docker/containerizing-your-application/containerizing-your-application">
+              Containerizing Your Application
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/developing-with-docker/containerizing-your-application/debugging-docker/" class="dd-item">
+          <div>
+            <a href="cloud/containers/developing-with-docker/containerizing-your-application/debugging-docker">
+              Debugging Docker
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/developing-with-docker/containerizing-your-application/multi-stage-docker-builds/" class="dd-item">
+          <div>
+            <a href="cloud/containers/developing-with-docker/containerizing-your-application/multi-stage-docker-builds">
+              Multi-stage Docker Builds
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/cloud/containers/developing-with-docker/int-testing/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="cloud/containers/developing-with-docker/int-testing">Integration Testing</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/cloud/containers/developing-with-docker/int-testing/intro/" class="dd-item">
+          <div>
+            <a href="cloud/containers/developing-with-docker/int-testing/intro">
+              Introduction
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/developing-with-docker/int-testing/volumes/" class="dd-item">
+          <div>
+            <a href="cloud/containers/developing-with-docker/int-testing/volumes">
+              Docker Volumes
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/developing-with-docker/int-testing/data-sources/" class="dd-item">
+          <div>
+            <a href="cloud/containers/developing-with-docker/int-testing/data-sources">
+              Containerizing Persistent Data Sources
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/developing-with-docker/int-testing/networks/" class="dd-item">
+          <div>
+            <a href="cloud/containers/developing-with-docker/int-testing/networks">
+              Docker Networks
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/containers/developing-with-docker/int-testing/docker-compose/" class="dd-item">
+          <div>
+            <a href="cloud/containers/developing-with-docker/int-testing/docker-compose">
+              Docker Compose
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/cloud/platforms/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="cloud/platforms">Hosting</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/cloud/platforms/pcf-foundations/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="cloud/platforms/pcf-foundations">PCF Foundations</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/cloud/platforms/pcf-foundations/intro-to-pcf/" class="dd-item">
+          <div>
+            <a href="cloud/platforms/pcf-foundations/intro-to-pcf">
+              Deploying to PCF
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/platforms/pcf-foundations/deploy-react-client-app/" class="dd-item">
+          <div>
+            <a href="cloud/platforms/pcf-foundations/deploy-react-client-app">
+              Deploying a React client app
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/platforms/pcf-foundations/pcf-backing-service/" class="dd-item">
+          <div>
+            <a href="cloud/platforms/pcf-foundations/pcf-backing-service">
+              PCF Backing Service
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/platforms/pcf-foundations/user-defined-service/" class="dd-item">
+          <div>
+            <a href="cloud/platforms/pcf-foundations/user-defined-service">
+              Using a User Defined Service
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/cloud/platforms/pcf-foundations/checklist/" class="dd-item">
+          <div>
+            <a href="cloud/platforms/pcf-foundations/checklist">
+              PCF Deployment Checklist
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/custom-workshops/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="custom-workshops">Custom workshops</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/custom-workshops/frontend-at-thd/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="custom-workshops/frontend-at-thd">Frontend Development at THD</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/custom-workshops/frontend-at-thd/intro-to-components/" class="dd-item">
+          <div>
+            <a href="custom-workshops/frontend-at-thd/intro-to-components">
+              Introduction to Harmony
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/custom-workshops/frontend-at-thd/harmony-in-practice/" class="dd-item">
+          <div>
+            <a href="custom-workshops/frontend-at-thd/harmony-in-practice">
+              Harmony in Practice
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/custom-workshops/frontend-at-thd/intro-to-experiences/" class="dd-item">
+          <div>
+            <a href="custom-workshops/frontend-at-thd/intro-to-experiences">
+              Introduction to Experiences
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/custom-workshops/frontend-at-thd/js-crash-course/" class="dd-item">
+          <div>
+            <a href="custom-workshops/frontend-at-thd/js-crash-course">
+              JS Crash Course
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/custom-workshops/frontend-at-thd/universal-rendering-crash-course/" class="dd-item">
+          <div>
+            <a href="custom-workshops/frontend-at-thd/universal-rendering-crash-course">
+              Universal Rendering Crash Course
+            </a>
+          </div>
+        </li>
+      <li data-nav-id="/custom-workshops/frontend-at-thd/react-crash-course/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="custom-workshops/frontend-at-thd/react-crash-course">React Crash Course</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/custom-workshops/frontend-at-thd/react-crash-course/intro/" class="dd-item">
+          <div>
+            <a href="custom-workshops/frontend-at-thd/react-crash-course/intro">
+              Intro to Hooks
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/custom-workshops/frontend-at-thd/react-crash-course/usestate/" class="dd-item">
+          <div>
+            <a href="custom-workshops/frontend-at-thd/react-crash-course/usestate">
+              The useState Hook
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/custom-workshops/frontend-at-thd/react-crash-course/useeffect/" class="dd-item">
+          <div>
+            <a href="custom-workshops/frontend-at-thd/react-crash-course/useeffect">
+              The useEffect Hook
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/custom-workshops/frontend-at-thd/react-crash-course/context-api/" class="dd-item">
+          <div>
+            <a href="custom-workshops/frontend-at-thd/react-crash-course/context-api">
+              Context API
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+        <li data-nav-id="/custom-workshops/frontend-at-thd/sass-crash-course/" class="dd-item">
+          <div>
+            <a href="custom-workshops/frontend-at-thd/sass-crash-course">
+              SASS Crash Course
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/cyber-security/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="cyber-security">Cyber Security</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/cyber-security/static-dynamic-analysis/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="cyber-security/static-dynamic-analysis">Static &amp; Dynamic Analysis</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/cyber-security/static-dynamic-analysis/0-sast-fundamentals/" class="dd-item
+      ">
+        <div>
+          <a href="cyber-security/static-dynamic-analysis/0-sast-fundamentals">SAST Fundamentals</a>
+        </div>
+      </li>
+      <li data-nav-id="/cyber-security/static-dynamic-analysis/1-intro-to-appsec/" class="dd-item
+      ">
+        <div>
+          <a href="cyber-security/static-dynamic-analysis/1-intro-to-appsec">Introduction to Application Security</a>
+        </div>
+      </li>
+      <li data-nav-id="/cyber-security/static-dynamic-analysis/2-sast-overview-tools/" class="dd-item
+      ">
+        <div>
+          <a href="cyber-security/static-dynamic-analysis/2-sast-overview-tools">SAST Overview and Tools</a>
+        </div>
+      </li>
+      <li data-nav-id="/cyber-security/static-dynamic-analysis/3-scanning-setup/" class="dd-item
+      ">
+        <div>
+          <a href="cyber-security/static-dynamic-analysis/3-scanning-setup">Scanning Set-up and Execution</a>
+        </div>
+      </li>
+      <li data-nav-id="/cyber-security/static-dynamic-analysis/4-fortify/" class="dd-item
+      ">
+        <div>
+          <a href="cyber-security/static-dynamic-analysis/4-fortify">Fortify SSC Overview</a>
+        </div>
+      </li>
+      <li data-nav-id="/cyber-security/static-dynamic-analysis/5-triaging/" class="dd-item
+      ">
+        <div>
+          <a href="cyber-security/static-dynamic-analysis/5-triaging">Triaging Scan results</a>
+        </div>
+      </li>
+      <li data-nav-id="/cyber-security/static-dynamic-analysis/6-remediation/" class="dd-item
+      ">
+        <div>
+          <a href="cyber-security/static-dynamic-analysis/6-remediation">Security Weakness Remediation</a>
+        </div>
+      </li>
+      <li data-nav-id="/cyber-security/static-dynamic-analysis/7-resources/" class="dd-item
+      ">
+        <div>
+          <a href="cyber-security/static-dynamic-analysis/7-resources">Review and Resources</a>
+        </div>
+      </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/golang/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="golang">Go</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/golang/foundations/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="golang/foundations">Introduction to Go</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/golang/foundations/hello-go/" class="dd-item">
+          <div>
+            <a href="golang/foundations/hello-go">
+              Hello Go
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/foundations/getting-started/" class="dd-item">
+          <div>
+            <a href="golang/foundations/getting-started">
+              Getting Started
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/foundations/packages/" class="dd-item">
+          <div>
+            <a href="golang/foundations/packages">
+              Packages
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/foundations/building/" class="dd-item">
+          <div>
+            <a href="golang/foundations/building">
+              Building
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/foundations/types/" class="dd-item">
+          <div>
+            <a href="golang/foundations/types">
+              Types
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/foundations/variables/" class="dd-item">
+          <div>
+            <a href="golang/foundations/variables">
+              Go Variables
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/foundations/control-structures/" class="dd-item">
+          <div>
+            <a href="golang/foundations/control-structures">
+              Control Structures
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/foundations/array-slice-map/" class="dd-item">
+          <div>
+            <a href="golang/foundations/array-slice-map">
+              Array, Slices and Maps
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/foundations/function-intro/" class="dd-item">
+          <div>
+            <a href="golang/foundations/function-intro">
+              Functions in Go
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/foundations/errors/" class="dd-item">
+          <div>
+            <a href="golang/foundations/errors">
+              Generating and Handling Errors in Go
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/foundations/pointers/" class="dd-item">
+          <div>
+            <a href="golang/foundations/pointers">
+              Pointers
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/foundations/structs-and-methods/" class="dd-item">
+          <div>
+            <a href="golang/foundations/structs-and-methods">
+              Structs and Methods
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/foundations/interfaces/" class="dd-item">
+          <div>
+            <a href="golang/foundations/interfaces">
+              Interfaces
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/foundations/gomods/" class="dd-item">
+          <div>
+            <a href="golang/foundations/gomods">
+              Go Modules Deep Dive
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/golang/fromjava/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="golang/fromjava">If you&#39;re coming from Java...</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/golang/fromjava/intro/" class="dd-item">
+          <div>
+            <a href="golang/fromjava/intro">
+              Welcome to Golang
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/fromjava/faq/" class="dd-item">
+          <div>
+            <a href="golang/fromjava/faq">
+              Go FAQs
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+        <li data-nav-id="/golang/monorepo/monorepo/" class="dd-item">
+          <div>
+            <a href="golang/monorepo/monorepo">
+              Monorepo in Go
+            </a>
+          </div>
+        </li>
+      <li data-nav-id="/golang/testing/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="golang/testing">Testing with Go</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/golang/testing/why/" class="dd-item">
+          <div>
+            <a href="golang/testing/why">
+              Why Do We Test?
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/testing/types/" class="dd-item">
+          <div>
+            <a href="golang/testing/types">
+              Types of Testing
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/testing/creating-tests/" class="dd-item">
+          <div>
+            <a href="golang/testing/creating-tests">
+              Creating and Writing Tests
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/testing/coverage/" class="dd-item">
+          <div>
+            <a href="golang/testing/coverage">
+              Code Coverage
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/testing/go-test/" class="dd-item">
+          <div>
+            <a href="golang/testing/go-test">
+              Using the go test command
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/testing/testify-assertion/" class="dd-item">
+          <div>
+            <a href="golang/testing/testify-assertion">
+              Testify Assertion
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/testing/tdd/" class="dd-item">
+          <div>
+            <a href="golang/testing/tdd">
+              Test Driven Development
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/testing/bdd/" class="dd-item">
+          <div>
+            <a href="golang/testing/bdd">
+              Behavior Driven Development
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/testing/go-bdd/" class="dd-item">
+          <div>
+            <a href="golang/testing/go-bdd">
+              BDD with Ginkgo and Gomega
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/testing/dependency/" class="dd-item">
+          <div>
+            <a href="golang/testing/dependency">
+              Dependency Injection
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/testing/testing-techniques/" class="dd-item">
+          <div>
+            <a href="golang/testing/testing-techniques">
+              Testing Techniques
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/testing/mocks/" class="dd-item">
+          <div>
+            <a href="golang/testing/mocks">
+              Mocking, Stubbing, and Spying
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/testing/go-mock/" class="dd-item">
+          <div>
+            <a href="golang/testing/go-mock">
+              Golang Mocks, Stubs and Spies
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/golang/api/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="golang/api">RESTful API&#39;s</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/golang/api/go-webserver/" class="dd-item">
+          <div>
+            <a href="golang/api/go-webserver">
+              Standing up a Webserver with Go
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/api/restful-api/" class="dd-item">
+          <div>
+            <a href="golang/api/restful-api">
+              Building RESTful Services with the Go Standard Library
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/api/routing-and-middleware/" class="dd-item">
+          <div>
+            <a href="golang/api/routing-and-middleware">
+              Routing &amp; Middleware with Gorilla/Mux
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/api/external-apis/" class="dd-item">
+          <div>
+            <a href="golang/api/external-apis">
+              External APIs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/api/versioning/" class="dd-item">
+          <div>
+            <a href="golang/api/versioning">
+              Versioning
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/api/api-testing/" class="dd-item">
+          <div>
+            <a href="golang/api/api-testing">
+              API Testing
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/golang/databases/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="golang/databases">Databases</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/golang/databases/database-intro/" class="dd-item">
+          <div>
+            <a href="golang/databases/database-intro">
+              Databases and Golang
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/databases/relational-databases/" class="dd-item">
+          <div>
+            <a href="golang/databases/relational-databases">
+              Relational Databases
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/databases/postgres-connection/" class="dd-item">
+          <div>
+            <a href="golang/databases/postgres-connection">
+              Connecting to a Postgres Database
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/databases/postgres-golang/" class="dd-item">
+          <div>
+            <a href="golang/databases/postgres-golang">
+              PostgreSQL and Golang
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/databases/redis-golang/" class="dd-item">
+          <div>
+            <a href="golang/databases/redis-golang">
+              Redis and Golang
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/databases/migrations-golang/" class="dd-item">
+          <div>
+            <a href="golang/databases/migrations-golang">
+              Database Migrations
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/golang/concurrency/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="golang/concurrency">Concurrency</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/golang/concurrency/introduction/" class="dd-item">
+          <div>
+            <a href="golang/concurrency/introduction">
+              Understanding Concurrency
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/concurrency/goroutines/" class="dd-item">
+          <div>
+            <a href="golang/concurrency/goroutines">
+              Goroutines
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/concurrency/channels/" class="dd-item">
+          <div>
+            <a href="golang/concurrency/channels">
+              Channels
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/concurrency/coordination/" class="dd-item">
+          <div>
+            <a href="golang/concurrency/coordination">
+              Coordinating Channels
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/concurrency/benchmarking/" class="dd-item">
+          <div>
+            <a href="golang/concurrency/benchmarking">
+              Benchmarking
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/golang/concurrency/patterns/" class="dd-item">
+          <div>
+            <a href="golang/concurrency/patterns">
+              Concurrency Patterns
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/java/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="java">Java</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/java/foundations/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="java/foundations">Java Foundations</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/java/foundations/what-is-java/" class="dd-item">
+          <div>
+            <a href="java/foundations/what-is-java">
+              What is Java
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/java/foundations/getting-started/" class="dd-item">
+          <div>
+            <a href="java/foundations/getting-started">
+              Getting Started
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/java/foundations/package/" class="dd-item">
+          <div>
+            <a href="java/foundations/package">
+              Packages
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/java/foundations/primitives/" class="dd-item">
+          <div>
+            <a href="java/foundations/primitives">
+              Primitives
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/java/foundations/comments/" class="dd-item">
+          <div>
+            <a href="java/foundations/comments">
+              Commenting
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/java/foundations/expressions/" class="dd-item">
+          <div>
+            <a href="java/foundations/expressions">
+              Expressions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/java/foundations/control-flow/" class="dd-item">
+          <div>
+            <a href="java/foundations/control-flow">
+              Control Flow
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/java/foundations/object/" class="dd-item">
+          <div>
+            <a href="java/foundations/object">
+              Software Objects
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/java/foundations/class/" class="dd-item">
+          <div>
+            <a href="java/foundations/class">
+              Classes and Objects
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/java/foundations/inheritance/" class="dd-item">
+          <div>
+            <a href="java/foundations/inheritance">
+              Inheritance
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/java/foundations/interface/" class="dd-item">
+          <div>
+            <a href="java/foundations/interface">
+              Interface
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/java/foundations/data-structures/" class="dd-item">
+          <div>
+            <a href="java/foundations/data-structures">
+              Data Structures
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/java/foundations/data-structures-advanced/" class="dd-item">
+          <div>
+            <a href="java/foundations/data-structures-advanced">
+              Data Structures Advanced
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/java/foundations/exceptions/" class="dd-item">
+          <div>
+            <a href="java/foundations/exceptions">
+              Exceptions
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/javascript/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript">JavaScript</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/javascript/foundations/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/foundations">Foundations</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/foundations/intro-to-js/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/intro-to-js">
+              Introduction to JavaScript
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/hello-js/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/hello-js">
+              Hello JavaScript
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/variables/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/variables">
+              Variables
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/data-types/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/data-types">
+              Data Types
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/expressions/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/expressions">
+              Expressions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/strings/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/strings">
+              Strings
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/arrays/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/arrays">
+              Arrays
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/control-flow-decisions/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/control-flow-decisions">
+              Control Flow - Making Decisions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/control-flow-iteration/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/control-flow-iteration">
+              Control Flow - Iteration
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/objects-and-json/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/objects-and-json">
+              Objects and JSON
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/functions/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/functions">
+              Functions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/prettier/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/prettier">
+              Code Style with Prettier
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/eslint/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/eslint">
+              Static Analysis with ESLint
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/refactoring/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/refactoring">
+              Refactoring
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/variable-scope/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/variable-scope">
+              Variable Scope
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/arrow-functions/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/arrow-functions">
+              Arrow Functions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/higher-order-functions/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/higher-order-functions">
+              Higher Order Functions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/modern-array-methods/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/modern-array-methods">
+              Modern Array Methods
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/closures/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/closures">
+              Closures
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/error-handling/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/error-handling">
+              Error Handling
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/oop/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/oop">
+              OOP
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/classes/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/classes">
+              Classes
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/async-execution-and-callbacks/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/async-execution-and-callbacks">
+              Asynchronous Execution and Callbacks
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/promises/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/promises">
+              Promises
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/async-await/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/async-await">
+              Async / Await
+            </a>
+          </div>
+        </li>
+      <li data-nav-id="/javascript/foundations/labs/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/foundations/labs">Labs</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/foundations/labs/hello-js-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/hello-js-lab">
+              Hello JavaScript Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/expressions-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/expressions-lab">
+              Expressions Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/strings-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/strings-lab">
+              Strings Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/arrays-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/arrays-lab">
+              Arrays Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/decisions-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/decisions-lab">
+              Decisions Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/iterations-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/iterations-lab">
+              Iterations Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/objects-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/objects-lab">
+              Objects Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/functions-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/functions-lab">
+              Functions Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/arrow-functions-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/arrow-functions-lab">
+              Arrow Functions Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/modern-array-methods-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/modern-array-methods-lab">
+              Modern Array Methods Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/error-handling-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/error-handling-lab">
+              Error Handling Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/higher-order-functions-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/higher-order-functions-lab">
+              Higher Order Functions Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/closures-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/closures-lab">
+              Closures Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/oop-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/oop-lab">
+              OOP Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/classes-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/classes-lab">
+              Classes Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/promises-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/promises-lab">
+              Promises Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/labs/async-await-lab/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/labs/async-await-lab">
+              Async Await Lab
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/javascript/foundations/cheatsheets/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/foundations/cheatsheets">Fact Sheets</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/foundations/cheatsheets/basicjs/basic-js/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/cheatsheets/basicjs/basic-js">
+              Basic JavaScript Fact Sheet
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/foundations/cheatsheets/modernjs/modern-js/" class="dd-item">
+          <div>
+            <a href="javascript/foundations/cheatsheets/modernjs/modern-js">
+              Modern JavaScript Fact Sheet
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/javascript/nodejs/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/nodejs">NodeJS</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/javascript/nodejs/getting-started/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/nodejs/getting-started">Getting Started</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/nodejs/getting-started/intro-to-node/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/getting-started/intro-to-node">
+              Node JS: An Introduction
+            </a>
+          </div>
+        </li>
+      <li data-nav-id="/javascript/nodejs/getting-started/npm-modules/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/nodejs/getting-started/npm-modules">NPM</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/nodejs/getting-started/npm-modules/intro/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/getting-started/npm-modules/intro">
+              Intro to NPM
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/getting-started/npm-modules/es2015-modules/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/getting-started/npm-modules/es2015-modules">
+              ES2015 Modules
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/javascript/nodejs/getting-started/node-core-modules/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/nodejs/getting-started/node-core-modules">Node Core Modules</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/nodejs/getting-started/node-core-modules/os-module/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/getting-started/node-core-modules/os-module">
+              The OS Module
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/getting-started/node-core-modules/path-module/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/getting-started/node-core-modules/path-module">
+              The Path Module
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/getting-started/node-core-modules/fs-module/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/getting-started/node-core-modules/fs-module">
+              The FS Module
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/getting-started/node-core-modules/error-handling/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/getting-started/node-core-modules/error-handling">
+              Error Handling
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/getting-started/node-core-modules/streams/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/getting-started/node-core-modules/streams">
+              Streams
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/getting-started/node-core-modules/http-module/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/getting-started/node-core-modules/http-module">
+              The HTTP Module
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/getting-started/node-core-modules/event-module/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/getting-started/node-core-modules/event-module">
+              The Event Module
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+        <li data-nav-id="/javascript/nodejs/getting-started/command-line-tutorial/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/getting-started/command-line-tutorial">
+              CLI Tutorial
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/getting-started/command-line-project/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/getting-started/command-line-project">
+              CLI Project Ideas
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/javascript/nodejs/advanced/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/nodejs/advanced">Advanced NodeJS</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/nodejs/advanced/stdin-stdout-buffers-streams/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/advanced/stdin-stdout-buffers-streams">
+              Buffers &amp; Streams
+            </a>
+          </div>
+        </li>
+      <li data-nav-id="/javascript/nodejs/advanced/postman/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/nodejs/advanced/postman">Postman</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/nodejs/advanced/postman/postman-getting-started/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/advanced/postman/postman-getting-started">
+              Getting Started With Postman
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/advanced/postman/postman-sports-team-api/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/advanced/postman/postman-sports-team-api">
+              Testing with Postman
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+        <li data-nav-id="/javascript/nodejs/advanced/axios-and-fetch/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/advanced/axios-and-fetch">
+              HTTP Requests
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/advanced/inquirer/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/advanced/inquirer">
+              InquirerJS
+            </a>
+          </div>
+        </li>
+      <li data-nav-id="/javascript/nodejs/advanced/express-and-bookshelf/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/nodejs/advanced/express-and-bookshelf">Express and Bookshelf</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/nodejs/advanced/express-and-bookshelf/knex/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/advanced/express-and-bookshelf/knex">
+              Intro to Knex
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/advanced/express-and-bookshelf/knex-movies/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/advanced/express-and-bookshelf/knex-movies">
+              Knex Movies Guided Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/advanced/express-and-bookshelf/knex-todo-app/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/advanced/express-and-bookshelf/knex-todo-app">
+              Knex Todo App
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/advanced/express-and-bookshelf/bookshelf/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/advanced/express-and-bookshelf/bookshelf">
+              Bookshelf
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/advanced/express-and-bookshelf/bookshelf-movies/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/advanced/express-and-bookshelf/bookshelf-movies">
+              Movies App with Bookshelf
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/advanced/express-and-bookshelf/knex-quick-reference/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/advanced/express-and-bookshelf/knex-quick-reference">
+              Knex Quick Reference
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/javascript/nodejs/testing/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/nodejs/testing">Testing</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/nodejs/testing/testing-basics/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/testing/testing-basics">
+              Testing Basics
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/testing/di-and-mocks/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/testing/di-and-mocks">
+              Dependency Injection &amp; Mocks
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/testing/javascript-testing/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/testing/javascript-testing">
+              JavaScript Testing
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/testing/testing-express/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/testing/testing-express">
+              Testing Express
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/testing/intro-to-tdd/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/testing/intro-to-tdd">
+              Intro to TDD
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/nodejs/testing/tdd-js-lab/" class="dd-item">
+          <div>
+            <a href="javascript/nodejs/testing/tdd-js-lab">
+              Intro to TDD Lab
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/javascript/express/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/express">Express</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/express/restful-apis/" class="dd-item">
+          <div>
+            <a href="javascript/express/restful-apis">
+              RESTful APIs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/express/express-intro/" class="dd-item">
+          <div>
+            <a href="javascript/express/express-intro">
+              Express: An Introduction
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/express/middleware/" class="dd-item">
+          <div>
+            <a href="javascript/express/middleware">
+              Understanding Middleware
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/express/error-handling/" class="dd-item">
+          <div>
+            <a href="javascript/express/error-handling">
+              Error Handling
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/express/structuring/" class="dd-item">
+          <div>
+            <a href="javascript/express/structuring">
+              Structuring an Express App
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/express/testing/" class="dd-item">
+          <div>
+            <a href="javascript/express/testing">
+              Testing an Express App
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/express/ssr/" class="dd-item">
+          <div>
+            <a href="javascript/express/ssr">
+              Server Side Rendering
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/express/nodemon/" class="dd-item">
+          <div>
+            <a href="javascript/express/nodemon">
+              Nodemon
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/javascript/pillars/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/pillars">Javascript Pillars</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/javascript/pillars/restful-api-express-node/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/pillars/restful-api-express-node">Node Pillar: Build a RESTful API with NodeJS and Express</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/pillars/restful-api-express-node/syllabus/" class="dd-item">
+          <div>
+            <a href="javascript/pillars/restful-api-express-node/syllabus">
+              Syllabus
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/pillars/restful-api-express-node/node-refresher/" class="dd-item">
+          <div>
+            <a href="javascript/pillars/restful-api-express-node/node-refresher">
+              Node Refresher
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/pillars/restful-api-express-node/node-refresher-lab/" class="dd-item">
+          <div>
+            <a href="javascript/pillars/restful-api-express-node/node-refresher-lab">
+                <i class="fa fa-flask fa-sm thd-orange"></i>
+              Create a Node Server
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/pillars/restful-api-express-node/cumulative-lab/" class="dd-item">
+          <div>
+            <a href="javascript/pillars/restful-api-express-node/cumulative-lab">
+                <i class="fa fa-flask fa-sm thd-orange"></i>
+              Cumulative Lab for Node and Express API Pillar
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/pillars/restful-api-express-node/deploy-pcf/" class="dd-item">
+          <div>
+            <a href="javascript/pillars/restful-api-express-node/deploy-pcf">
+              Deploying to PCF
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/javascript/pillars/resiliency-patterns/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/pillars/resiliency-patterns">Resiliency Patterns in JavaScript</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/pillars/resiliency-patterns/syllabus/" class="dd-item">
+          <div>
+            <a href="javascript/pillars/resiliency-patterns/syllabus">
+              Syllabus
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/pillars/resiliency-patterns/retry/" class="dd-item">
+          <div>
+            <a href="javascript/pillars/resiliency-patterns/retry">
+              The Retry Pattern
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/pillars/resiliency-patterns/circuit-breaker/" class="dd-item">
+          <div>
+            <a href="javascript/pillars/resiliency-patterns/circuit-breaker">
+              The Circuit Breaker Pattern
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/javascript/performance/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/performance">Web Performance</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/performance/getting-started/" class="dd-item">
+          <div>
+            <a href="javascript/performance/getting-started">
+              Getting Started
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/performance/gathering-metrics-lab/" class="dd-item">
+          <div>
+            <a href="javascript/performance/gathering-metrics-lab">
+              Lab: Measure FCP and FMP
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/performance/client-side-rendering/" class="dd-item">
+          <div>
+            <a href="javascript/performance/client-side-rendering">
+              Client-side Rendering
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/performance/server-side-rendering/" class="dd-item">
+          <div>
+            <a href="javascript/performance/server-side-rendering">
+              Server-side Rendering
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/performance/universal-rendering/" class="dd-item">
+          <div>
+            <a href="javascript/performance/universal-rendering">
+              Universal Rendering
+            </a>
+          </div>
+        </li>
+      <li data-nav-id="/javascript/performance/universal-rendering-lab/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="javascript/performance/universal-rendering-lab">Lab: Universal Rendering</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/javascript/performance/universal-rendering-lab/project-setup/" class="dd-item">
+          <div>
+            <a href="javascript/performance/universal-rendering-lab/project-setup">
+              Project Setup
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/performance/universal-rendering-lab/step-1/" class="dd-item">
+          <div>
+            <a href="javascript/performance/universal-rendering-lab/step-1">
+              Step 1: Create a route handler
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/performance/universal-rendering-lab/step-2/" class="dd-item">
+          <div>
+            <a href="javascript/performance/universal-rendering-lab/step-2">
+              Step 2: Render the App markup to a string
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/performance/universal-rendering-lab/step-3/" class="dd-item">
+          <div>
+            <a href="javascript/performance/universal-rendering-lab/step-3">
+              Step 3: Call the API from the server to fetch data for the app
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/performance/universal-rendering-lab/step-4/" class="dd-item">
+          <div>
+            <a href="javascript/performance/universal-rendering-lab/step-4">
+              Step 4: Attach event listeners in the client
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/performance/universal-rendering-lab/step-5/" class="dd-item">
+          <div>
+            <a href="javascript/performance/universal-rendering-lab/step-5">
+              Step 5: Pass data from the server to the client
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/performance/universal-rendering-lab/step-6/" class="dd-item">
+          <div>
+            <a href="javascript/performance/universal-rendering-lab/step-6">
+              Step 6: Measure performance
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/javascript/performance/universal-rendering-lab/bonus/" class="dd-item">
+          <div>
+            <a href="javascript/performance/universal-rendering-lab/bonus">
+              Bonus
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/onboarding/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="onboarding">Onboarding</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/onboarding/general/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="onboarding/general">Technology</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/onboarding/general/module-1-Orange Academy/" class="dd-item
+      ">
+        <div>
+          <a href="onboarding/general/module-1-Orange%20Academy">Orange Academy: An Overview</a>
+        </div>
+      </li>
+      <li data-nav-id="/onboarding/general/module-2-performance/" class="dd-item
+      ">
+        <div>
+          <a href="onboarding/general/module-2-performance">Company Performance, Strategy, &amp; Transformation</a>
+        </div>
+      </li>
+      <li data-nav-id="/onboarding/general/module-3-balanced-teams/" class="dd-item
+      ">
+        <div>
+          <a href="onboarding/general/module-3-balanced-teams">What is next?</a>
+        </div>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/onboarding/cyber-security/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="onboarding/cyber-security">Cybersecurity</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/onboarding/cyber-security/getting-started/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="onboarding/cyber-security/getting-started">Getting Started</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/onboarding/cyber-security/getting-started/general/" class="dd-item">
+          <div>
+            <a href="onboarding/cyber-security/getting-started/general">
+              Cyber Security General Onboarding
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/onboarding/cyber-security/getting-started/cyber-specific/" class="dd-item">
+          <div>
+            <a href="onboarding/cyber-security/getting-started/cyber-specific">
+              Cybersecurity Specific Onboarding
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/onboarding/cyber-security/general/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="onboarding/cyber-security/general">General</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/onboarding/cyber-security/general/module-1-intro/" class="dd-item
+      ">
+        <div>
+          <a href="onboarding/cyber-security/general/module-1-intro">Introduction to Cyber Security</a>
+        </div>
+      </li>
+      <li data-nav-id="/onboarding/cyber-security/general/module-2-hygiene/" class="dd-item
+      ">
+        <div>
+          <a href="onboarding/cyber-security/general/module-2-hygiene">Cyber Hygiene</a>
+        </div>
+      </li>
+      <li data-nav-id="/onboarding/cyber-security/general/module-3-responsibility/" class="dd-item
+      ">
+        <div>
+          <a href="onboarding/cyber-security/general/module-3-responsibility">Security - A Shared Responsibility</a>
+        </div>
+      </li>
+      <li data-nav-id="/onboarding/cyber-security/general/module-4-going-forward/" class="dd-item
+      ">
+        <div>
+          <a href="onboarding/cyber-security/general/module-4-going-forward">Going Forward</a>
+        </div>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/onboarding/cyber-security/cyber-associates/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="onboarding/cyber-security/cyber-associates">Cyber Associates</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/onboarding/cyber-security/cyber-associates/module-1-mission/" class="dd-item
+      ">
+        <div>
+          <a href="onboarding/cyber-security/cyber-associates/module-1-mission">The Cyber Mission</a>
+        </div>
+      </li>
+      <li data-nav-id="/onboarding/cyber-security/cyber-associates/module-2-tooling/" class="dd-item
+      ">
+        <div>
+          <a href="onboarding/cyber-security/cyber-associates/module-2-tooling">The Cyber Tool Belt</a>
+        </div>
+      </li>
+      <li data-nav-id="/onboarding/cyber-security/cyber-associates/module-3-going-forward/" class="dd-item
+      ">
+        <div>
+          <a href="onboarding/cyber-security/cyber-associates/module-3-going-forward">What is next?</a>
+        </div>
+      </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/path-to-production/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="path-to-production">Path to Production</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/path-to-production/before-you-build/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="path-to-production/before-you-build">Before You Build</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/path-to-production/before-you-build/12factor/" class="dd-item">
+          <div>
+            <a href="path-to-production/before-you-build/12factor">
+              The Twelve-Factor App
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/path-to-production/before-you-build/subexp/" class="dd-item">
+          <div>
+            <a href="path-to-production/before-you-build/subexp">
+              Requesting a Sub-Experience
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/path-to-production/before-you-build/asa/" class="dd-item">
+          <div>
+            <a href="path-to-production/before-you-build/asa">
+              Getting Started With an Architecture Security Assessment
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/path-to-production/dev-environment/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="path-to-production/dev-environment">Configure Your Development Environment</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/path-to-production/dev-environment/arp/" class="dd-item">
+          <div>
+            <a href="path-to-production/dev-environment/arp">
+              Access Request Portal
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/path-to-production/dev-environment/tools/" class="dd-item">
+          <div>
+            <a href="path-to-production/dev-environment/tools">
+              Tools and Editors
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/path-to-production/tech-stack/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="path-to-production/tech-stack">Choosing a Tech Stack</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/path-to-production/tech-stack/paved-road/" class="dd-item">
+          <div>
+            <a href="path-to-production/tech-stack/paved-road">
+              Paved Road
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/path-to-production/tech-stack/data/" class="dd-item">
+          <div>
+            <a href="path-to-production/tech-stack/data">
+              Choosing your Data Solution
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/path-to-production/tech-stack/messaging/" class="dd-item">
+          <div>
+            <a href="path-to-production/tech-stack/messaging">
+              Messaging Options
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/path-to-production/tech-stack/cicd-options/" class="dd-item">
+          <div>
+            <a href="path-to-production/tech-stack/cicd-options">
+              Choosing a CICD Solution
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/path-to-production/platforms/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="path-to-production/platforms">Configure Your Runtime Environment</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/path-to-production/platforms/provision_pcf/" class="dd-item">
+          <div>
+            <a href="path-to-production/platforms/provision_pcf">
+              Provisioning PCF
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/path-to-production/cicd/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="path-to-production/cicd">Configure CI/CD</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/path-to-production/cicd/concourse-setup/" class="dd-item">
+          <div>
+            <a href="path-to-production/cicd/concourse-setup">
+              Concourse Setup
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/path-to-production/cicd/pipeline-stages/" class="dd-item">
+          <div>
+            <a href="path-to-production/cicd/pipeline-stages">
+              Path to an Approved Pipeline
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/path-to-production/change-management/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="path-to-production/change-management">Change Management</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/path-to-production/change-management/creating-a-change/" class="dd-item">
+          <div>
+            <a href="path-to-production/change-management/creating-a-change">
+              Creating an RFC for PCF
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/power-playlist/" class="dd-item
+      ">
+        <div>
+          <a href="power-playlist">Power Playlist</a>
+        </div>
+      </li>
+      <li data-nav-id="/python/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="python">Python</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/python/foundation/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="python/foundation">Foundation</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/python/foundation/virt_env/" class="dd-item">
+          <div>
+            <a href="python/foundation/virt_env">
+              Virtual Environments
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/math-operators/" class="dd-item">
+          <div>
+            <a href="python/foundation/math-operators">
+              Math Operators
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/print-function/" class="dd-item">
+          <div>
+            <a href="python/foundation/print-function">
+              Print Functions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/comments/" class="dd-item">
+          <div>
+            <a href="python/foundation/comments">
+              Comments
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/print-function-labs/" class="dd-item">
+          <div>
+            <a href="python/foundation/print-function-labs">
+              Print Functions Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/math-functions/" class="dd-item">
+          <div>
+            <a href="python/foundation/math-functions">
+              Math Functions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/variables/" class="dd-item">
+          <div>
+            <a href="python/foundation/variables">
+              Variables
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/math-variables-labs/" class="dd-item">
+          <div>
+            <a href="python/foundation/math-variables-labs">
+              Variables Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/formatting-and-input/" class="dd-item">
+          <div>
+            <a href="python/foundation/formatting-and-input">
+              Input
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/exceptions/" class="dd-item">
+          <div>
+            <a href="python/foundation/exceptions">
+              Exceptions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/exceptions-labs/" class="dd-item">
+          <div>
+            <a href="python/foundation/exceptions-labs">
+              Exceptions Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/booleans/" class="dd-item">
+          <div>
+            <a href="python/foundation/booleans">
+              Booleans
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/boolean-labs/" class="dd-item">
+          <div>
+            <a href="python/foundation/boolean-labs">
+              Boolean Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/strings/" class="dd-item">
+          <div>
+            <a href="python/foundation/strings">
+              Strings
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/strings-labs/" class="dd-item">
+          <div>
+            <a href="python/foundation/strings-labs">
+              Strings Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/functions/" class="dd-item">
+          <div>
+            <a href="python/foundation/functions">
+              Functions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/functions-labs/" class="dd-item">
+          <div>
+            <a href="python/foundation/functions-labs">
+              Function Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/data-structures/" class="dd-item">
+          <div>
+            <a href="python/foundation/data-structures">
+              Data Structures
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/data-structures-labs/" class="dd-item">
+          <div>
+            <a href="python/foundation/data-structures-labs">
+              Data Structure Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/conditional-statements/" class="dd-item">
+          <div>
+            <a href="python/foundation/conditional-statements">
+              Conditional Statements
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/conditional-statements-labs/" class="dd-item">
+          <div>
+            <a href="python/foundation/conditional-statements-labs">
+              Conditional Statements Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/loops/" class="dd-item">
+          <div>
+            <a href="python/foundation/loops">
+              Loops
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/file-manipulation/" class="dd-item">
+          <div>
+            <a href="python/foundation/file-manipulation">
+              File Manipulations
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/loops-labs/" class="dd-item">
+          <div>
+            <a href="python/foundation/loops-labs">
+              Loops Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/file-manipulation-labs/" class="dd-item">
+          <div>
+            <a href="python/foundation/file-manipulation-labs">
+              File Manipulation Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/classes/" class="dd-item">
+          <div>
+            <a href="python/foundation/classes">
+              Classes
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/classes-labs/" class="dd-item">
+          <div>
+            <a href="python/foundation/classes-labs">
+              Classes Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/generators/" class="dd-item">
+          <div>
+            <a href="python/foundation/generators">
+              Generators
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/foundation/decorators/" class="dd-item">
+          <div>
+            <a href="python/foundation/decorators">
+              Decorators
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/python/relational-db/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="python/relational-db">Relational Databases</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/python/relational-db/relational-databases/" class="dd-item">
+          <div>
+            <a href="python/relational-db/relational-databases">
+              Relational Databases
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/relational-db/postgres-python/" class="dd-item">
+          <div>
+            <a href="python/relational-db/postgres-python">
+              PostgreSQL and Python
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/relational-db/postgres-testing/" class="dd-item">
+          <div>
+            <a href="python/relational-db/postgres-testing">
+              Testing Postgres
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/relational-db/orm-intro/" class="dd-item">
+          <div>
+            <a href="python/relational-db/orm-intro">
+              ORM Intro
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/relational-db/orm-models/" class="dd-item">
+          <div>
+            <a href="python/relational-db/orm-models">
+              ORM Models
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/relational-db/orm-querying/" class="dd-item">
+          <div>
+            <a href="python/relational-db/orm-querying">
+              ORM Querying
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/relational-db/orm-testing/" class="dd-item">
+          <div>
+            <a href="python/relational-db/orm-testing">
+              Testing with Python and ORM
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/python/automation/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="python/automation">Automation</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/python/automation/automating-python-interactions/" class="dd-item">
+          <div>
+            <a href="python/automation/automating-python-interactions">
+              Automating Python Scripts
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/automation/chart-creation/" class="dd-item">
+          <div>
+            <a href="python/automation/chart-creation">
+              Chart Creation
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/automation/report-creation/" class="dd-item">
+          <div>
+            <a href="python/automation/report-creation">
+              Report Creation
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/automation/send-emails/" class="dd-item">
+          <div>
+            <a href="python/automation/send-emails">
+              Sending Emails
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/python/nonrelational-db/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="python/nonrelational-db">Nonrelational Databases</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/python/nonrelational-db/nosql-vs-sql/" class="dd-item">
+          <div>
+            <a href="python/nonrelational-db/nosql-vs-sql">
+              NoSQL vs SQL Databases
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/nonrelational-db/mongo/" class="dd-item">
+          <div>
+            <a href="python/nonrelational-db/mongo">
+              MongoDB and Python
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/nonrelational-db/cassandra/" class="dd-item">
+          <div>
+            <a href="python/nonrelational-db/cassandra">
+              Cassandra and Python
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/nonrelational-db/testing/" class="dd-item">
+          <div>
+            <a href="python/nonrelational-db/testing">
+              Testing Database Interactions
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/python/apis/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="python/apis">APIs</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/python/apis/flask/" class="dd-item">
+          <div>
+            <a href="python/apis/flask">
+              RESTful API w/Flask
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/apis/apis/" class="dd-item">
+          <div>
+            <a href="python/apis/apis">
+              APIs
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/python/testing/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="python/testing">Testing</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/python/testing/why/" class="dd-item">
+          <div>
+            <a href="python/testing/why">
+              Why Do We Test?
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/testing/types/" class="dd-item">
+          <div>
+            <a href="python/testing/types">
+              Types of Testing
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/testing/intro-to-pytest/" class="dd-item">
+          <div>
+            <a href="python/testing/intro-to-pytest">
+              Creating and Writing Tests
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/testing/coverage/" class="dd-item">
+          <div>
+            <a href="python/testing/coverage">
+              Code Coverage
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/testing/pytest-command/" class="dd-item">
+          <div>
+            <a href="python/testing/pytest-command">
+              Pytest Command
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/testing/pytest-assertions/" class="dd-item">
+          <div>
+            <a href="python/testing/pytest-assertions">
+              Pytest Assertions
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/python/web-framework/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="python/web-framework">Web Frameworks</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/python/web-framework/django_intro/" class="dd-item">
+          <div>
+            <a href="python/web-framework/django_intro">
+              Django Introduction
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/web-framework/django_db/" class="dd-item">
+          <div>
+            <a href="python/web-framework/django_db">
+              Django Databases
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/web-framework/django_db_api/" class="dd-item">
+          <div>
+            <a href="python/web-framework/django_db_api">
+              Interacting with the API
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/web-framework/django_views/" class="dd-item">
+          <div>
+            <a href="python/web-framework/django_views">
+              Customizing Views
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/web-framework/django_generic_views/" class="dd-item">
+          <div>
+            <a href="python/web-framework/django_generic_views">
+              Generic Views
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/web-framework/django_admin/" class="dd-item">
+          <div>
+            <a href="python/web-framework/django_admin">
+              Django Admin
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/web-framework/django_testing/" class="dd-item">
+          <div>
+            <a href="python/web-framework/django_testing">
+              Django Testing
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/web-framework/thd_api_and_ux/thd_style_guide/" class="dd-item">
+          <div>
+            <a href="python/web-framework/thd_api_and_ux/thd_style_guide">
+              THD Style Guide
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/python/bots/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="python/bots">Bots</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/python/bots/slackbot_intro/" class="dd-item">
+          <div>
+            <a href="python/bots/slackbot_intro">
+              Intro to Slackbot
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/bots/coding_first_bot/" class="dd-item">
+          <div>
+            <a href="python/bots/coding_first_bot">
+              Coding Our First Bot
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/python/bots/bot_labs/" class="dd-item">
+          <div>
+            <a href="python/bots/bot_labs">
+              Labs
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/python/web_scraping/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="python/web_scraping">Web Scraping</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/python/web_scraping/scrapy/" class="dd-item">
+          <div>
+            <a href="python/web_scraping/scrapy">
+              Web Scraping Tutorial
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/react/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react">React</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/react/foundations/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/foundations">Foundations</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/react/foundations/syllabus/" class="dd-item">
+          <div>
+            <a href="react/foundations/syllabus">
+              Syllabus
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/react-intro/" class="dd-item">
+          <div>
+            <a href="react/foundations/react-intro">
+              Intro to React
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/getting-started/" class="dd-item">
+          <div>
+            <a href="react/foundations/getting-started">
+              Getting Started
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/jsx/" class="dd-item">
+          <div>
+            <a href="react/foundations/jsx">
+              JSX Expressions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/intro-to-components/" class="dd-item">
+          <div>
+            <a href="react/foundations/intro-to-components">
+              Intro to Components
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/component-props/" class="dd-item">
+          <div>
+            <a href="react/foundations/component-props">
+              Component Props
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/prop-types/" class="dd-item">
+          <div>
+            <a href="react/foundations/prop-types">
+              PropTypes (optional)
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/component-state/" class="dd-item">
+          <div>
+            <a href="react/foundations/component-state">
+              Component State
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/state-with-classes/" class="dd-item">
+          <div>
+            <a href="react/foundations/state-with-classes">
+              Component State with JS Classes
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/events/" class="dd-item">
+          <div>
+            <a href="react/foundations/events">
+              Events
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/forms/" class="dd-item">
+          <div>
+            <a href="react/foundations/forms">
+              Forms
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/side-effects/" class="dd-item">
+          <div>
+            <a href="react/foundations/side-effects">
+              Managing Side Effects
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/styling/" class="dd-item">
+          <div>
+            <a href="react/foundations/styling">
+              Styling Components
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/context/" class="dd-item">
+          <div>
+            <a href="react/foundations/context">
+              Context API
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/react-router-v4/" class="dd-item">
+          <div>
+            <a href="react/foundations/react-router-v4">
+              React Router v4
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/react-router-v5/" class="dd-item">
+          <div>
+            <a href="react/foundations/react-router-v5">
+              React Router v5
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/react-router-v6/" class="dd-item">
+          <div>
+            <a href="react/foundations/react-router-v6">
+              React Router v6
+            </a>
+          </div>
+        </li>
+      <li data-nav-id="/react/foundations/labs/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/foundations/labs">Labs</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/react/foundations/labs/lab-hello-react/" class="dd-item">
+          <div>
+            <a href="react/foundations/labs/lab-hello-react">
+              Hello React
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/labs/lab-jsx-expressions/" class="dd-item">
+          <div>
+            <a href="react/foundations/labs/lab-jsx-expressions">
+              JSX Expressions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/labs/lab-component-props/" class="dd-item">
+          <div>
+            <a href="react/foundations/labs/lab-component-props">
+              Component Props
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/labs/lab-component-state/" class="dd-item">
+          <div>
+            <a href="react/foundations/labs/lab-component-state">
+              Component State
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/labs/lab-events/" class="dd-item">
+          <div>
+            <a href="react/foundations/labs/lab-events">
+              Events
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/labs/lab-forms-calculator/" class="dd-item">
+          <div>
+            <a href="react/foundations/labs/lab-forms-calculator">
+              Forms
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/labs/lab-side-effects/" class="dd-item">
+          <div>
+            <a href="react/foundations/labs/lab-side-effects">
+              Side Effects
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/labs/lab-context/" class="dd-item">
+          <div>
+            <a href="react/foundations/labs/lab-context">
+              Context
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/labs/lab-routing/" class="dd-item">
+          <div>
+            <a href="react/foundations/labs/lab-routing">
+              Routing
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/labs/lab-budget-app/" class="dd-item">
+          <div>
+            <a href="react/foundations/labs/lab-budget-app">
+              Budget App
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/react/foundations/misc/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/foundations/misc">Misc</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/react/foundations/misc/build-a-complete-react-app/" class="dd-item">
+          <div>
+            <a href="react/foundations/misc/build-a-complete-react-app">
+              Build a Complete React App
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/foundations/misc/intro-to-fp/" class="dd-item">
+          <div>
+            <a href="react/foundations/misc/intro-to-fp">
+              Intro to FP
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/react/foundations/solutions/" class="dd-item
+      ">
+        <div>
+          <a href="react/foundations/solutions">Solutions</a>
+        </div>
+      </li>
+      <li data-nav-id="/react/foundations/cheatsheets/" class="dd-item
+      ">
+        <div>
+          <a href="react/foundations/cheatsheets">Cheatsheets</a>
+        </div>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/react/pillars/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/pillars">Pillars</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/react/pillars/context-api-and-hooks/" class="dd-item
+      ">
+        <div>
+          <a href="react/pillars/context-api-and-hooks">Context API and Hooks</a>
+        </div>
+      </li>
+      <li data-nav-id="/react/pillars/advanced-state-mgmt/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/pillars/advanced-state-mgmt">Advanced State Management</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/react/pillars/advanced-state-mgmt/syllabus/" class="dd-item">
+          <div>
+            <a href="react/pillars/advanced-state-mgmt/syllabus">
+              Syllabus
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/advanced-state-mgmt/context-and-hooks/" class="dd-item">
+          <div>
+            <a href="react/pillars/advanced-state-mgmt/context-and-hooks">
+              Context and Hooks
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/react/pillars/testing/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/pillars/testing">Testing</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/react/pillars/testing/common/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/pillars/testing/common">Common Lessons</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/react/pillars/testing/common/intro/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/common/intro">
+              Introduction to Testing
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/common/jest/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/common/jest">
+              Jest
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/common/mocking/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/common/mocking">
+              Mocking
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/react/pillars/testing/tdd/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/pillars/testing/tdd">TDD with Enzyme</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/react/pillars/testing/tdd/syllabus/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/tdd/syllabus">
+              Syllabus
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/tdd/intro/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/tdd/intro">
+              Intro to TDD
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/tdd/enzyme/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/tdd/enzyme">
+              Getting Started with Enzyme
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/tdd/gift-list/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/tdd/gift-list">
+              Lab: Gift List App Set Up
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/tdd/test-suite-structure/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/tdd/test-suite-structure">
+              Testing Suite Structure
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/tdd/gift-list-choice/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/tdd/gift-list-choice">
+              Lab: Gift App, Choose your own adventure
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/tdd/gift-list-routing/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/tdd/gift-list-routing">
+              How to Test Routing
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/react/pillars/testing/react-testing-library/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/pillars/testing/react-testing-library">React Testing Library</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/react/pillars/testing/react-testing-library/syllabus/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/react-testing-library/syllabus">
+              Syllabus
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/react-testing-library/rtl-intro/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/react-testing-library/rtl-intro">
+              Introduction to RTL
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/react-testing-library/rtl-getting-started/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/react-testing-library/rtl-getting-started">
+              Getting Started
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/react-testing-library/rtl-presentational-components/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/react-testing-library/rtl-presentational-components">
+              Testing Presentational Components
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/react-testing-library/rtl-generic-components/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/react-testing-library/rtl-generic-components">
+              Testing Generic Components
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/react-testing-library/rtl-forms/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/react-testing-library/rtl-forms">
+              Testing Forms
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/react-testing-library/rtl-custom-hooks/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/react-testing-library/rtl-custom-hooks">
+              Testing Custom Hooks
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/react-testing-library/rtl-routes/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/react-testing-library/rtl-routes">
+              Testing Routes
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/testing/react-testing-library/rtl-cheat-sheet/" class="dd-item">
+          <div>
+            <a href="react/pillars/testing/react-testing-library/rtl-cheat-sheet">
+              RTL Cheat Sheet
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/react/pillars/redux/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/pillars/redux">Redux</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/react/pillars/redux/intro-to-redux/" class="dd-item">
+          <div>
+            <a href="react/pillars/redux/intro-to-redux">
+              Intro to Redux
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/redux/react-and-redux/" class="dd-item">
+          <div>
+            <a href="react/pillars/redux/react-and-redux">
+              React and Redux
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/redux/async-redux/" class="dd-item">
+          <div>
+            <a href="react/pillars/redux/async-redux">
+              Async Redux
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/redux/redux-beyond-the-basics/" class="dd-item">
+          <div>
+            <a href="react/pillars/redux/redux-beyond-the-basics">
+              Redux Beyond the Basics
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/react/pillars/advanced-react/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/pillars/advanced-react">More Advanced React</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/react/pillars/advanced-react/getting-started/" class="dd-item">
+          <div>
+            <a href="react/pillars/advanced-react/getting-started">
+              Getting Started
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/advanced-react/react-router-advanced/" class="dd-item">
+          <div>
+            <a href="react/pillars/advanced-react/react-router-advanced">
+              React Router Advanced
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/advanced-react/reusable-components/" class="dd-item">
+          <div>
+            <a href="react/pillars/advanced-react/reusable-components">
+              Reusable Components
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/react/pillars/hooks/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/pillars/hooks">React Hooks</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/react/pillars/hooks/intro/" class="dd-item">
+          <div>
+            <a href="react/pillars/hooks/intro">
+              Intro to Hooks
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/hooks/usestate/" class="dd-item">
+          <div>
+            <a href="react/pillars/hooks/usestate">
+              The useState Hook
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/hooks/useeffect/" class="dd-item">
+          <div>
+            <a href="react/pillars/hooks/useeffect">
+              The useEffect Hook
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/hooks/usecontext/" class="dd-item">
+          <div>
+            <a href="react/pillars/hooks/usecontext">
+              The useContext Hook
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/hooks/useref/" class="dd-item">
+          <div>
+            <a href="react/pillars/hooks/useref">
+              The useRef Hook
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/hooks/usereducer/" class="dd-item">
+          <div>
+            <a href="react/pillars/hooks/usereducer">
+              The useReducer Hook
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/hooks/customhooks/" class="dd-item">
+          <div>
+            <a href="react/pillars/hooks/customhooks">
+              Custom Hooks
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/react/pillars/perf-opt-strategies/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/pillars/perf-opt-strategies">Performance Optimization</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/react/pillars/perf-opt-strategies/intro/" class="dd-item">
+          <div>
+            <a href="react/pillars/perf-opt-strategies/intro">
+              Introduction
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/perf-opt-strategies/memo/" class="dd-item">
+          <div>
+            <a href="react/pillars/perf-opt-strategies/memo">
+              React.memo
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/perf-opt-strategies/use-memo/" class="dd-item">
+          <div>
+            <a href="react/pillars/perf-opt-strategies/use-memo">
+              React.useMemo
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/perf-opt-strategies/use-callback/" class="dd-item">
+          <div>
+            <a href="react/pillars/perf-opt-strategies/use-callback">
+              React.useCallback
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/perf-opt-strategies/web-worker/" class="dd-item">
+          <div>
+            <a href="react/pillars/perf-opt-strategies/web-worker">
+              Web Workers
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/perf-opt-strategies/pagination/" class="dd-item">
+          <div>
+            <a href="react/pillars/perf-opt-strategies/pagination">
+              Pagination
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/perf-opt-strategies/debounce/" class="dd-item">
+          <div>
+            <a href="react/pillars/perf-opt-strategies/debounce">
+              Debouncing
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/perf-opt-strategies/context/" class="dd-item">
+          <div>
+            <a href="react/pillars/perf-opt-strategies/context">
+              Context API
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/perf-opt-strategies/quiz/" class="dd-item">
+          <div>
+            <a href="react/pillars/perf-opt-strategies/quiz">
+              Quiz
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/pillars/perf-opt-strategies/summary/" class="dd-item">
+          <div>
+            <a href="react/pillars/perf-opt-strategies/summary">
+              Summary
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/react/performance/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/performance">Web Performance</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/react/performance/getting-started/" class="dd-item">
+          <div>
+            <a href="react/performance/getting-started">
+              Getting Started
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/performance/gathering-metrics-lab/" class="dd-item">
+          <div>
+            <a href="react/performance/gathering-metrics-lab">
+              Lab: Measure FCP and FMP
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/performance/client-side-rendering/" class="dd-item">
+          <div>
+            <a href="react/performance/client-side-rendering">
+              Client-side Rendering
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/performance/server-side-rendering/" class="dd-item">
+          <div>
+            <a href="react/performance/server-side-rendering">
+              Server-side Rendering
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/performance/universal-rendering/" class="dd-item">
+          <div>
+            <a href="react/performance/universal-rendering">
+              Universal Rendering
+            </a>
+          </div>
+        </li>
+      <li data-nav-id="/react/performance/universal-rendering-lab/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="react/performance/universal-rendering-lab">Lab: Universal Rendering</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/react/performance/universal-rendering-lab/project-setup/" class="dd-item">
+          <div>
+            <a href="react/performance/universal-rendering-lab/project-setup">
+              Project Setup
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/performance/universal-rendering-lab/step-1/" class="dd-item">
+          <div>
+            <a href="react/performance/universal-rendering-lab/step-1">
+              Step 1: Create a route handler
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/performance/universal-rendering-lab/step-2/" class="dd-item">
+          <div>
+            <a href="react/performance/universal-rendering-lab/step-2">
+              Step 2: Render the App markup to a string
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/performance/universal-rendering-lab/step-3/" class="dd-item">
+          <div>
+            <a href="react/performance/universal-rendering-lab/step-3">
+              Step 3: Call the API from the server to fetch data for the app
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/performance/universal-rendering-lab/step-4/" class="dd-item">
+          <div>
+            <a href="react/performance/universal-rendering-lab/step-4">
+              Step 4: Attach event listeners in the client
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/performance/universal-rendering-lab/step-5/" class="dd-item">
+          <div>
+            <a href="react/performance/universal-rendering-lab/step-5">
+              Step 5: Pass data from the server to the client
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/performance/universal-rendering-lab/step-6/" class="dd-item">
+          <div>
+            <a href="react/performance/universal-rendering-lab/step-6">
+              Step 6: Measure performance
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/react/performance/universal-rendering-lab/bonus/" class="dd-item">
+          <div>
+            <a href="react/performance/universal-rendering-lab/bonus">
+              Bonus
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/" class="dd-item parent haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials">Software Engineering Essentials</a>
+              <i class="fa fa-angle-down fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/software-eng-essentials/topic-cheatsheets/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/topic-cheatsheets">Topic Specific Cheatsheets</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/topic-cheatsheets/cli-cheatsheet/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/topic-cheatsheets/cli-cheatsheet">
+              CLI Cheatsheet
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/topic-cheatsheets/git-cli-cheatsheet/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/topic-cheatsheets/git-cli-cheatsheet">
+              Git CLI Cheatsheet
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/terminal-and-shell/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/terminal-and-shell">Terminal &amp; Shell</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/intro-to-unix/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/intro-to-unix">
+              Intro to Unix (optional)
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/intro-to-cli/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/intro-to-cli">
+              Intro to the CLI
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/getting-started/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/getting-started">
+              CLI - Getting Started
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/input-output-streams/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/input-output-streams">
+              Input, Output, and Streams
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/navigating-file-system/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/navigating-file-system">
+              Navigating the File System
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/managing-file-system/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/managing-file-system">
+              Managing the File System
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/file-permissions/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/file-permissions">
+              File Permissions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/shell-configuration/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/shell-configuration">
+              Shell Configuration
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/processes/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/processes">
+              Processes
+            </a>
+          </div>
+        </li>
+      <li data-nav-id="/software-eng-essentials/terminal-and-shell/supplemental/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/terminal-and-shell/supplemental">Additional Resources</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/supplemental/mac-shortcuts/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/supplemental/mac-shortcuts">
+              Mac Shortcuts
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/supplemental/liquidprompt/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/supplemental/liquidprompt">
+              Liquid Prompt
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/terminal-and-shell/labs/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/terminal-and-shell/labs">Labs</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/labs/lab-paths/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/labs/lab-paths">
+              Paths Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/labs/lab-navigating-directories/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/labs/lab-navigating-directories">
+              Navigating Directories Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/labs/lab-listing-files/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/labs/lab-listing-files">
+              Listing Files Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/labs/lab-a-new-terminal/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/labs/lab-a-new-terminal">
+              A New Terminal
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/labs/lab-kitchen-organizer/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/labs/lab-kitchen-organizer">
+              Kitchen Organizer
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+        <li data-nav-id="/software-eng-essentials/terminal-and-shell/unix-commands/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/terminal-and-shell/unix-commands">
+              UNIX Shell Commands
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/text-editors/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/text-editors">Text Editors</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/text-editors/intro-to-text-editors/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/text-editors/intro-to-text-editors">
+              Introduction to Text Editors
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/text-editors/vs-code/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/text-editors/vs-code">
+              VS Code
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/text-editors/atom/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/text-editors/atom">
+              Atom
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/text-editors/text-editors-labs/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/text-editors/text-editors-labs">
+              Lab: Test Drive Your Text Editor
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/git-foundations/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/git-foundations">Git Foundations</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/git-foundations/git-setup/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-foundations/git-setup">
+              Git set up
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-foundations/gitting-started/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-foundations/gitting-started">
+              Gitting Started
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-foundations/gitting-started-labs/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-foundations/gitting-started-labs">
+              Gitting Started Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-foundations/git-branching-out/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-foundations/git-branching-out">
+              Git Branching Out
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-foundations/git-branching-out-labs/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-foundations/git-branching-out-labs">
+              Git Branching Out Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-foundations/gitting-back-together/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-foundations/gitting-back-together">
+              Gitting back together
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-foundations/gitting-back-together-labs/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-foundations/gitting-back-together-labs">
+              Gitting Back Together Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-foundations/intro-to-github/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-foundations/intro-to-github">
+              GitHub Intro
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-foundations/intro-to-github-labs/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-foundations/intro-to-github-labs">
+              GitHub Intro Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-foundations/workflow/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-foundations/workflow">
+              Git Workflow
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-foundations/reclaim-data/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-foundations/reclaim-data">
+              Reclaim Data
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-foundations/reclaim-data-labs/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-foundations/reclaim-data-labs">
+              Reclaim Data Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-foundations/unix-commands/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-foundations/unix-commands">
+              UNIX Shell Commands
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/db-sql/" class="dd-item parent haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/db-sql">Databases and SQL</a>
+              <i class="fa fa-angle-down fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/db-sql/intro-to-rdbms/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/db-sql/intro-to-rdbms">
+              Intro to RDMS
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/db-sql/intro-to-postgresql/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/db-sql/intro-to-postgresql">
+              Intro to PostgreSQL
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/db-sql/schemas/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/db-sql/schemas">
+              DB Schemas
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/db-sql/sql/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/db-sql/sql">
+              Intro to SQL
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/db-sql/sql-joins/" class="dd-item active">
+          <div>
+            <a href="software-eng-essentials/db-sql/sql-joins">
+              SQL Joins
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/db-sql/advanced-sql-joins/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/db-sql/advanced-sql-joins">
+              Advanced SQL Joins
+            </a>
+          </div>
+        </li>
+      <li data-nav-id="/software-eng-essentials/db-sql/data/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/db-sql/data">Additional Resources</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/software-eng-essentials/db-sql/data/vet-clinic/" class="dd-item
+      ">
+        <div>
+          <a href="software-eng-essentials/db-sql/data/vet-clinic">vet-clinic Additional Resources</a>
+        </div>
+      </li>
+      <li data-nav-id="/software-eng-essentials/db-sql/data/home-depot/" class="dd-item
+      ">
+        <div>
+          <a href="software-eng-essentials/db-sql/data/home-depot">home-depot Additional Resources</a>
+        </div>
+      </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/looker/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/looker">Looker</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/looker/getting-started/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/looker/getting-started">
+              Getting Started with Looker
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/looker/building-reports/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/looker/building-reports">
+              Building Reports
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/looker/building-reports-dive/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/looker/building-reports-dive">
+              Building Reports: Deep Dive
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/looker/scheduling/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/looker/scheduling">
+              Scheduling
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/agile-lean/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/agile-lean">Agile Foundations</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/agile-lean/intro-to-agile/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/agile-lean/intro-to-agile">
+              Intro to the Agile Process
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/agile-lean/mvp/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/agile-lean/mvp">
+              Minimum Viable Product (MVP)
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/agile-lean/scrum_and_kanban/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/agile-lean/scrum_and_kanban">
+              Scrum &amp; Kanban
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/agile-lean/user-stories/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/agile-lean/user-stories">
+              User Stories
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/postman-foundations/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/postman-foundations">Postman Foundations</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/postman-foundations/getting_started/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/postman-foundations/getting_started">
+              Postman Essentials
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/postman-foundations/testing_api_endpoints/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/postman-foundations/testing_api_endpoints">
+              Testing API Endpoints
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/postman-foundations/lab/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/postman-foundations/lab">
+              Postman Essential Labs
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/restful-api/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/restful-api">RESTful API</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/restful-api/rest/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/restful-api/rest">
+              RESTful APIs
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/command-line-bash/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/command-line-bash">Command line and Bash Scripting</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/intro/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/intro">
+              Intro
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/basics/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/basics">
+              Basics
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/manipulating-files/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/manipulating-files">
+              Manipulating files
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/inspecting-files/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/inspecting-files">
+              Inspecting Files
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/directories/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/directories">
+              Directories
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/customization/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/customization">
+              Customization
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/bash-scripting-intro/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/bash-scripting-intro">
+              Bash Scripting Intro
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/terminal-text-editing/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/terminal-text-editing">
+              Terminal: Text Editing
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/escalating-kill-script/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/escalating-kill-script">
+              Escalating kill scripts
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/scripting-and-receiving-input/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/scripting-and-receiving-input">
+              Scripting and receiving input
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/control-flow-loops-and-functions/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/control-flow-loops-and-functions">
+              Control flow loops and functions
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/subshell/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/subshell">
+              Subshell
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/bash/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/bash">
+              Regex in Bash
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/sed-and-awk/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/sed-and-awk">
+              Sed and Awk
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/command-line-bash/wildcards-and-brace-expansion/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/command-line-bash/wildcards-and-brace-expansion">
+              Wildcards and Brace Expansion
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/git-pillars/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/git-pillars">Git Pillar</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/git-pillars/git-branching-out/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/git-branching-out">
+              Git Branching Out
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-pillars/plumbing/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/plumbing">
+              Git Plumbing
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-pillars/plumbing-labs/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/plumbing-labs">
+              Git Plumbing Labs
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-pillars/hooks/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/hooks">
+              Git Hooks
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-pillars/filter/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/filter">
+              Git Filter Branch
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-pillars/filter-lab/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/filter-lab">
+              Git Filter Branch Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-pillars/interactive-rebase/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/interactive-rebase">
+              Git Interactive Rebase
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-pillars/interactive-rebase-lab/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/interactive-rebase-lab">
+              Git Interactive Rebase Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-pillars/stash/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/stash">
+              Git Stash
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-pillars/stash-lab/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/stash-lab">
+              Git Stash Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-pillars/cherry-pick/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/cherry-pick">
+              Git Cherry Pick
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-pillars/cherry-lab/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/cherry-lab">
+              Git Cherry Pick Lab
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-pillars/git-setup/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/git-setup">
+              Git set up
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/git-pillars/unix-commands/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/git-pillars/unix-commands">
+              UNIX Shell Commands
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/comp-sci/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/comp-sci">Computer Science</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/comp-sci/programming-languages/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/comp-sci/programming-languages">
+              Programming Languages Fundamentals
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/testing/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/testing">Testing</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/testing/why/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/testing/why">
+              Why Do We Test?
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/testing/types/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/testing/types">
+              Types of Testing
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/testing/coverage/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/testing/coverage">
+              Code Coverage
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/testing/tdd/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/testing/tdd">
+              Test Driven Development
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/testing/bdd/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/testing/bdd">
+              Behavior Driven Development
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/testing/dependency/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/testing/dependency">
+              Dependency Injection
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/testing/mocks/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/testing/mocks">
+              Mocking, Stubbing, and Spying
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/fundamentals-of-regex/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/fundamentals-of-regex">Fundamentals of Regex</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/fundamentals-of-regex/javascript/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/fundamentals-of-regex/javascript">
+              Regex in JavaScript
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/fundamentals-of-regex/basicsed/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/fundamentals-of-regex/basicsed">
+              Basic Sed
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/software-eng-essentials/fundamentals-of-regex/bash/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/fundamentals-of-regex/bash">
+              Regex in Bash
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/software-eng-essentials/patterns/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/patterns">Software Patterns</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/software-eng-essentials/patterns/resiliency/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="software-eng-essentials/patterns/resiliency">Resiliency Patterns</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/software-eng-essentials/patterns/resiliency/intro-to-resiliency/" class="dd-item">
+          <div>
+            <a href="software-eng-essentials/patterns/resiliency/intro-to-resiliency">
+              Intro to Resiliency
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+      <li data-nav-id="/web-essentials/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="web-essentials">Web Essentials</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+      <li data-nav-id="/web-essentials/cheatsheets/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="web-essentials/cheatsheets">Topic Specific Cheatsheets</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/web-essentials/cheatsheets/html-css-cheatsheet/" class="dd-item">
+          <div>
+            <a href="web-essentials/cheatsheets/html-css-cheatsheet">
+              HTML &amp; CSS Cheatsheet
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/web-essentials/internet/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="web-essentials/internet">How the Internet Works</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/web-essentials/internet/how-internet-works/" class="dd-item">
+          <div>
+            <a href="web-essentials/internet/how-internet-works">
+              Inner Workings of the Web
+            </a>
+          </div>
+        </li>
+          </ul>
+      </li>
+      <li data-nav-id="/web-essentials/webmastery-foundations/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="web-essentials/webmastery-foundations">Webmastery Foundations</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+        <li data-nav-id="/web-essentials/webmastery-foundations/html-intro/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/html-intro">
+              HTML Intro
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/css-intro/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/css-intro">
+              CSS Intro
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/selectors-and-specificity/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/selectors-and-specificity">
+              Selectors and Specificity
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/colors-and-fonts/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/colors-and-fonts">
+              CSS Colors and Fonts
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/box-model/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/box-model">
+              Box Model
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/html-forms/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/html-forms">
+              HTML Forms
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/transitions-and-animations/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/transitions-and-animations">
+              Transitions and Animations
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/responsive-layouts/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/responsive-layouts">
+              CSS Responsive Layouts
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/flexbox/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/flexbox">
+              Flexbox
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/grid/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/grid">
+              CSS Grid
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/css-best-practices/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/css-best-practices">
+              CSS Best Practices
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/sass/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/sass">
+              SASS
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/dom-intro/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/dom-intro">
+              Intro to the DOM
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/dom-manipulation/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/dom-manipulation">
+              DOM Manipulation and DOM Events
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/jquery/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/jquery">
+              DOM Manipulation with jQuery
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/templating/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/templating">
+              Templating Engines
+            </a>
+          </div>
+        </li>
+        <li data-nav-id="/web-essentials/webmastery-foundations/server-side/" class="dd-item">
+          <div>
+            <a href="web-essentials/webmastery-foundations/server-side">
+              Server-side Rendering
+            </a>
+          </div>
+        </li>
+      <li data-nav-id="/web-essentials/webmastery-foundations/additional/" class="dd-item haschildren
+      ">
+        <div>
+          <a href="web-essentials/webmastery-foundations/additional">Additional material</a><i class="fa fa-angle-right fa-lg category-icon"></i>
+        </div>
+          <ul>
+          </ul>
+      </li>
+          </ul>
+      </li>
+          </ul>
+      </li>
+
+  
+      </div>
+
+<script type="text/javascript">
+  mixpanel.track_links("#nav a", "click nav link", {
+      "referrer": document.referrer
+  });
+</script>
+                <hr />
+                <li></li>
+            </ul>
+        </div>
+        <section id="footer">
+        </section>
+    </div>
+</nav>
+
+<section id="body">
+    <div id="overlay"></div>
+    <div class="padding highlightable">
+        
+            <div>
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                            <i class="fa fa-bars"></i>
+                        </a>
+                    </span>
+                    <span id="toc-menu"><i class="fa fa-list-alt"></i></span>
+                    <span class="links">
+                        
+                
+                    
+                    
+                
+                    
+                    
+                
+                    
+                    
+                
+                    <a href='/'>Orange Academy</a> > <a href='/software-eng-essentials'>Software Engineering Essentials</a> > <a href='/software-eng-essentials/db-sql'>Databases and SQL</a> > SQL Joins
+                
+             
+                
+             
+                
+             
+                
+               
+                    </span>
+                </div>
+        
+                
+                <div class="progress">
+                    <div class="wrapper">
+                        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#learning-objectives">Learning Objectives</a>
+      <ul>
+        <li><a href="#concepts">Concepts</a></li>
+        <li><a href="#skills">Skills</a></li>
+      </ul>
+    </li>
+    <li><a href="#foreign-keys-and-sql-joins">Foreign Keys and SQL Joins</a>
+      <ul>
+        <li><a href="#example">Example</a>
+          <ul>
+            <li><a href="#more-examples">More Examples</a></li>
+          </ul>
+        </li>
+        <li><a href="#table-name-aliases">Table name aliases</a></li>
+      </ul>
+    </li>
+    <li><a href="#outer-joins">Outer Joins</a>
+      <ul>
+        <li><a href="#left-outer-join">Left Outer Join</a></li>
+        <li><a href="#right-outer-join">Right Outer Join</a></li>
+        <li><a href="#full-outer-join">Full Outer Join</a></li>
+        <li><a href="#multiple-table-labs">Multiple table labs</a></li>
+      </ul>
+    </li>
+    <li><a href="#summary">Summary</a></li>
+    <li><a href="#additional-resources">Additional Resources</a></li>
+  </ul>
+</nav>
+                    </div>
+                </div>
+                
+            </div>
+        
+        
+        <div id="body-inner">
+            
+                <h1>SQL Joins</h1>
+            
+
+            
+
+    
+    
+    
+    
+        <details class="post__toc toc" >
+            <summary class="toc__title">Table of Contents</summary>
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#learning-objectives">Learning Objectives</a>
+      <ul>
+        <li><a href="#concepts">Concepts</a></li>
+        <li><a href="#skills">Skills</a></li>
+      </ul>
+    </li>
+    <li><a href="#foreign-keys-and-sql-joins">Foreign Keys and SQL Joins</a>
+      <ul>
+        <li><a href="#example">Example</a>
+          <ul>
+            <li><a href="#more-examples">More Examples</a></li>
+          </ul>
+        </li>
+        <li><a href="#table-name-aliases">Table name aliases</a></li>
+      </ul>
+    </li>
+    <li><a href="#outer-joins">Outer Joins</a>
+      <ul>
+        <li><a href="#left-outer-join">Left Outer Join</a></li>
+        <li><a href="#right-outer-join">Right Outer Join</a></li>
+        <li><a href="#full-outer-join">Full Outer Join</a></li>
+        <li><a href="#multiple-table-labs">Multiple table labs</a></li>
+      </ul>
+    </li>
+    <li><a href="#summary">Summary</a></li>
+    <li><a href="#additional-resources">Additional Resources</a></li>
+  </ul>
+</nav>
+        </details>
+    
+    <h2 id="learning-objectives">Learning Objectives</h2>
+<h3 id="concepts">Concepts</h3>
+<ul>
+<li>Learn how rows are related to other rows via foreign keys</li>
+<li>Describe the different types of joins: inner, left-outer, right-outer, and full-outer.</li>
+</ul>
+<h3 id="skills">Skills</h3>
+<ul>
+<li>Write SQL queries that use joins to select related data from multiple tables.</li>
+<li>Choose between inner and outer joins to get the desired result set.</li>
+</ul>
+<h2 id="foreign-keys-and-sql-joins">Foreign Keys and SQL Joins</h2>
+<p>A <em>foreign key</em> is a column in one table dedicated to storing the PK value of another row (usually in another table). Thus <em>foreign keys</em> create a <em>relationship</em> between 2 rows of data.</p>
+<p>SQL provides a <code>join</code> mechanism for <code>select</code> ing data from multiple related rows. SQL joins are usually performed using PKs and FKs.</p>
+<h3 id="example">Example</h3>
+<p>First create a new database:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">createdb vet_clinic2
+</code></pre></div><p>Sign into <code>vet_clinic2</code> and create 2 tables with a relationship between them with this <a href="data/vet-clinic/schema.sql">vet clinic&rsquo;s schema file</a></p>
+<p>This will create the following schema:</p>
+<p><img src="software-eng-essentials/PetOwnerERD.png" alt="Pet-Owner ERD"></p>
+<p>Add some data with this <a href="data/vet-clinic/seeds.sql">vet clinic&rsquo;s seeds file</a></p>
+<p>There are two related tables of <code>pets</code> and <code>owners</code>. To see how the data looks together, try running:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">SELECT</span>
+  pets.name,
+  owners.name
+<span style="color:#66d9ef">FROM</span> pets, owners;
+</code></pre></div><p>Notice this gives a list of every combination of pet with every owner (in math this is called a Cartesian Product). Why does it do this?</p>
+<p>Since there were not any instructions given on how to relate one table with the other the system doesn&rsquo;t know that so it returns <em>every possible solution</em>. This can return both unexpected and invalid results.</p>
+<p><strong>How do describe the relationship between the two tables in our query?</strong></p>
+<p><em><em>Answer</em></em>: By leveraging our FK column.</p>
+<p><code>JOIN</code>ing the above 2 tables like this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">SELECT</span>
+  pets.name,
+  owners.name
+<span style="color:#66d9ef">FROM</span> pets
+  <span style="color:#66d9ef">INNER</span> <span style="color:#66d9ef">JOIN</span> owners <span style="color:#66d9ef">ON</span> pets.owner_id <span style="color:#f92672">=</span> owners.id;
+</code></pre></div><p>This <code>JOIN</code> tells tbe DMS <em>exactly</em> how to combine to two sets of data. Every record in one is not relevant to every record of the other, rather their relevance must be determined by the join criteria (here, where <code>owner_id</code> from <code>pets</code> matches <code>id</code> of <code>owner</code>).</p>
+<p>This is why well-defined joins are crucial to query creation. A missing or malformed <code>JOIN</code> can lead to faulty data and often <em>way</em> more results than expected.</p>
+<p>This can cause app failure as well as terrible performance issues. So it is important to understand exactly how one table relates to another to join properly.</p>
+<h4 id="more-examples">More Examples</h4>
+<p>The following are more examples using the same <code>vet-clinic2</code> database created above:</p>
+<p><strong>Select all columns from pets and owners sorted by owner name, pet name</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">SELECT</span> <span style="color:#f92672">*</span>
+<span style="color:#66d9ef">FROM</span> owners
+<span style="color:#66d9ef">INNER</span> <span style="color:#66d9ef">JOIN</span> pets <span style="color:#66d9ef">ON</span> owners.id <span style="color:#f92672">=</span> pets.owner_id
+<span style="color:#66d9ef">ORDER</span> <span style="color:#66d9ef">BY</span> owners.name, pets.name;
+</code></pre></div><p>Output:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh"> id |  name   |     phone      | id |  name  | owner_id | age
+----+---------+----------------+----+--------+----------+-----
+  <span style="color:#ae81ff">3</span> | Charlie | 123-4567       |  <span style="color:#ae81ff">4</span> | Snoopy |        <span style="color:#ae81ff">3</span> |   <span style="color:#ae81ff">7</span>
+  <span style="color:#ae81ff">4</span> | John    | 1-800-432-5000 |  <span style="color:#ae81ff">5</span> | Felix  |        <span style="color:#ae81ff">4</span> |   <span style="color:#ae81ff">9</span>
+  <span style="color:#ae81ff">2</span> | Marc    | 867-5309       |  <span style="color:#ae81ff">3</span> | Deisel |        <span style="color:#ae81ff">2</span> |   <span style="color:#ae81ff">4</span>
+  <span style="color:#ae81ff">1</span> | Mike    | 678-957-9556   |  <span style="color:#ae81ff">2</span> | Meisha |        <span style="color:#ae81ff">1</span> |   <span style="color:#ae81ff">1</span>
+  <span style="color:#ae81ff">1</span> | Mike    | 678-957-9556   |  <span style="color:#ae81ff">1</span> | Miko   |        <span style="color:#ae81ff">1</span> |   <span style="color:#ae81ff">2</span>
+<span style="color:#f92672">(</span><span style="color:#ae81ff">5</span> rows<span style="color:#f92672">)</span>
+</code></pre></div><p><strong>Select the number of pets by owner with the name of the owner next to the count</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">SELECT</span> owners.name, <span style="color:#66d9ef">COUNT</span>(<span style="color:#f92672">*</span>)
+<span style="color:#66d9ef">FROM</span> owners
+<span style="color:#66d9ef">INNER</span> <span style="color:#66d9ef">JOIN</span> pets <span style="color:#66d9ef">ON</span> owners.id <span style="color:#f92672">=</span> pets.owner_id
+<span style="color:#66d9ef">GROUP</span> <span style="color:#66d9ef">BY</span> owners.name;
+</code></pre></div><p>Output:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">  name   | count
+---------+-------
+ Mike    |     <span style="color:#ae81ff">2</span>
+ Marc    |     <span style="color:#ae81ff">1</span>
+ Charlie |     <span style="color:#ae81ff">1</span>
+ John    |     <span style="color:#ae81ff">1</span>
+<span style="color:#f92672">(</span><span style="color:#ae81ff">4</span> rows<span style="color:#f92672">)</span>
+</code></pre></div><p><strong>Select the average age of pets by owners</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">SELECT</span> owners.name, <span style="color:#66d9ef">AVG</span>(pets.age)
+<span style="color:#66d9ef">FROM</span> pets
+<span style="color:#66d9ef">INNER</span> <span style="color:#66d9ef">JOIN</span> owners <span style="color:#66d9ef">ON</span> pets.owner_id <span style="color:#f92672">=</span> owners.id
+<span style="color:#66d9ef">GROUP</span> <span style="color:#66d9ef">BY</span> owners.id;
+</code></pre></div><p>Output:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">  name   |        avg
+---------+--------------------
+ John    | 9.0000000000000000
+ Marc    | 4.0000000000000000
+ Mike    | 1.5000000000000000
+ Charlie | 7.0000000000000000
+<span style="color:#f92672">(</span><span style="color:#ae81ff">4</span> rows<span style="color:#f92672">)</span>
+</code></pre></div><p><strong>Select the pet names for all pets over 1 year old and belonging to either Mike or Marc</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">SELECT</span> pets.name
+<span style="color:#66d9ef">FROM</span> pets
+<span style="color:#66d9ef">INNER</span> <span style="color:#66d9ef">JOIN</span> owners <span style="color:#66d9ef">ON</span> pets.owner_id <span style="color:#f92672">=</span> owners.id
+<span style="color:#66d9ef">WHERE</span> owners.name <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;Mike&#39;</span> <span style="color:#66d9ef">or</span> owners.name <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;Marc&#39;</span> <span style="color:#66d9ef">or</span> pets.age <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">1</span>
+<span style="color:#66d9ef">GROUP</span> <span style="color:#66d9ef">BY</span> owners;
+</code></pre></div><p>Output:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">  name
+--------
+ Miko
+ Meisha
+ Deisel
+<span style="color:#f92672">(</span><span style="color:#ae81ff">3</span> rows<span style="color:#f92672">)</span>
+</code></pre></div><h3 id="table-name-aliases">Table name aliases</h3>
+<p>When working with multiple tables, sometimes it starts to get tedious to write out the full name of a table. This is where aliases come in handy.</p>
+<p>To create an alias for a table, use the following syntax:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql">tablename <span style="color:#66d9ef">alias</span>
+</code></pre></div><p>The following is updating the select the pet names for all pets over 1 year old and belonging to either Mike or Marc with using table aliases:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">SELECT</span> p.name
+<span style="color:#66d9ef">FROM</span> pets p
+<span style="color:#66d9ef">INNER</span> <span style="color:#66d9ef">JOIN</span> owners o <span style="color:#66d9ef">ON</span> p.owner_id <span style="color:#f92672">=</span> o.id
+<span style="color:#66d9ef">WHERE</span> o.name <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;Mike&#39;</span> <span style="color:#66d9ef">or</span> o.name <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;Marc&#39;</span> <span style="color:#66d9ef">or</span> p.age <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">1</span>
+<span style="color:#66d9ef">GROUP</span> <span style="color:#66d9ef">BY</span> o;
+</code></pre></div><p>Notice that you only need to write out the full table name with the <code>FROM</code> keyword.</p>
+<h2 id="outer-joins">Outer Joins</h2>
+<p>JOINing tables can be done with using Inner or Outer joins. So far, only inner joins covered: the <em>intersection</em> of all matching rows.</p>
+<p>It is possible to come up with a lot more combinations of rows using <em>outer joins</em>. An outer join is the <em>union</em> of all matching rows. Outer Joins can be <code>LEFT</code>, <code>RIGHT</code>, or <code>FULL</code>.</p>
+<p>Much of the SQL language is based on Math and Sets, shown here:
+<img src="software-eng-essentials/sql-joins.jpg" alt="SQL Joins"></p>
+<h3 id="left-outer-join">Left Outer Join</h3>
+<p><strong>Left Outer Join</strong> is often shortened to <strong>Left Join</strong>.</p>
+<p>Each row in a table (for example: <code>pets</code>) may have zero or many corresponding rows in another table (for example: <code>owners</code>).</p>
+<p>In the <code>vet-clinic</code> example, this would mean not all pets have a owner. To select all data from pets no matter what and all corresponding owner data (if applicable), a LEFT JOIN would help with this.</p>
+<p>To specify which table to select <strong>all</strong> data from, place that table name on the <strong>left</strong> of the keywords <code>LEFT JOIN</code>. (In this case, <code>pets</code>)</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">SELECT</span> <span style="color:#f92672">*</span>
+<span style="color:#66d9ef">FROM</span> pets <span style="color:#66d9ef">LEFT</span> <span style="color:#66d9ef">JOIN</span> owners <span style="color:#66d9ef">ON</span> pets.owner_id <span style="color:#f92672">=</span> owners.id;
+</code></pre></div><p>Output:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh"> id |   name   | owner_id | age | id |  name   |     phone
+----+----------+----------+-----+----+---------+----------------
+  <span style="color:#ae81ff">1</span> | Miko     |        <span style="color:#ae81ff">1</span> |   <span style="color:#ae81ff">2</span> |  <span style="color:#ae81ff">1</span> | Mike    | 678-957-9556
+  <span style="color:#ae81ff">2</span> | Meisha   |        <span style="color:#ae81ff">1</span> |   <span style="color:#ae81ff">1</span> |  <span style="color:#ae81ff">1</span> | Mike    | 678-957-9556
+  <span style="color:#ae81ff">3</span> | Deisel   |        <span style="color:#ae81ff">2</span> |   <span style="color:#ae81ff">4</span> |  <span style="color:#ae81ff">2</span> | Marc    | 867-5309
+  <span style="color:#ae81ff">4</span> | Snoopy   |        <span style="color:#ae81ff">3</span> |   <span style="color:#ae81ff">7</span> |  <span style="color:#ae81ff">3</span> | Charlie | 123-4567
+  <span style="color:#ae81ff">5</span> | Felix    |        <span style="color:#ae81ff">4</span> |   <span style="color:#ae81ff">9</span> |  <span style="color:#ae81ff">4</span> | John    | 1-800-432-5000
+  <span style="color:#ae81ff">6</span> | Snuggles |          |   <span style="color:#ae81ff">2</span> |    |         |
+<span style="color:#f92672">(</span><span style="color:#ae81ff">6</span> rows<span style="color:#f92672">)</span>
+</code></pre></div><p>Notice that Snuggles simply has blank values where the owner&rsquo;s information would be.</p>
+<h3 id="right-outer-join">Right Outer Join</h3>
+<p>Right Outer Joins are often called Right Joins.</p>
+<p>Right Joins are very similar to Left Joins, with the main difference being to specify which table to select <strong>all</strong> data from, place that table name on the <strong>right</strong> of the keywords <code>RIGHT JOIN</code>.</p>
+<p>Using the <code>vet-clinic</code> example, to show all owner&rsquo;s info with their corresponding pet data (if applicable) do the following:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">SELECT</span> <span style="color:#f92672">*</span>
+<span style="color:#66d9ef">FROM</span> pets <span style="color:#66d9ef">RIGHT</span> <span style="color:#66d9ef">JOIN</span> owners <span style="color:#66d9ef">ON</span> pets.owner_id <span style="color:#f92672">=</span> owners.id;
+</code></pre></div><p>Output:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh"> id |  name  | owner_id | age | id |  name   |     phone
+----+--------+----------+-----+----+---------+----------------
+  <span style="color:#ae81ff">1</span> | Miko   |        <span style="color:#ae81ff">1</span> |   <span style="color:#ae81ff">2</span> |  <span style="color:#ae81ff">1</span> | Mike    | 678-957-9556
+  <span style="color:#ae81ff">2</span> | Meisha |        <span style="color:#ae81ff">1</span> |   <span style="color:#ae81ff">1</span> |  <span style="color:#ae81ff">1</span> | Mike    | 678-957-9556
+  <span style="color:#ae81ff">3</span> | Deisel |        <span style="color:#ae81ff">2</span> |   <span style="color:#ae81ff">4</span> |  <span style="color:#ae81ff">2</span> | Marc    | 867-5309
+  <span style="color:#ae81ff">4</span> | Snoopy |        <span style="color:#ae81ff">3</span> |   <span style="color:#ae81ff">7</span> |  <span style="color:#ae81ff">3</span> | Charlie | 123-4567
+  <span style="color:#ae81ff">5</span> | Felix  |        <span style="color:#ae81ff">4</span> |   <span style="color:#ae81ff">9</span> |  <span style="color:#ae81ff">4</span> | John    | 1-800-432-5000
+    |        |          |     |  <span style="color:#ae81ff">5</span> | Susan   | 777-666-5555
+<span style="color:#f92672">(</span><span style="color:#ae81ff">6</span> rows<span style="color:#f92672">)</span>
+</code></pre></div><p>Notice that Susan simply has blank values where the pet&rsquo;s information would be.</p>
+<h3 id="full-outer-join">Full Outer Join</h3>
+<p><strong>Full Outer Join</strong> is often shortened to <strong>Full Join</strong>.</p>
+<p>A FULL JOIN can be used to select all data from 2+ tables and its corresponding data in another table (even if there is not corresponding data).</p>
+<p>In the <code>vet-clinic</code> example, this would mean not all pets have a owner and not all owners have a pet. To select all data from pets AND owners no matter what, a FULL JOIN would help with this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">SELECT</span> <span style="color:#f92672">*</span>
+<span style="color:#66d9ef">FROM</span> pets <span style="color:#66d9ef">FULL</span> <span style="color:#66d9ef">JOIN</span> owners <span style="color:#66d9ef">ON</span> pets.owner_id <span style="color:#f92672">=</span> owners.id;
+</code></pre></div><p>The order of naming the tables either to the left or the right of the <code>FULL JOIN</code> will not affect the data returned, just possibly the order of the columns.</p>
+<p>Output:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh"> id |   name   | owner_id | age | id |  name   |     phone
+----+----------+----------+-----+----+---------+----------------
+  <span style="color:#ae81ff">1</span> | Miko     |        <span style="color:#ae81ff">1</span> |   <span style="color:#ae81ff">2</span> |  <span style="color:#ae81ff">1</span> | Mike    | 678-957-9556
+  <span style="color:#ae81ff">2</span> | Meisha   |        <span style="color:#ae81ff">1</span> |   <span style="color:#ae81ff">1</span> |  <span style="color:#ae81ff">1</span> | Mike    | 678-957-9556
+  <span style="color:#ae81ff">3</span> | Deisel   |        <span style="color:#ae81ff">2</span> |   <span style="color:#ae81ff">4</span> |  <span style="color:#ae81ff">2</span> | Marc    | 867-5309
+  <span style="color:#ae81ff">4</span> | Snoopy   |        <span style="color:#ae81ff">3</span> |   <span style="color:#ae81ff">7</span> |  <span style="color:#ae81ff">3</span> | Charlie | 123-4567
+  <span style="color:#ae81ff">5</span> | Felix    |        <span style="color:#ae81ff">4</span> |   <span style="color:#ae81ff">9</span> |  <span style="color:#ae81ff">4</span> | John    | 1-800-432-5000
+  <span style="color:#ae81ff">6</span> | Snuggles |          |   <span style="color:#ae81ff">2</span> |    |         |
+    |          |          |     |  <span style="color:#ae81ff">5</span> | Susan   | 777-666-5555
+<span style="color:#f92672">(</span><span style="color:#ae81ff">7</span> rows<span style="color:#f92672">)</span>
+</code></pre></div><p>Notice that <strong>both</strong> Snuggles (who doesn&rsquo;t have an owner) and Susan (who doesn&rsquo;t have a pet) are listed.</p>
+<h3 id="multiple-table-labs">Multiple table labs</h3>
+<p>If you have not already:</p>
+<ul>
+<li>Run <code>git clone https://github.com/one-thd/om_labs_databases-and-sql.git</code></li>
+<li><code>cd</code> into the <code>om_labs_databases-and-sql</code> repository</li>
+</ul>
+<p>Go to the following folders and follow the instructions with the corresponding README&rsquo;s:</p>
+<ul>
+<li><code>shopping-with-two-tables</code></li>
+<li><code>lost-and-found</code></li>
+</ul>
+<h2 id="summary">Summary</h2>
+<ul>
+<li>Relational databases manage relationships between rows of data in multiple tables.</li>
+<li>These relationships are managed with Primary and Foreign keys.</li>
+<li>A foreign key is a column dedicated to holding the value of a PK of the related row.</li>
+<li>Using PKs and FKs we can define <em>one-to-one</em>, <em>one-to-many</em>, and <em>many-to-many</em> relationships.</li>
+<li><em>Many-to-many</em> relationships require a <code>mapping</code> table to store all of the FK values.</li>
+<li>SQL provides <code>INNER JOINS</code> and <code>OUTER JOINS</code> to <code>SELECT</code> data from related rows.</li>
+</ul>
+<h2 id="additional-resources">Additional Resources</h2>
+<ul>
+<li><a href="http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins">Visual Representation of SQL Joins</a></li>
+</ul>
+
+
+    
+    
+          <footer class=" footline" >
+	
+</footer>
+  </div>
+</div>
+
+<div id="navigation">
+</div>
+
+</section>
+<div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+  <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+</div>    
+
+<script src="js/clipboard.min.js"></script>
+<script src="js/featherlight.min.js"></script>
+<script src="js/html5shiv-printshiv.min.js"></script>
+
+<script src="js/modernizr.custom.71422.js"></script>
+<script src="js/docdock.js"></script>
+<script src="theme-original/script.js"></script>
+
+
+    
+
+    
+    
+
+    
+  </body>
+</html>

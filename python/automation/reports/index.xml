@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Report Creation Additional Files on Orange Academy</title>
+    <link>/python/automation/reports/</link>
+    <description>Recent content in Report Creation Additional Files on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./python/automation/reports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

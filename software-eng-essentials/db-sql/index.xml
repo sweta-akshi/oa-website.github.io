@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Databases and SQL on Orange Academy</title>
+    <link>/software-eng-essentials/db-sql/</link>
+    <description>Recent content in Databases and SQL on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/db-sql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to RDMS</title>
+      <link>/software-eng-essentials/db-sql/intro-to-rdbms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/db-sql/intro-to-rdbms/</guid>
+      <description>Learning Objectives  Describe why we use Databases Describe the following terms:  RDBMS Database   Define CRUD Explain DB Transactions, commit, and rollback Define the ACID properties of transactions  Why Do We Use Databases?</description>
+    </item>
+    
+    <item>
+      <title>Intro to PostgreSQL</title>
+      <link>/software-eng-essentials/db-sql/intro-to-postgresql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/db-sql/intro-to-postgresql/</guid>
+      <description>Learning Objectives  Verify that PostgreSQL is installed Learn how to start and stop PostgreSQL Verify the status of the PostgreSQL server Create a PostgreSQL database Connect to a database via psql List the database names Delete a database  PostgreSQL Set Up Install PostgreSQL package with the following command:</description>
+    </item>
+    
+    <item>
+      <title>DB Schemas</title>
+      <link>/software-eng-essentials/db-sql/schemas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/db-sql/schemas/</guid>
+      <description>Learning Objectives Concepts  Describe the following:  Database Schema CRUD Table Row Column Primary Key    Skills  Create a database Create tables Read and explain an ERD diagram Create an ERD diagram  Database Schemas The set of database tables, sequences, indexes, and other objects that define the structure of a database.</description>
+    </item>
+    
+    <item>
+      <title>Intro to SQL</title>
+      <link>/software-eng-essentials/db-sql/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/db-sql/sql/</guid>
+      <description>Learning Objectives Concepts  DDL and DML statements SQL Scripts  Skills  Create some data in the database Read some data from the database Update some data in the database Delete some data from the database  Intro to SQL Structured Query Language(SQL) lets you access and manipulate databases.</description>
+    </item>
+    
+    <item>
+      <title>SQL Joins</title>
+      <link>/software-eng-essentials/db-sql/sql-joins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/db-sql/sql-joins/</guid>
+      <description>Learning Objectives Concepts  Learn how rows are related to other rows via foreign keys Describe the different types of joins: inner, left-outer, right-outer, and full-outer.</description>
+    </item>
+    
+    <item>
+      <title>Advanced SQL Joins</title>
+      <link>/software-eng-essentials/db-sql/advanced-sql-joins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/db-sql/advanced-sql-joins/</guid>
+      <description>Learning Objectives Concepts  Learn how to join more than 2 tables together using inner, left-outer, right-outer, and full-outer joins Learn how to represent a many-to-many relationship  Skills  Write SQL queries that use joins to select related data from more than 2 tables.</description>
+    </item>
+    
+    <item>
+      <title>Intro to DataGrip</title>
+      <link>/software-eng-essentials/db-sql/intro-to-datagrip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/db-sql/intro-to-datagrip/</guid>
+      <description>DataGrip DataGrip is an IDE from JetBrains built for database developers. It allows you to quickly migrate and refactor relational databases, construct efficient, statically checked SQL queries and much more.</description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL Setup</title>
+      <link>/software-eng-essentials/db-sql/postgres-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/db-sql/postgres-setup/</guid>
+      <description>Background PostgreSQL has already been installed on each computer via homebrew. Now we just need a way to auto-start or manual-start postgres when a student is logged in.</description>
+    </item>
+    
+    <item>
+      <title>Remote Postgres Setup</title>
+      <link>/software-eng-essentials/db-sql/remote-postgres-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/db-sql/remote-postgres-setup/</guid>
+      <description>The following instructions will guide you through setting up a postgreSQL database on an ephermal server on https://server.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redux on Orange Academy</title>
+    <link>/react/pillars/redux/</link>
+    <description>Recent content in Redux on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./react/pillars/redux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Redux</title>
+      <link>/react/pillars/redux/intro-to-redux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/redux/intro-to-redux/</guid>
+      <description>Exploring Redux with vanilla JS
+ Topics 1. Learning Objectives 1.1. Concepts 1.2. Skills   2.</description>
+    </item>
+    
+    <item>
+      <title>React and Redux</title>
+      <link>/react/pillars/redux/react-and-redux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/redux/react-and-redux/</guid>
+      <description>Using Redux in your React application
+ Topics 1. Learning Objectives 1.1. Concepts 1.2. Skills   2.</description>
+    </item>
+    
+    <item>
+      <title>Async Redux</title>
+      <link>/react/pillars/redux/async-redux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/redux/async-redux/</guid>
+      <description>Adding Async Support to Redux with redux-thunk
+ Topics 1. Learning Objectives 1.1. Concepts 1.2. Skills   2.</description>
+    </item>
+    
+    <item>
+      <title>Redux Beyond the Basics</title>
+      <link>/react/pillars/redux/redux-beyond-the-basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/redux/redux-beyond-the-basics/</guid>
+      <description>Working with Redux side-effects and libraries
+ Topics 1. Learning Objectives 1.1. Concepts 1.2. Skills   2.</description>
+    </item>
+    
+    <item>
+      <title>Redux Beyond the Basics Solutions</title>
+      <link>/react/pillars/redux/redux-beyond-the-basics-solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/redux/redux-beyond-the-basics-solutions/</guid>
+      <description>Working with Redux side-effects and libraries
+ Topics 1. LAB 01 - Route and Nav Setup 1.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Express on Orange Academy</title>
+    <link>/javascript/express/</link>
+    <description>Recent content in Express on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./javascript/express/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RESTful APIs</title>
+      <link>/javascript/express/restful-apis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/express/restful-apis/</guid>
+      <description>Restful APIs To learn about RESTful APIs, see: RESTful APIs</description>
+    </item>
+    
+    <item>
+      <title>Express: An Introduction</title>
+      <link>/javascript/express/express-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/express/express-intro/</guid>
+      <description>Learning Objectives  Write a simple RESTful API with Express Identify the HTTP verbs and routes we&amp;rsquo;ll be using for an API Create an API with Express Interact with routes using cURL &amp;amp; httpie Monitor and automatically restart a Node app with nodemon  Web Servers, Web Applications, and Web Frameworks Web Server:</description>
+    </item>
+    
+    <item>
+      <title>Understanding Middleware</title>
+      <link>/javascript/express/middleware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/express/middleware/</guid>
+      <description>Learning Objectives  Understand how Express is a middleware engine Describe the function signature of a middleware function Explain how the order of middleware registration affects the order of execution Write a simple middleware function  Introduction Middleware is the bread and butter of the Express framework.</description>
+    </item>
+    
+    <item>
+      <title>Error Handling</title>
+      <link>/javascript/express/error-handling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/express/error-handling/</guid>
+      <description>Learning Objectives  Understand how Express uses middleware functions to handle errors Dispatch an error from a route Write a generic error handler for an Express application Write a 404 error handler for an Express application  Introduction There are 2 aspects to proper error handling:</description>
+    </item>
+    
+    <item>
+      <title>Structuring an Express App</title>
+      <link>/javascript/express/structuring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/express/structuring/</guid>
+      <description>Learning Objectives  Apply best practices for structuring and organizing an Express application Use middleware for logging requests and responses Add centralized error handling Use routers to organize routes Use a data service for managing and persisting data  Introduction  In this lesson we will be applying everything we&amp;rsquo;ve learned so far.</description>
+    </item>
+    
+    <item>
+      <title>Testing an Express App</title>
+      <link>/javascript/express/testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/express/testing/</guid>
+      <description>Learning Objectives  Install dependencies for jest and supertest Define testing startup scripts in package.</description>
+    </item>
+    
+    <item>
+      <title>Server Side Rendering</title>
+      <link>/javascript/express/ssr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/express/ssr/</guid>
+      <description>Learning Objectives  Describe CSR and SSR List some benefits of SSR Use Express to write a SSR application  Introduction There are 3 ways that HTML can be generated for a web page:</description>
+    </item>
+    
+    <item>
+      <title>Nodemon</title>
+      <link>/javascript/express/nodemon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/express/nodemon/</guid>
+      <description>Nodemon Learning Objectives  Monitor and automatically restart a node application Install and run nodemon in an application  Restarting a Server The Problem:</description>
+    </item>
+    
+  </channel>
+</rss>

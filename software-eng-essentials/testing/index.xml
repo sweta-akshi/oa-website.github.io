@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on Orange Academy</title>
+    <link>/software-eng-essentials/testing/</link>
+    <description>Recent content in Testing on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Do We Test?</title>
+      <link>/software-eng-essentials/testing/why/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/testing/why/</guid>
+      <description>Goals Gain an understanding why testing code is important and its benefits.
+Learning Objectives  Explore misconceptions about testing Understand the goals of testing Review the benefits of testing correctly  Misconceptions of Testing  too difficult not worth the time  Actual Benefits Reduces time to:</description>
+    </item>
+    
+    <item>
+      <title>Types of Testing</title>
+      <link>/software-eng-essentials/testing/types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/testing/types/</guid>
+      <description>Goals Gain an understanding of the different types of testing.
+Learning Objectives  Ways to execute tests Explore scopes of testing Investigate classifications of testing  Executing Tests  Manual - A user runs tests via the UI, in the same fashion as a true customer would.</description>
+    </item>
+    
+    <item>
+      <title>Code Coverage</title>
+      <link>/software-eng-essentials/testing/coverage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/testing/coverage/</guid>
+      <description>Goals Understand the meaning of code coverage and why its important.
+Learning Objectives  What is code coverage?</description>
+    </item>
+    
+    <item>
+      <title>Test Driven Development</title>
+      <link>/software-eng-essentials/testing/tdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/testing/tdd/</guid>
+      <description>Goals To learn what test driven development is and where to start
+Learning Objectives  What is TDD How to Start  What is TDD Test-Driven development is an incremental way to build a feature.</description>
+    </item>
+    
+    <item>
+      <title>Behavior Driven Development</title>
+      <link>/software-eng-essentials/testing/bdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/testing/bdd/</guid>
+      <description>Goals Gain an understanding of what Behavior Driven Development is and how it could be accomplished.</description>
+    </item>
+    
+    <item>
+      <title>Dependency Injection</title>
+      <link>/software-eng-essentials/testing/dependency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/testing/dependency/</guid>
+      <description>Goals Understand what Dependency Injection (DI) is and why it allows for smaller, digestable units that make testing an application easier.</description>
+    </item>
+    
+    <item>
+      <title>Mocking, Stubbing, and Spying</title>
+      <link>/software-eng-essentials/testing/mocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software-eng-essentials/testing/mocks/</guid>
+      <description>Goals Understand what mocks, stubs, and spies are and how to use them.
+Learning Objectives  What are mocks, stubs, and spies When and how to use them  What are Mocks, Stubs, and Spies To best understand mocks, stubs, and spies a proper understanding of Dependency Injection is needed.</description>
+    </item>
+    
+  </channel>
+</rss>

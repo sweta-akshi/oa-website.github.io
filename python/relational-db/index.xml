@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Relational Databases on Orange Academy</title>
+    <link>/python/relational-db/</link>
+    <description>Recent content in Relational Databases on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./python/relational-db/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Relational Databases</title>
+      <link>/python/relational-db/relational-databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/relational-db/relational-databases/</guid>
+      <description>Learning Objectives  Introduce the Python Database API Discuss the various DB modules supported by the Python Database API  Python Database API You will find data in either memory, files or databases.</description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL and Python</title>
+      <link>/python/relational-db/postgres-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/relational-db/postgres-python/</guid>
+      <description>Learning Objectives  Installing the Psycopg PostgreSQL database adapter Using Psycopg to connect to/disconnect from a database Executing DDL to create a database schema Executing SQL statements to interact with database resources  Set Up We are going to show how to connect and work with relational databases and Python using PostgreSQL.</description>
+    </item>
+    
+    <item>
+      <title>Testing Postgres</title>
+      <link>/python/relational-db/postgres-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/relational-db/postgres-testing/</guid>
+      <description>Learning Objective  Getting familiar the Python Unittest Library Writing test using Unittest methods  Unittest Testing Library We will use the Python testing library, Unittest, to test our database interactions.</description>
+    </item>
+    
+    <item>
+      <title>ORM Intro</title>
+      <link>/python/relational-db/orm-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/relational-db/orm-intro/</guid>
+      <description>Learning Objectives  Understand the SQLAlchemy Object Relationship Mapper Define the file hierarchy of the course Set up a successful database connection  SQLAlchemy ORM An object relational mapper(ORM) maps a relational database system to objects.</description>
+    </item>
+    
+    <item>
+      <title>ORM Models</title>
+      <link>/python/relational-db/orm-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/relational-db/orm-models/</guid>
+      <description>Learning Objectives  Learning how to set up classes to build out the corresponding database tables Understand how to connect and interact with the database.</description>
+    </item>
+    
+    <item>
+      <title>ORM Relationships</title>
+      <link>/python/relational-db/orm-relationships/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/relational-db/orm-relationships/</guid>
+      <description>Learning Objectives  Understanding the SQLAlchemy Relationship API Mapping database table relationships to Python classes and objects  SQLAlchemy Relationship API SQLAlchemy supports different types of relationships:</description>
+    </item>
+    
+    <item>
+      <title>ORM Querying</title>
+      <link>/python/relational-db/orm-querying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/relational-db/orm-querying/</guid>
+      <description>Learning Objectives  Understanding how to query the database tables using SQLAlchemy&amp;rsquo;s Query API Learn the different functions that can be used to customize our queries Understand the different types of joins for tables with relationships Using functions to manipulate data  The Query API The Query API provides us with the Query Object.</description>
+    </item>
+    
+    <item>
+      <title>Testing with Python and ORM</title>
+      <link>/python/relational-db/orm-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/relational-db/orm-testing/</guid>
+      <description>Learning Objective  Getting familiar the Python Unittest Library Writing test using Unittest methods and assertions  Unittest Testing Library We will use the Python testing library, Unittest, to test our database interactions.</description>
+    </item>
+    
+    <item>
+      <title>Teacher PostgreSQL Setup</title>
+      <link>/python/relational-db/teacher-postgresql-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/relational-db/teacher-postgresql-setup/</guid>
+      <description>Go to https://server.homedepot.com
+ Click Catalog (Located at the top of the window) Click on PostgreSQL and use the following credentials:  Group: Development Name of depoloyed service: Postgresql (CentOS7) Environment: Atlanta - Dev Servers Server Size: Small (1 x 2) Quantity: 1.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+Wood Species	Bending Strength (psi)	
+Alder, Red	9,800
+Ash 15,000
+Aspen   8,400
+Basswood	8,700
+Beech	14,900
+Birch, Yellow	16,600
+Butternut	8,100
+Cherry	12,300
+Chestnut	8,600
+Elm	11,800
+Hickory	20,200
+Maple, Hard	15,800
+Maple, Soft	13,400
+Oak, Red	14,300
+Oak, White	15,200
+Poplar	10,100
+Sassafras	9,000
+Sweetgum	12,500
+Sycamore	10,000
+Walnut	14,600

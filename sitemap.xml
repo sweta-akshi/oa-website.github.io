@@ -1,0 +1,2851 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/path-to-production/dev-environment/arp/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/before-you-build/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/misc/build-a-complete-react-app/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/cicd/concourse-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/change-management/creating-a-change/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/cyber-security/getting-started/general/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/cyber-security/getting-started/cyber-specific/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/web-framework/django_intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/docker-fundamentals/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/cyber-security/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/git-branching-out/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/npm-modules/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/cyber-security/general/module-1-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/general/module-1-Orange Academy/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/tech-stack/paved-road/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/00_preflight/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/platforms/provision_pcf/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/restful-api/rest/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/pillars/resiliency-patterns/syllabus/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/pillars/restful-api-express-node/syllabus/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/cyber-security/cyber-associates/module-1-mission/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/before-you-build/12factor/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/web_scraping/scrapy/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/tech-stack/data/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/general/module-2-performance/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/dev-environment/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/developing-with-docker/containerizing-your-application/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/cyber-security/general/module-2-hygiene/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/developing-with-docker/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/cyber-security/general/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/platforms/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/misc/intro-to-fp/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/npm-modules/intro-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/intro-to-node/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/01_service_to_service_oauth2/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/cicd/pipeline-stages/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/relational-db/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/before-you-build/subexp/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/syllabus/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/cyber-security/cyber-associates/module-2-tooling/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/dev-environment/tools/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/automation/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/stdin-stdout-buffers-streams/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/tech-stack/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/cyber-security/cyber-associates/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/automation/charts/database-interaction/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/npm-modules/es2015-modules/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/before-you-build/asa/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/postman/postman-getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/tech-stack/messaging/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/nonrelational-db/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/02_human_to_service_oidc/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/fundamentals-of-regex/python/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/cyber-security/general/module-3-responsibility/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/node-core-modules/os-module/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/cyber-security/cyber-associates/module-3-going-forward/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/general/module-3-balanced-teams/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/apis/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/tech-stack/cicd-options/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/platforms/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/node-core-modules/os-module-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/stdin-stdout-buffers-streams-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/npm-modules/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/fundamentals-of-regex/java/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/postman/postman-sports-team-api/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/web-framework/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/common/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/cicd/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/databases/database-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/git-log/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/hello-go/</loc>
+  </url>
+  
+  <url>
+    <loc>/custom-workshops/frontend-at-thd/react-crash-course/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/hooks/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/express-and-bookshelf/knex/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/postman/postman-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/node-core-modules/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/pillars/restful-api-express-node/node-refresher/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/nonrelational-db/nosql-vs-sql/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/postman/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/fundamentals-of-regex/javascript/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/advanced-state-mgmt/syllabus/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/react-testing-library/syllabus/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/tdd/syllabus/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/node-core-modules/path-module/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/topic-cheatsheets/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/cheatsheets/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/bots/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/change-management/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/axios-and-fetch/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/fundamentals-of-regex/sql/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/node-core-modules/path-module-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/fundamentals-of-regex/basicsed/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/pillars/restful-api-express-node/node-refresher-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/ajax-and-fetch-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/node-core-modules/fs-module/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/web_scraping/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/pillars/restful-api-express-node/cumulative-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/inquirer/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/node-core-modules/fs-module-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/node-core-modules/error-handling/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/fromjava/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/inquirer-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/virt_env/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/automation/automating-python-interactions/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/cheatsheets/basicjs/basic-js/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/basics/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/01_service_to_service_oauth2/10_buying-beer/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/platforms/pcf-foundations/intro-to-pcf/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/express-and-bookshelf/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/advanced-react/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/looker/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/plumbing/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/hello-js-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/labs/lab-hello-react/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/internet/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/html-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/internet/how-internet-works/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/developing-with-docker/int-testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/docker-fundamentals/containers-and-virtualization/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/react-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/patterns/resiliency/intro-to-resiliency/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/bots/slackbot_intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/tdd/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/agile-lean/intro-to-agile/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/intro-to-unix/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/developing-with-docker/int-testing/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/perf-opt-strategies/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/intro-to-js/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/react-testing-library/rtl-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/common/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/text-editors/intro-to-text-editors/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/supplemental/mac-shortcuts/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/02_human_to_service_oidc/10_modern-webapps/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/nonrelational-db/mongo/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/pillars/restful-api-express-node/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/labs/lab-paths/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/postman-foundations/getting_started/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/comp-sci/programming-languages/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/universal-rendering-lab/project-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/universal-rendering-lab/project-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/pycharm-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/rebase-merge/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/databases/relational-databases/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/relational-db/relational-databases/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/patterns/resiliency/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/apis/flask/</loc>
+  </url>
+  
+  <url>
+    <loc>/cyber-security/static-dynamic-analysis/0-sast-fundamentals/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/api/go-webserver/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/tdd/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/general/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/testing/testing-basics/</loc>
+  </url>
+  
+  <url>
+    <loc>/custom-workshops/frontend-at-thd/react-crash-course/usestate/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/hooks/usestate/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/concurrency/introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/fromjava/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/what-is-java/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/why/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/testing/why/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/testing/why/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/plumbing-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/html-intro-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/node-core-modules/streams/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/command-line-tutorial/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/command-line-project/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/node-core-modules/http-module/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/node-core-modules/http-module-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/testing/di-and-mocks/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/react-testing-library/rtl-getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/db-sql/intro-to-rdbms/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/express-and-bookshelf/knex-movies/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/node-core-modules/event-module/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/express-and-bookshelf/knex-todo-app/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/getting-started/node-core-modules/event-module-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/apis/apis/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/express-and-bookshelf/bookshelf/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/looker/building-reports/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/api/restful-api/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/nonrelational-db/cassandra/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/automation/chart-creation/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/bots/coding_first_bot/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/databases/postgres-connection/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/advanced-state-mgmt/context-and-hooks/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/context-api-and-hooks/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/css-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/cyber-security/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/platforms/pcf-foundations/deploy-react-client-app/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/web-framework/django_db/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/docker-fundamentals/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/developing-with-docker/int-testing/volumes/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/expressions-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/tdd/enzyme/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/hooks/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/concurrency/goroutines/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/hello-js/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/db-sql/intro-to-postgresql/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/intro-to-cli/</loc>
+  </url>
+  
+  <url>
+    <loc>/cyber-security/static-dynamic-analysis/1-intro-to-appsec/</loc>
+  </url>
+  
+  <url>
+    <loc>/custom-workshops/frontend-at-thd/intro-to-components/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/testing/javascript-testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/common/jest/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/labs/lab-jsx-expressions/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/gathering-metrics-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/gathering-metrics-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/supplemental/liquidprompt/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/manipulating-files/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/math-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/agile-lean/mvp/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/cheatsheets/modernjs/modern-js/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/monorepo/monorepo/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/labs/lab-navigating-directories/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/packages/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/02_human_to_service_oidc/20_recap/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/advanced-react/react-router-advanced/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/perf-opt-strategies/memo/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/pillars/resiliency-patterns/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/express/restful-apis/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/universal-rendering-lab/step-1/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/universal-rendering-lab/step-1/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/postman-foundations/testing_api_endpoints/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/react-testing-library/rtl-presentational-components/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/text-editors/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/pillars/resiliency-patterns/retry/</loc>
+  </url>
+  
+  <url>
+    <loc>/custom-workshops/frontend-at-thd/react-crash-course/useeffect/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/hooks/useeffect/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/types/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/testing/types/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/testing/types/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/text-editors/vs-code/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/01_service_to_service_oauth2/20_whatisoauth2/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/creating-tests/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/advanced-react/react-router-advanced-solutions/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/testing/additional-material/pytest-pycharm/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/looker/building-reports-dive/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/testing/intro-to-pytest/</loc>
+  </url>
+  
+  <url>
+    <loc>/custom-workshops/frontend-at-thd/harmony-in-practice/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/relational-db/postgres-python/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/relational-db/postgres-testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/relational-db/orm-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/advanced-state-mgmt/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/text-editors/atom/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/building/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/concurrency/channels/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/client-side-rendering/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/client-side-rendering/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/coverage/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/testing/coverage/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/testing/coverage/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/labs/lab-component-props/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/developing-with-docker/int-testing/data-sources/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/01_service_to_service_oauth2/30_cryptography/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/db-sql/schemas/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/express/express-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/filter/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/filter-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/interactive-rebase/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/history/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/docker-fundamentals/how-docker-works/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/inspecting-files/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/web-framework/django_db_api/</loc>
+  </url>
+  
+  <url>
+    <loc>/custom-workshops/frontend-at-thd/intro-to-experiences/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/jsx/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/bots/bot_labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/labs/lab-listing-files/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/common/mocking/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/express-and-bookshelf/bookshelf-movies/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/02_human_to_service_oidc/30_openid-connect-auth-code/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/relational-db/orm-models/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/package/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/platforms/pcf-foundations/pcf-backing-service/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/databases/postgres-golang/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/postman-foundations/lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/print-function/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/react-testing-library/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/perf-opt-strategies/use-memo/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/automation/report-creation/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/advanced-react/reusable-components/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/api/routing-and-middleware/</loc>
+  </url>
+  
+  <url>
+    <loc>/cyber-security/static-dynamic-analysis/2-sast-overview-tools/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/looker/scheduling/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/agile-lean/scrum_and_kanban/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/selectors-and-specificity/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/universal-rendering-lab/step-2/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/universal-rendering-lab/step-2/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/strings-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/nonrelational-db/testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/testing/testing-express/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/react-testing-library/rtl-generic-components/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/pillars/resiliency-patterns/circuit-breaker/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/hooks/usecontext/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/variables/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/pillars/restful-api-express-node/deploy-pcf/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/interactive-rebase-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/relational-db/orm-relationships/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/selectors-and-specificity-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/go-test/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/relational-db/orm-querying/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/testify-assertion/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/relational-db/orm-testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/db-sql/sql/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/express/middleware/</loc>
+  </url>
+  
+  <url>
+    <loc>/custom-workshops/</loc>
+  </url>
+  
+  <url>
+    <loc>/cyber-security/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/labs/lab-a-new-terminal/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/arrays-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/automation/charts/database-interaction/db-dataframe/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/comments/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/labs/lab-component-state/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/developing-with-docker/containerizing-your-application/containerizing-your-application/</loc>
+  </url>
+  
+  <url>
+    <loc>/custom-workshops/frontend-at-thd/react-crash-course/context-api/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/concurrency/coordination/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/colors-and-fonts/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/web-framework/django_views/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/data-types/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/db-sql/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/directories/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/developing-with-docker/int-testing/networks/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/docker-fundamentals/docker-registries/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/express/error-handling/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/express/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/api/external-apis/</loc>
+  </url>
+  
+  <url>
+    <loc>/custom-workshops/frontend-at-thd/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/stash/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/cyber-security/general/module-4-going-forward/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/02_human_to_service_oidc/40_lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/history-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/input-output-streams/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/intro-to-components/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/redux/intro-to-redux/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/testing/intro-to-tdd/</loc>
+  </url>
+  
+  <url>
+    <loc>/custom-workshops/frontend-at-thd/js-crash-course/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/01_service_to_service_oauth2/40_jwt/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/tdd/gift-list/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/text-editors/text-editors-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/looker/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/looker/lookml/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/primitives/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/testing/pytest-command/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/redux/react-and-redux/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/perf-opt-strategies/use-callback/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/databases/redis-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/api/</loc>
+  </url>
+  
+  <url>
+    <loc>/cyber-security/static-dynamic-analysis/3-scanning-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/automation/send-emails/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/server-side-rendering/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/server-side-rendering/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/db-sql/sql-joins/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/universal-rendering-lab/step-3/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/universal-rendering-lab/step-3/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/tdd/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/testing/tdd/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/react-testing-library/rtl-forms/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/tdd/test-suite-structure/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/hooks/useref/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/types/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/agile-lean/user-stories/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/platforms/pcf-foundations/user-defined-service/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/stash-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/testing/tdd-js-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/tdd/gift-list-choice/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/databases/redis-golang/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/tdd/gift-list-level-a/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/tdd/gift-list-level-b/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/tdd/gift-list-routing/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/db-sql/advanced-sql-joins/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/redux/async-redux/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/docker-fundamentals/container-basics/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/testing/pytest-assertions/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/agile-lean/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/bdd/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/testing/bdd/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/concurrency/benchmarking/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/box-model/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/01_service_to_service_oauth2/50_client-cred-flow/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/comments/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/component-props/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/customization/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/databases/migrations-golang/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/databases/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/developing-with-docker/containerizing-your-application/debugging-docker/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/decisions-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/developing-with-docker/int-testing/docker-compose/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/labs/lab-events/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/expressions/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/expressions/</loc>
+  </url>
+  
+  <url>
+    <loc>/cyber-security/static-dynamic-analysis/4-fortify/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/02_human_to_service_oidc/50_full_architecture/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/web-framework/django_generic_views/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/cherry-pick/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/cherry-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/git-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/git-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/variables/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/nodejs/advanced/express-and-bookshelf/knex-quick-reference/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/navigating-file-system/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/postman-foundations/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/print-function-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/redux/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/redux/redux-beyond-the-basics/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/redux/redux-beyond-the-basics-solutions/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/universal-rendering-lab/step-4/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/universal-rendering-lab/step-4/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/express/structuring/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/react-testing-library/rtl-custom-hooks/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/docker-fundamentals/thedockerfile/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/hooks/usereducer/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/universal-rendering/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/universal-rendering/</loc>
+  </url>
+  
+  <url>
+    <loc>/custom-workshops/frontend-at-thd/universal-rendering-crash-course/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/api/versioning/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/perf-opt-strategies/web-worker/</loc>
+  </url>
+  
+  <url>
+    <loc>/application-security/api-security/03_where_to_from_here/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/go-bdd/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/box-model-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/api/api-testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/bash-scripting-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/docker-fundamentals/build-context/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/concurrency/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/concurrency/patterns/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/control-structures/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/dependency/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/testing/dependency/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/web-framework/django_admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/easter-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/labs/lab-forms-calculator/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/gitting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/html-forms/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/iterations-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/pillars/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/labs/lab-kitchen-organizer/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/managing-file-system/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/math-functions/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/developing-with-docker/containerizing-your-application/multi-stage-docker-builds/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/perf-opt-strategies/pagination/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/platforms/pcf-foundations/checklist/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/prop-types/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/restful-api/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/universal-rendering-lab/step-5/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/universal-rendering-lab/step-5/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/strings/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/express/testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/react-testing-library/rtl-routes/</loc>
+  </url>
+  
+  <url>
+    <loc>/cyber-security/static-dynamic-analysis/5-triaging/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/html-forms-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/testing-techniques/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/array-slice-map/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/arrays/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/component-state/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/control-flow/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/perf-opt-strategies/debounce/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/file-permissions/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/gitting-started-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/universal-rendering-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/universal-rendering-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/mocks/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/testing/mocks/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/objects-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/platforms/pcf-foundations/</loc>
+  </url>
+  
+  <url>
+    <loc>/custom-workshops/frontend-at-thd/react-crash-course/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/docker-fundamentals/services-in-docker/</loc>
+  </url>
+  
+  <url>
+    <loc>/cyber-security/static-dynamic-analysis/6-remediation/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/express/ssr/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/labs/lab-side-effects/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/universal-rendering-lab/step-6/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/universal-rendering-lab/step-6/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/terminal-text-editing/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/transitions-and-animations/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/variables/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/math-variables-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/go-mock/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/transitions-and-animation-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/performance/universal-rendering-lab/bonus/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/performance/universal-rendering-lab/bonus/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/state-with-classes/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/labs/lab-context/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/perf-opt-strategies/context/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/control-flow-decisions/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/responsive-layouts/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/docker-fundamentals/docker-artifactory/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/escalating-kill-script/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/function-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/functions-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/git-branching-out/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/express/nodemon/</loc>
+  </url>
+  
+  <url>
+    <loc>/cyber-security/static-dynamic-analysis/7-resources/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/shell-configuration/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/object/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/responsive-layouts-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/cloud/containers/docker-fundamentals/additional-resources/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/arrow-functions-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/class/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/comp-sci/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/control-flow-iteration/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/web-framework/django_testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/events/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/flexbox/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/errors/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/git-branching-out-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/formatting-and-input/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/processes/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/labs/lab-routing/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/scripting-and-receiving-input/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/flexbox-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/gitting-back-together/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/gitting-back-together-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/supplemental/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/control-flow-loops-and-functions/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/grid/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/hooks/customhooks/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/exceptions/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/fundamentals-of-regex/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/intro-to-github/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/inheritance/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/modern-array-methods-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/advanced-react/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/objects-and-json/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/pointers/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/perf-opt-strategies/quiz/</loc>
+  </url>
+  
+  <url>
+    <loc>/cyber-security/static-dynamic-analysis/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/perf-opt-strategies/summary/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/web-framework/thd_api_and_ux/thd_style_guide/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/additional/cssgrid_container_properties/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/grid-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/additional/cssgrid_item_properties/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/recreate-launch/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/css-best-practices/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/error-handling-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/exceptions-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/forms/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/functions/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/intro-to-github-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/cheatsheets/html-css-cheatsheet/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/interface/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/hooks/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/sass/</loc>
+  </url>
+  
+  <url>
+    <loc>/custom-workshops/frontend-at-thd/sass-crash-course/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/structs-and-methods/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/subshell/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/sass-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/prettier/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/eslint/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/refactoring/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/booleans/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/frameworks/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/data-structures/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/workflow/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/higher-order-functions-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/interfaces/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/side-effects/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/perf-opt-strategies/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/bash/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/fundamentals-of-regex/bash/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/patterns/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/variable-scope/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/frameworks-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/arrow-functions/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/boolean-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/closures-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/data-structures-advanced/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/dom-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/sed-and-awk/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/styling/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/wildcards-and-brace-expansion/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/higher-order-functions/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/context/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/dom-manipulation/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/exceptions/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/modern-array-methods/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/oop-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/reclaim-data/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/strings/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/dom-manipulation-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/closures/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/classes-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/java/foundations/cli-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/jquery/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/error-handling/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/react-router-v4/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/reclaim-data-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/strings-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/jquery-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/react-router-v5/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/react-router-v6/</loc>
+  </url>
+  
+  <url>
+    <loc>/onboarding/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/functions/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/promises-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/templating/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/templating-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/path-to-production/</loc>
+  </url>
+  
+  <url>
+    <loc>/power-playlist/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/additional-resources/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/async-await-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/functions-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/oop/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/server-side/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/project-add-front-end/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/classes/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/data-structures/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/data-structures-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/additional/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/async-execution-and-callbacks/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/conditional-statements/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/foundations/gomods/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/pillars/testing/react-testing-library/rtl-cheat-sheet/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/conditional-statements-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/promises/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/async-await/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/loops/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/file-manipulation/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/loops-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/file-manipulation-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/classes/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/classes-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/testing/additional-material/unit-tests/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/testing/additional-material/unit-tests-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/generators/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/decorators/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/db-sql/data/vet-clinic/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/db-sql/data/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/db-sql/data/home-depot/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-foundations/unix-commands/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/git-pillars/unix-commands/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/terminal-and-shell/unix-commands/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/topic-cheatsheets/cli-cheatsheet/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/topic-cheatsheets/git-cli-cheatsheet/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/labs/lab-budget-app/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/misc/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/solutions/</loc>
+  </url>
+  
+  <url>
+    <loc>/react/foundations/cheatsheets/</loc>
+  </url>
+  
+  <url>
+    <loc>/javascript/foundations/cheatsheets/</loc>
+  </url>
+  
+  <url>
+    <loc>/_footer/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/placeholder/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/playground/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/solutions/frameworks-lab-with-answers/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/solutions/sass-lab-with-answers/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/solutions/sign_up_form_with_answers/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/src/sass/mixins/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/src/sass/nesting/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/src/sass/vars/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/testing/additional-material/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/automation/automating/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/additional-resources/base-conversions/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/automation/charts/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/src/css-transitions-and-animations/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/fromjava/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/if-and-functions/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/db-sql/intro-to-datagrip/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/login/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/metacharacters/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/nonrelational-db/mongo-files/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/src/one-page-many-stylesheets/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/relational-db/orm-files/</loc>
+  </url>
+  
+  <url>
+    <loc>/golang/testing/future-additions/performance/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/additional-resources/picture-manipulation/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/additional-resources/picture-manipulation-labs/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/relational-db/postgres-files/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/db-sql/postgres-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/db-sql/remote-postgres-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/automation/reports/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/src/sass/</loc>
+  </url>
+  
+  <url>
+    <loc>/software-eng-essentials/command-line-bash/scripting-fundamentals/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/automation/send_email/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/solutions/</loc>
+  </url>
+  
+  <url>
+    <loc>/web-essentials/webmastery-foundations/src/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/relational-db/teacher-postgresql-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/additional-resources/tkinter/</loc>
+  </url>
+  
+  <url>
+    <loc>/python/foundation/additional-resources/tkinter-labs/</loc>
+  </url>
+  
+</urlset>

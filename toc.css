@@ -1,0 +1,51 @@
+.toc {
+	padding: 0.5rem;
+	margin-bottom: 1rem;
+	color: #f96302;
+	list-style: none;
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+.toc[open] {
+	/* color: #fff; */
+}
+
+.toc__title:focus {
+    outline: 1px solid #ccc;
+}
+
+.toc__title {
+	padding: 0.25rem;
+	font-weight: 700;
+}
+
+.toc nav {
+	padding: 0.5rem 0 0.5rem 0.5rem;
+}
+
+.toc ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.toc ul ul a {
+	padding-left: 40px;
+}
+
+.toc ul ul ul a {
+	padding-left: 60px;
+}
+
+.toc ul ul ul ul a {
+	padding-left: 80px;
+}
+
+.toc ul ul ul ul ul a {
+	padding-left: 100px;
+}
+
+.toc ul ul ul ul ul ul a {
+	padding-left: 120px;
+}

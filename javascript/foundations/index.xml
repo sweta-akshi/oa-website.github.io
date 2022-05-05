@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foundations on Orange Academy</title>
+    <link>/javascript/foundations/</link>
+    <description>Recent content in Foundations on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./javascript/foundations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to JavaScript</title>
+      <link>/javascript/foundations/intro-to-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/intro-to-js/</guid>
+      <description>An introduction to the JavaScript language.
+Learning Objectives Concepts  Discuss the history of JavaScript Describe JavaScript as both an OOP and a FP language  Background  JavaScript should not be confused with Java.</description>
+    </item>
+    
+    <item>
+      <title>Hello JavaScript</title>
+      <link>/javascript/foundations/hello-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/hello-js/</guid>
+      <description>Getting started with the JavaScript language.
+Concepts  Explain how to add JavaScript code to a web page Execute JavaScript code outside of the browser  JavaScript in the Browser The anatomy of a web site or web application consists of HTML, CSS and JavaScript.</description>
+    </item>
+    
+    <item>
+      <title>Variables</title>
+      <link>/javascript/foundations/variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/variables/</guid>
+      <description>How to create variables in JavaScript.
+Learning Objectives Concepts  Describe the purpose of JavaScript variables List the data types used by JavaScript Compare static vs.</description>
+    </item>
+    
+    <item>
+      <title>Data Types</title>
+      <link>/javascript/foundations/data-types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/data-types/</guid>
+      <description>Understanding the data types of the JavaScript language.
+Data Types JavaScript supports primitive and composite (reference) data types.</description>
+    </item>
+    
+    <item>
+      <title>Expressions</title>
+      <link>/javascript/foundations/expressions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/expressions/</guid>
+      <description>How to write numeric and boolean expression in JavaScript.
+Expressions and Statements  Expressions can be evaluated to produce a value, for example: x + 5 Statements perform actions and do not produce a value, for example console.</description>
+    </item>
+    
+    <item>
+      <title>Strings</title>
+      <link>/javascript/foundations/strings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/strings/</guid>
+      <description>An introduction to JavaScript Strings.
+Objectives  Use String methods to access and manipulate String values Use String templates to create strings that contain evaluated JavaScript expressions  Creating Strings  String literals can be written with single quotes or double quotes.</description>
+    </item>
+    
+    <item>
+      <title>Arrays</title>
+      <link>/javascript/foundations/arrays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/arrays/</guid>
+      <description>Objectives  Declare an Array in JavaScript Access elements in an Array Use push and pop to add and remove elements from an Array Use shift and unshift to add and remove elements from an Array Use splice and slice to access and manipulate sections of an Array  What Are Arrays?</description>
+    </item>
+    
+    <item>
+      <title>Control Flow - Making Decisions</title>
+      <link>/javascript/foundations/control-flow-decisions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/control-flow-decisions/</guid>
+      <description>Learning Objectives  Describe Control Flow Discuss how JavaScript makes decisions Identify and discuss boolean operators Use if, else if, and else to control the flow of the program Apply different boolean operators in conditional statements  What is Control Flow?</description>
+    </item>
+    
+    <item>
+      <title>Control Flow - Iteration</title>
+      <link>/javascript/foundations/control-flow-iteration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/control-flow-iteration/</guid>
+      <description>Learning Objectives  Learn how to write for loops. Learn how to write while loops. Learn how to write do.</description>
+    </item>
+    
+    <item>
+      <title>Objects and JSON</title>
+      <link>/javascript/foundations/objects-and-json/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/objects-and-json/</guid>
+      <description>An introduction to JavaScript objects and JSON.
+Learning Objectives  Explain how to work with objects in JavaScript Introduce JSON Discuss the difference between primitive and reference types Build complex objects List, update, mutate properties of objects  Objects An object is a set of properties (keys) and values.</description>
+    </item>
+    
+    <item>
+      <title>Functions</title>
+      <link>/javascript/foundations/functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/functions/</guid>
+      <description>An introduction to functions in JavaScript.
+Learning Objectives After this lesson, developers will be able to:</description>
+    </item>
+    
+    <item>
+      <title>Code Style with Prettier</title>
+      <link>/javascript/foundations/prettier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/prettier/</guid>
+      <description>An introduction to code style and static code analysis / linting.
+Learning Objectives  Define code style and explain why it is important.</description>
+    </item>
+    
+    <item>
+      <title>Static Analysis with ESLint</title>
+      <link>/javascript/foundations/eslint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/eslint/</guid>
+      <description>An introduction to code style and static code analysis / linting.
+Learning Objectives  Explain static code analysis Configure and run eslint to discover and fix potential coding problems  What Is Static Analysis Static analysis, also called static code analysis, is the process of analyzing a computer program to find problems without actually executing the code.</description>
+    </item>
+    
+    <item>
+      <title>Refactoring</title>
+      <link>/javascript/foundations/refactoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/refactoring/</guid>
+      <description>An introduction to refactoring code.
+Learning Objectives  Describe what refactoring is List the benefits of refactoring Provide examples of refactoring  What is Refactoring?</description>
+    </item>
+    
+    <item>
+      <title>Variable Scope</title>
+      <link>/javascript/foundations/variable-scope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/variable-scope/</guid>
+      <description>Learn the rules of variable scope in JavaScript.
+Objectives  Define scope in the context of programming Describe the rules of scope in Javascript Describe the impact of hoisting on variable scope Discuss the scoping rules for variables declared with var, let, and const  What is Scope?</description>
+    </item>
+    
+    <item>
+      <title>Arrow Functions</title>
+      <link>/javascript/foundations/arrow-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/arrow-functions/</guid>
+      <description>An introduction to function expressions and arrow functions.
+Function Expressions Before introducing arrow functions, let&amp;rsquo;s first discuss function expressions.</description>
+    </item>
+    
+    <item>
+      <title>Higher Order Functions</title>
+      <link>/javascript/foundations/higher-order-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/higher-order-functions/</guid>
+      <description>What are Higher Order Functions and Callbacks?    Higher order functions are essential to programming in JavaScript A Higher Order Function has at least one of the two following characteristics:  accepts a function as an argument, or returns a function as it&amp;rsquo;s result   The most common use case for higher order functions is the callback  Higher order functions really shine when we want to write &amp;ldquo;generic&amp;rdquo; code.</description>
+    </item>
+    
+    <item>
+      <title>Modern Array Methods</title>
+      <link>/javascript/foundations/modern-array-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/modern-array-methods/</guid>
+      <description>Modern Array methods in JavaScript.
+Learning Objectives Concepts  List the modern JavaScript array methods. Discuss the advantages of the modern array methods.</description>
+    </item>
+    
+    <item>
+      <title>Closures</title>
+      <link>/javascript/foundations/closures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/closures/</guid>
+      <description>An Introduction to Closures in JavaScript.
+Learning Objectives  Define a closure Explain why closures are used Write a function that uses a closure to control access to data  What is a Closure?</description>
+    </item>
+    
+    <item>
+      <title>Error Handling</title>
+      <link>/javascript/foundations/error-handling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/error-handling/</guid>
+      <description>What is Error Handling  Error handling is where code is written to detect and/or respond to an error.</description>
+    </item>
+    
+    <item>
+      <title>OOP</title>
+      <link>/javascript/foundations/oop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/oop/</guid>
+      <description>An introduction to Object-Oriented JavaScript and Prototypal Inheritance.
+Learning Objectives  What is Object-Oriented Programming? Use Constructor functions to create objects.</description>
+    </item>
+    
+    <item>
+      <title>Classes</title>
+      <link>/javascript/foundations/classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/classes/</guid>
+      <description>An introduction to ES-2015 classes.
+Learning Objectives  Explain how ES-2015 Classes are used in JavaScript Write JavaScript classes with constructors and methods  Background  Before ES-2015, JavaScript objects were created via object literals or constructor functions.</description>
+    </item>
+    
+    <item>
+      <title>Asynchronous Execution and Callbacks</title>
+      <link>/javascript/foundations/async-execution-and-callbacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/async-execution-and-callbacks/</guid>
+      <description>Learn about asynchronous operations in JavaScript.
+Asynchronous Operations  JavaScript is a single-threaded programming language. This means only one thing can happen at a time.</description>
+    </item>
+    
+    <item>
+      <title>Promises</title>
+      <link>/javascript/foundations/promises/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/promises/</guid>
+      <description>An introduction to JavaScript promises.
+What Are Promises? Promises are objects that:
+ have state, the state being one of the following:  PENDING: we are still waiting for the data RESOLVED: we have successfully received the data REJECTED: an error has occurred   manage callbacks:  resolve - the success callback reject - the error callback   can be chained together  Promises have a then method that takes a callback used to process the data once it is available.</description>
+    </item>
+    
+    <item>
+      <title>Async / Await</title>
+      <link>/javascript/foundations/async-await/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/foundations/async-await/</guid>
+      <description>An introduction to Async/Await
+Learning Objectives  Understand how async / await simplifies asynchronous code Know when to use async / await Handle errors in async / await code with try / catch Refactor asynchronous code to read like synchronous code using async / await  The Problem  Promises improved our asynchronous code over callbacks, especially when performing multiple asynchronous operations with interdependencies.</description>
+    </item>
+    
+  </channel>
+</rss>

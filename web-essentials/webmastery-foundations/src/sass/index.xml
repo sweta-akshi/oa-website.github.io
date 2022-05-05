@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SASS on Orange Academy</title>
+    <link>/web-essentials/webmastery-foundations/src/sass/</link>
+    <description>Recent content in SASS on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./web-essentials/webmastery-foundations/src/sass/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/web-essentials/webmastery-foundations/src/sass/mixins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/src/sass/mixins/</guid>
+      <description>Mixins &amp;lt;section class=&amp;#34;box1&amp;#34;&amp;gt; &amp;lt;h1&amp;gt;News&amp;lt;/h1&amp;gt; &amp;lt;article&amp;gt; &amp;lt;h2&amp;gt;Article goes here.&amp;lt;/h2&amp;gt; &amp;lt;/article&amp;gt; &amp;lt;/section&amp;gt; &amp;lt;section class=&amp;#34;box2&amp;#34;&amp;gt; &amp;lt;h1&amp;gt;Weather&amp;lt;/h1&amp;gt; &amp;lt;article&amp;gt; &amp;lt;h2&amp;gt;Article goes here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/web-essentials/webmastery-foundations/src/sass/nesting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/src/sass/nesting/</guid>
+      <description>Nesting &amp;lt;nav&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#news&amp;#34;&amp;gt;News&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#weather&amp;#34;&amp;gt;Weather&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;#sports&amp;#34;&amp;gt;Sports&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt; &amp;lt;h2&amp;gt;Here is some fruit&amp;lt;/h2&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;Apple&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Orange&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Banana&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; nav { ul { margin: 0; padding: 0; list-style: none; } li { display: inline-block; } a { display: block; padding: 6px 12px; text-decoration: none; } } </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/web-essentials/webmastery-foundations/src/sass/vars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web-essentials/webmastery-foundations/src/sass/vars/</guid>
+      <description>Variables and Color Functions &amp;lt;h1&amp;gt;This is a level 1 heading&amp;lt;/h1&amp;gt; &amp;lt;h2&amp;gt;This is a level 2 heading&amp;lt;/h2&amp;gt; &amp;lt;p&amp;gt;This is a paragraph&amp;lt;/p&amp;gt; &amp;lt;button&amp;gt;I am a button, click Me!</description>
+    </item>
+    
+  </channel>
+</rss>

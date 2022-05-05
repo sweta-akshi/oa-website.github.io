@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foundation on Orange Academy</title>
+    <link>/python/foundation/</link>
+    <description>Recent content in Foundation on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./python/foundation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Virtual Environments</title>
+      <link>/python/foundation/virt_env/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/virt_env/</guid>
+      <description>What is a Virtual Environment? A virtual environment is a tool to maintain separate space for a project with its dependencies and libraries in one place.</description>
+    </item>
+    
+    <item>
+      <title>PyCharm Setup</title>
+      <link>/python/foundation/pycharm-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/pycharm-setup/</guid>
+      <description>IDLE Idle is Python&amp;rsquo;s default Integrated DeveLopment Environment. It&amp;rsquo;s installed automatically when you download Python3 onto your computer.</description>
+    </item>
+    
+    <item>
+      <title>Math Operators</title>
+      <link>/python/foundation/math-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/math-operators/</guid>
+      <description>An introduction to IDLE and math in Python3
+Math! Arithmetic operators Arithmetic operators are used to perform mathematical operations like addition, subtraction, multiplication and division.</description>
+    </item>
+    
+    <item>
+      <title>Print Functions</title>
+      <link>/python/foundation/print-function/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/print-function/</guid>
+      <description>print() Function Since the first thing everyone needs to know how to do in any programming language is write a &amp;ldquo;Hello world&amp;rdquo; program, we&amp;rsquo;ll start with the print() function to do just that.</description>
+    </item>
+    
+    <item>
+      <title>Comments</title>
+      <link>/python/foundation/comments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/comments/</guid>
+      <description>An introduction to IDLE, math functions and variables
+Making comments in our code with Python There are two types of commenting in python: single-line and multi-line</description>
+    </item>
+    
+    <item>
+      <title>Print Functions Labs</title>
+      <link>/python/foundation/print-function-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/print-function-labs/</guid>
+      <description>Print Labs Multiple Print Statements Using four separate print statements, produce the following output on one line.</description>
+    </item>
+    
+    <item>
+      <title>Math Functions</title>
+      <link>/python/foundation/math-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/math-functions/</guid>
+      <description>Math Functions abs()
+Finds the absolute value
+print(90 - 120) print(abs(90 - 120)) Output:
+-30 30 pow()</description>
+    </item>
+    
+    <item>
+      <title>Variables</title>
+      <link>/python/foundation/variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/variables/</guid>
+      <description>Variables! This is based on a Monty Python-inspired math problem:
+Assume a swallow weighs 60 grams, and one swallow is capable of carrying 1/3 of its own weight.</description>
+    </item>
+    
+    <item>
+      <title>Variables Labs</title>
+      <link>/python/foundation/math-variables-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/math-variables-labs/</guid>
+      <description>An introduction to IDLE, math functions and variables
+Math and Variables Exercises Swallow Exercise  Can a swallow carry a coconut?</description>
+    </item>
+    
+    <item>
+      <title>Input</title>
+      <link>/python/foundation/formatting-and-input/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/formatting-and-input/</guid>
+      <description>String Formatting Displaying Numbers and Strings We&amp;rsquo;ve introduced one built-in method for Python: print(). Another function important to strings is the str() method.</description>
+    </item>
+    
+    <item>
+      <title>Exceptions</title>
+      <link>/python/foundation/exceptions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/exceptions/</guid>
+      <description>Error handling and writing exceptions Let&amp;rsquo;s purposefully create a few types of errors so we understand what they look like and how to handle them before we even encounter them in our programs.</description>
+    </item>
+    
+    <item>
+      <title>Exceptions Labs</title>
+      <link>/python/foundation/exceptions-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/exceptions-labs/</guid>
+      <description>Error Writing Exercises Create a new file called exception_writing.
+Write try and except statements around these print functions depending on the error that you encounter</description>
+    </item>
+    
+    <item>
+      <title>Booleans</title>
+      <link>/python/foundation/booleans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/booleans/</guid>
+      <description>Boolean Introduction A boolean is a data type that can be either true or false.</description>
+    </item>
+    
+    <item>
+      <title>Boolean Labs</title>
+      <link>/python/foundation/boolean-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/boolean-labs/</guid>
+      <description>Boolean Exercise In partners or groups of three, rotate through the following list and explain why you think each would evaluate to True or False</description>
+    </item>
+    
+    <item>
+      <title>Strings</title>
+      <link>/python/foundation/strings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/strings/</guid>
+      <description>Strings We mentioned strings before because they&amp;rsquo;re a good place to introduce the print() function to create the &amp;ldquo;Hello world!</description>
+    </item>
+    
+    <item>
+      <title>Strings Labs</title>
+      <link>/python/foundation/strings-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/strings-labs/</guid>
+      <description>String Labs If you need a refresher on how to get user input: link:./formatting-and-input#user_input[User Input Explanation]</description>
+    </item>
+    
+    <item>
+      <title>Functions</title>
+      <link>/python/foundation/functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/functions/</guid>
+      <description>User Defined Functions Introduction to functions Functions are important because they allow us to divide code into useful blocks.</description>
+    </item>
+    
+    <item>
+      <title>Function Labs</title>
+      <link>/python/foundation/functions-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/functions-labs/</guid>
+      <description>Functions Exercises Age Calculator Create a function called age_calculator that takes in two parameters (Two different years) and returns the difference of the two years:</description>
+    </item>
+    
+    <item>
+      <title>Data Structures</title>
+      <link>/python/foundation/data-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/data-structures/</guid>
+      <description>Data Structures Introduction It is very common to want to list numbers or strings. This is possible with data structures.</description>
+    </item>
+    
+    <item>
+      <title>Data Structure Labs</title>
+      <link>/python/foundation/data-structures-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/data-structures-labs/</guid>
+      <description>Create a Python file called data_structures.py.
+Lists Exercise Magic 8-Ball
+Create a function called shake_ball that has no parameters.</description>
+    </item>
+    
+    <item>
+      <title>Conditional Statements</title>
+      <link>/python/foundation/conditional-statements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/conditional-statements/</guid>
+      <description>Conditional Statements In life, we constantly have to make decisions based on current circumstances.
+ If I have enough money in the bank, I will go to a fancy dinner tonight.</description>
+    </item>
+    
+    <item>
+      <title>Conditional Statements Labs</title>
+      <link>/python/foundation/conditional-statements-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/conditional-statements-labs/</guid>
+      <description>Applying your knowledge Run the below script and run through the exercise a couple of times with a partner to understand it.</description>
+    </item>
+    
+    <item>
+      <title>Loops</title>
+      <link>/python/foundation/loops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/loops/</guid>
+      <description>Loop Introduction From what we have learned so far, to print all of the values from a list called numbers we would have to do something like the following:</description>
+    </item>
+    
+    <item>
+      <title>File Manipulations</title>
+      <link>/python/foundation/file-manipulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/file-manipulation/</guid>
+      <description>File Systems Before talking about how to read and write to a file, we need to figure out direct the program to the location of the file.</description>
+    </item>
+    
+    <item>
+      <title>Loops Labs</title>
+      <link>/python/foundation/loops-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/loops-labs/</guid>
+      <description>For Loops Create a String letters = [&amp;#39;O&amp;#39;, &amp;#39;r&amp;#39;, &amp;#39;a&amp;#39;, &amp;#39;n&amp;#39;, &amp;#39;g&amp;#39;, &amp;#39;e&amp;#39;, &amp;#39; &amp;#39;, &amp;#39;M&amp;#39;, &amp;#39;e&amp;#39;, &amp;#39;t&amp;#39;, &amp;#39;h&amp;#39;, &amp;#39;o&amp;#39;, &amp;#39;d&amp;#39;] Create a function that is called create_string that does not have any parameters.</description>
+    </item>
+    
+    <item>
+      <title>File Manipulation Labs</title>
+      <link>/python/foundation/file-manipulation-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/file-manipulation-labs/</guid>
+      <description>CSV Manipulation Exercises
+For this exercise, we&amp;rsquo;ll use many of the concepts we&amp;rsquo;ve already reviewed in this course.</description>
+    </item>
+    
+    <item>
+      <title>Classes</title>
+      <link>/python/foundation/classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/classes/</guid>
+      <description>Python has been an object-oriented language since the time it existed. Object-oriented programming (OOP) focuses on creating reusable patterns of code, in contrast to procedural programming, which focuses on explicit sequenced instructions.</description>
+    </item>
+    
+    <item>
+      <title>Classes Labs</title>
+      <link>/python/foundation/classes-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/classes-labs/</guid>
+      <description>String Manipulation Create a new file called string_manipulation.py.
+Inside your new file, create a class called StringManipulation.</description>
+    </item>
+    
+    <item>
+      <title>Generators</title>
+      <link>/python/foundation/generators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/generators/</guid>
+      <description>Iteration &amp;amp; Iterables Iteration is the repetition of some kind of process over and over again.</description>
+    </item>
+    
+    <item>
+      <title>Decorators</title>
+      <link>/python/foundation/decorators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/foundation/decorators/</guid>
+      <description>First Class Objects In Python, functions are first-class objects. This means that functions can be passed around, and used as arguments, just like any other value (e.</description>
+    </item>
+    
+  </channel>
+</rss>

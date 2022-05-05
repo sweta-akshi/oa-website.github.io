@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foundations on Orange Academy</title>
+    <link>/react/foundations/</link>
+    <description>Recent content in Foundations on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./react/foundations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syllabus</title>
+      <link>/react/foundations/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/syllabus/</guid>
+      <description>Preflight Checklist 🛫 Welcome to Foundations of React! 👋
+👩‍✈️Before the workshop starts, please go over this preflight checklist.</description>
+    </item>
+    
+    <item>
+      <title>Intro to React</title>
+      <link>/react/foundations/react-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/react-intro/</guid>
+      <description>An introduction to the concepts of ReactJS.
+Concepts  Describe the React Framework Explain JSX List some advantages of building and using Components  What is React?</description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>/react/foundations/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/getting-started/</guid>
+      <description>Getting started with the create-react-app CLI.
+Concepts  Introduce React syntax and JSX Talk about Components  Skills  Use the React CLI to create a new React application Understand how to setup and configure a React app Become familiar with the React application structure Build a basic React Component  The create-react-app CLI  create-react-app is a simple CLI (Command Line Interface) program for creating new React projects.</description>
+    </item>
+    
+    <item>
+      <title>JSX Expressions</title>
+      <link>/react/foundations/jsx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/jsx/</guid>
+      <description>What is JSX and how to organize your JSX expressions.
+Concepts  JSX expressions combine the HTML and JavaScript languages.</description>
+    </item>
+    
+    <item>
+      <title>Intro to Components</title>
+      <link>/react/foundations/intro-to-components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/intro-to-components/</guid>
+      <description>An introduction to creating React Components.
+Concepts  Define Components Compare stateful / container with stateless / presentation components Explain Component Composition  Skills  Use ES6 syntax for creating stateless components  Components  Components are the heart and soul of React.</description>
+    </item>
+    
+    <item>
+      <title>Component Props</title>
+      <link>/react/foundations/component-props/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/component-props/</guid>
+      <description>Using props to configure React Components.
+Introduction to Props  Since components are intended to be reusable, we need a way to configure them and send them data.</description>
+    </item>
+    
+    <item>
+      <title>PropTypes (optional)</title>
+      <link>/react/foundations/prop-types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/prop-types/</guid>
+      <description>Using PropTypes to verify a component&amp;rsquo;s props.
+NOTE: this is an optional lesson as propTypes are not essential to learning React.</description>
+    </item>
+    
+    <item>
+      <title>Component State</title>
+      <link>/react/foundations/component-state/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/component-state/</guid>
+      <description>How React components manage state.
+Concepts  Understand React&amp;rsquo;s Uni-Directional Data Flow Describe how React updates the view without mutating state variables Use the useState hook to manage component state Compare State vs.</description>
+    </item>
+    
+    <item>
+      <title>Component State with JS Classes</title>
+      <link>/react/foundations/state-with-classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/state-with-classes/</guid>
+      <description>Writing Container (stateful) Components with JavaScript Classes.
+ NOTE: this is an optional lesson but may be helpful as legacy React code uses JavaScript classes for managing state.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>/react/foundations/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/events/</guid>
+      <description>Handling events and user interaction
+Objectives  Learn how React manages user events Write event handlers to change state Register event handlers with HTML elements (buttons, text fields, etc.</description>
+    </item>
+    
+    <item>
+      <title>Forms</title>
+      <link>/react/foundations/forms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/forms/</guid>
+      <description>Strategies for React Form Controls.
+Learning Objectives  Describe two strategies for managing form controls Implement a controlled form control component   NOTE: Much of the content of this lesson was shamelessly taken from https://goshakkk.</description>
+    </item>
+    
+    <item>
+      <title>Managing Side Effects</title>
+      <link>/react/foundations/side-effects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/side-effects/</guid>
+      <description>Managing Side Effects in React Components.
+Objectives  Explain side effects Apply the useEffect hook to manage side effects in a React component.</description>
+    </item>
+    
+    <item>
+      <title>Styling Components</title>
+      <link>/react/foundations/styling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/styling/</guid>
+      <description>Learn various ways to style your components.
+Concepts  Describe the Problem with CSS for Styling Components Discuss various ways to style React Components  Inline Styling External Stylesheets Styling with JavaScript Objects The Styled Components library    Skills  Be able to make informed decisions about how to style your components Set up your project to use CSS preprocessors Install and Use CSS frameworks  The Problems with CSS for Styling Components  CSS was designed for styling static web sites Thus the Cascading rules of CSS mean that CSS applies styles globally.</description>
+    </item>
+    
+    <item>
+      <title>Context API</title>
+      <link>/react/foundations/context/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/context/</guid>
+      <description>Learn about React&amp;rsquo;s Context API for sharing state across components.
+Objectives  Review state in a React app Learn about the Context API Explore the use cases of Context Learn the 3 steps to using the Context API  Skills  Use the context API to share state in a React app Create a Context Object Use a Provider component to provide a value Use the useContext hook to consume a value  React App State Let&amp;rsquo;s review some concepts around React app state management.</description>
+    </item>
+    
+    <item>
+      <title>React Router v4</title>
+      <link>/react/foundations/react-router-v4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/react-router-v4/</guid>
+      <description>Adding routes to React applications using React Router version 4.
+Concepts  Introduce React Router Add dynamic routes to an application  Introduction  Now that you understand how to build a single page application, it&amp;rsquo;s time to discuss routing.</description>
+    </item>
+    
+    <item>
+      <title>React Router v5</title>
+      <link>/react/foundations/react-router-v5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/react-router-v5/</guid>
+      <description>Adding routes to React applications using React Router version 5.
+Concepts  Introduce React Router Add dynamic routes to an application  Introduction  Now that you understand how to build a single page application, it&amp;rsquo;s time to discuss routing.</description>
+    </item>
+    
+    <item>
+      <title>React Router v6</title>
+      <link>/react/foundations/react-router-v6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/foundations/react-router-v6/</guid>
+      <description>Adding routes to React applications using React Router version 6.
+Concepts  Introduce React Router Add dynamic routes to an application  Introduction  Now that you understand how to build a single page application, it&amp;rsquo;s time to discuss routing.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation on Orange Academy</title>
+    <link>/python/automation/</link>
+    <description>Recent content in Automation on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./python/automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automating Python Scripts</title>
+      <link>/python/automation/automating-python-interactions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/automation/automating-python-interactions/</guid>
+      <description>Learning Objectives  Automate processes with crons using both the terminal and Python Create, read, update and delete cron jobs in Python  There are many times when you need to run a shell script or command at regular intervals.</description>
+    </item>
+    
+    <item>
+      <title>Chart Creation</title>
+      <link>/python/automation/chart-creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/automation/chart-creation/</guid>
+      <description>Learning Objectives  Learn about Pandas and its data structures Generate charts based on data in a json using Pandas  Creating charts from data is a common task that Python is used for.</description>
+    </item>
+    
+    <item>
+      <title>Report Creation</title>
+      <link>/python/automation/report-creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/automation/report-creation/</guid>
+      <description>Learning Objectives  Create reports from Panda data frames in various formats Add images to the reports  Report Creation There are several database interactions in chart form that you might want to place together in one single report.</description>
+    </item>
+    
+    <item>
+      <title>Sending Emails</title>
+      <link>/python/automation/send-emails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/python/automation/send-emails/</guid>
+      <description>Learning Objectives  Create emails using Python Send emails using Python the Home Depot way  Emails A common thing that takes place in the industry is to automate the sending of emails.</description>
+    </item>
+    
+  </channel>
+</rss>

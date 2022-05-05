@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Before You Build on Orange Academy</title>
+    <link>/path-to-production/before-you-build/</link>
+    <description>Recent content in Before You Build on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./path-to-production/before-you-build/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Twelve-Factor App</title>
+      <link>/path-to-production/before-you-build/12factor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/path-to-production/before-you-build/12factor/</guid>
+      <description>The Twelve-Factor App the set of best practices and standards for producing cloud native apps. By implementing the 12 Factor App, we can have scalable, maintainable, and portable services.</description>
+    </item>
+    
+    <item>
+      <title>Requesting a Sub-Experience</title>
+      <link>/path-to-production/before-you-build/subexp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/path-to-production/before-you-build/subexp/</guid>
+      <description>At The Home Depot, a group of related products falls under what we call an Experience</description>
+    </item>
+    
+    <item>
+      <title>Getting Started With an Architecture Security Assessment</title>
+      <link>/path-to-production/before-you-build/asa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/path-to-production/before-you-build/asa/</guid>
+      <description>Part of getting an application to production, or prior to significant changes in an application, is to have it reviewed and approved by security.</description>
+    </item>
+    
+  </channel>
+</rss>

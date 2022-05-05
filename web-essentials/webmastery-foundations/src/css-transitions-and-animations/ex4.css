@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+#greeting {
+    width: 400px;
+    height: 400px;
+    background-color: #332532;
+    border: 8px solid #f77a52;
+    color: #f77a52;
+    font-size: 70px;
+    margin: 100px;
+    padding: 40px;
+    text-align: left;
+
+    transition: all 1s ease; /* add this line for smooth transition on hover out */
+}
+
+#greeting:hover {
+    transition: all 1s ease; /* add this line for smooth transition on hover in */
+    webkit-transform: rotateY(180deg) scale(1.5, 1.5);
+    moz-transform: rotateY(180deg) scale(1.5, 1.5);
+    transform: rotateY(180deg) scale(1.5, 1.5);
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>home-depot Additional Resources on Orange Academy</title>
+    <link>/software-eng-essentials/db-sql/data/home-depot/</link>
+    <description>Recent content in home-depot Additional Resources on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./software-eng-essentials/db-sql/data/home-depot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

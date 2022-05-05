@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Containerizing Your Application on Orange Academy</title>
+    <link>/cloud/containers/developing-with-docker/containerizing-your-application/</link>
+    <description>Recent content in Containerizing Your Application on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./cloud/containers/developing-with-docker/containerizing-your-application/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Containerizing Your Application</title>
+      <link>/cloud/containers/developing-with-docker/containerizing-your-application/containerizing-your-application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/developing-with-docker/containerizing-your-application/containerizing-your-application/</guid>
+      <description>Concepts  Altering code to be stateless Source code should not depend on local variables Dockerizing a runtime Copying source code into a container Container port mapping Adding a web framework dependency Leverage build cache Set working directory Set user with permissions  Code should be stateless This relates to the following Factors:</description>
+    </item>
+    
+    <item>
+      <title>Debugging Docker</title>
+      <link>/cloud/containers/developing-with-docker/containerizing-your-application/debugging-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/developing-with-docker/containerizing-your-application/debugging-docker/</guid>
+      <description>Concepts  Logging in Docker Checking Processes in Docker  Logging in Docker The docker logs command batch-retrieves logs present at the time of execution.</description>
+    </item>
+    
+    <item>
+      <title>Multi-stage Docker Builds</title>
+      <link>/cloud/containers/developing-with-docker/containerizing-your-application/multi-stage-docker-builds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/containers/developing-with-docker/containerizing-your-application/multi-stage-docker-builds/</guid>
+      <description>Concepts  Multi-stage build Targeting a specific stage in a multi-stage build  Multi-stage build The node:12-stretch image is based off Debian and it has tools like curl installed.</description>
+    </item>
+    
+  </channel>
+</rss>

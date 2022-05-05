@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance Optimization on Orange Academy</title>
+    <link>/react/pillars/perf-opt-strategies/</link>
+    <description>Recent content in Performance Optimization on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./react/pillars/perf-opt-strategies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction</title>
+      <link>/react/pillars/perf-opt-strategies/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/perf-opt-strategies/intro/</guid>
+      <description>Welcome to React Performance Optimization Strategies.
+Concepts and Skills  Learn how to profile React applications to learn about the performance characteristics Eliminate redundant renders of components Choose the best patterns for application state management to optimize components by default Manage CPU intensive operations with memoization and web workers Learn about React’s built-in features such as React.</description>
+    </item>
+    
+    <item>
+      <title>React.memo</title>
+      <link>/react/pillars/perf-opt-strategies/memo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/perf-opt-strategies/memo/</guid>
+      <description>Use React.memo to avoid unnecessary renders of a complex component.
+Background React.memo is React&amp;rsquo;s way of memoizing a function component.</description>
+    </item>
+    
+    <item>
+      <title>React.useMemo</title>
+      <link>/react/pillars/perf-opt-strategies/use-memo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/perf-opt-strategies/use-memo/</guid>
+      <description>Use React.useMemo to avoid unnecessarily recomputing expensive operations.
+Background  Memoization is an optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again.</description>
+    </item>
+    
+    <item>
+      <title>React.useCallback</title>
+      <link>/react/pillars/perf-opt-strategies/use-callback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/perf-opt-strategies/use-callback/</guid>
+      <description>Declaring callback functions can cause unnecessary renders. Use React.useCallback to avoid the unnecessary re-renders.
+Motivation  Recall that in JavaScript (and other functional programming languages) a function is just a value.</description>
+    </item>
+    
+    <item>
+      <title>Web Workers</title>
+      <link>/react/pillars/perf-opt-strategies/web-worker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/perf-opt-strategies/web-worker/</guid>
+      <description>Use Web Workers to offload long computations to a separate worker thread, freeing up the main UI thread to interact with the user and update the DOM.</description>
+    </item>
+    
+    <item>
+      <title>Pagination</title>
+      <link>/react/pillars/perf-opt-strategies/pagination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/perf-opt-strategies/pagination/</guid>
+      <description>Use Pagination to avoid rendering a large data set all at once.
+Problem Loading and rendering large data sets can become a performance concern due to:</description>
+    </item>
+    
+    <item>
+      <title>Debouncing</title>
+      <link>/react/pillars/perf-opt-strategies/debounce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/perf-opt-strategies/debounce/</guid>
+      <description>Use debouncing to prevent an operation from executing too often.
+Problem  Sometimes an expensive operation or network request can be triggered too frequently, consuming resources and affecting overall performance and responsiveness.</description>
+    </item>
+    
+    <item>
+      <title>Context API</title>
+      <link>/react/pillars/perf-opt-strategies/context/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/perf-opt-strategies/context/</guid>
+      <description>Background React&amp;rsquo;s Context API provides a way to share values between components without having to explicitly pass a prop through every level of the tree (thus avoiding prop-drilling).</description>
+    </item>
+    
+    <item>
+      <title>Quiz</title>
+      <link>/react/pillars/perf-opt-strategies/quiz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/perf-opt-strategies/quiz/</guid>
+      <description>Quiz (for discussion)  What kinds of performance problems might we see in a React application?</description>
+    </item>
+    
+    <item>
+      <title>Summary</title>
+      <link>/react/pillars/perf-opt-strategies/summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/react/pillars/perf-opt-strategies/summary/</guid>
+      <description>Other Performance Considerations Mapping Over an Array in JSX When mapping over an array to create a JSX array, always use the key prop.</description>
+    </item>
+    
+  </channel>
+</rss>

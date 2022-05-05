@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started on Orange Academy</title>
+    <link>/javascript/nodejs/getting-started/</link>
+    <description>Recent content in Getting Started on Orange Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="./javascript/nodejs/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Node JS: An Introduction</title>
+      <link>/javascript/nodejs/getting-started/intro-to-node/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/intro-to-node/</guid>
+      <description>Learning Objectives Concepts  Explain what Node.js is &amp;amp; why it exists Compare synchronous and asynchronous code execution Explain the advantages of asynchronous I/O  Skills  Write a simple JavaScript program and execute it with Node.</description>
+    </item>
+    
+    <item>
+      <title>CLI Tutorial</title>
+      <link>/javascript/nodejs/getting-started/command-line-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/command-line-tutorial/</guid>
+      <description>Learning Objectives Concepts  The ability to follow online tutorials and documentation is essential to the modern software engineer.</description>
+    </item>
+    
+    <item>
+      <title>CLI Project Ideas</title>
+      <link>/javascript/nodejs/getting-started/command-line-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/javascript/nodejs/getting-started/command-line-project/</guid>
+      <description>Project Guidelines You will build a command line application using Node. Below you will find a list of project ideas and requirements for each app.</description>
+    </item>
+    
+  </channel>
+</rss>

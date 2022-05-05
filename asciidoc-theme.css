@@ -1,0 +1,144 @@
+@import url(https://fonts.googleapis.com/css?family=Varela+Round|Open+Sans:400italic,600italic,400,600|Ubuntu+Mono:400);
+
+/* fix for foreground color when pygments doesn't support a particular language */
+.listingblock .pygments code table tr th,
+.listingblock .pygments code table tr td {
+    /* color: #f8f8f2 */
+}
+
+/* Override Asciidoctor CSS to get the correct background */
+.listingblock pre[class^="highlight "] {
+    background: #272822;
+}
+
+/* The following was copied from the asciidoc-common docinfo.html file */
+/* Home Depot Colors */
+.thd-orange {
+    color: #f96302;
+}
+
+h1, h2, h3, #toctitle, .sidebarblock > .content > .title, h4, h5, h6 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #f96302;
+    text-rendering: optimizeLegibility;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    line-height: 1.0125em;
+}
+
+.linenos {
+    /* max-width: 30px; */
+}
+
+.linenos .linenodiv pre {
+    /* max-width: 2rem; */
+}
+
+
+.thd-logo-div {
+    width: 100%;
+    text-align: center;
+}
+
+.thd-logo-img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.om-stacked-img-anchor {
+    position: absolute;
+    bottom: -26px;
+    left: 120px;
+    border-radius: 50%;
+    background-color: #6a6a6a;
+    width: 60px;
+    height: 60px;
+    padding: 13px 0;
+}
+
+.om-stacked-img {
+    width: 38px;
+    height: 38px;
+}
+
+@media only screen and (min-width: 1280px) {
+    #toc.toc2::before {
+        margin-left: 30px;
+    }
+}
+
+#toc.toc2 {
+    color: #f96302;
+    /* background-color: #2b3134; */
+    /* background-color: #333; */
+    padding: 0;
+    background-image: linear-gradient(#333, #111);
+}
+
+#toc.toc2 a {
+    color: #eee;
+}
+
+#toc.toc2 a:hover,
+#toc.toc2 a:focus {
+    color: #ff7322;
+}
+
+#toc.toc2 #toctitle {
+    text-align: center;
+    color: #f96302;
+    margin-top: 12px;
+}
+
+#toc.toc2>ul {
+    padding-left: 32px;
+}
+
+#header #toc {
+    padding-top: 0;
+}
+
+.om-toc-container {
+    background-color: lightgray;
+    width: 100%;
+    text-align: center;
+}
+
+div.colist td {
+    border: none;
+}
+
+div.colist table {
+    width: auto;
+}
+
+/** Fixes for AsciiDoc generated HTML **/
+#toc {
+    padding: 10px 0px 0px 30px;
+    margin-bottom: 30px;
+    background: #f7f7f8;
+    border-radius: 15px;
+    max-width: 1200px;
+}
+#toctitle {
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#toc ul {
+    line-height: 30px;
+    list-style-type: none;
+}
+
+img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.left { float: left !important; }
+.right { float: right !important; }
+
+/* .imageblock .content img {
+    display: inline-block;
+} */

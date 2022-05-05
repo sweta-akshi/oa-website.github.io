@@ -1,0 +1,26 @@
+div.highlight {
+    margin-top: 20px;
+    margin-bottom: 30px !important;
+}
+
+.iframe-container {
+    margin: 20px;
+}
+
+.expand {
+    width: 800px;
+    margin: 2rem 1rem;
+    padding: 2rem;
+    background: #eee;
+    border-radius: 1rem;
+}
+
+.expand-label {
+    color: #f96302;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.expand li {
+    margin: 0.5rem;
+}

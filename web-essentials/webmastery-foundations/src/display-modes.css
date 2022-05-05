@@ -1,0 +1,19 @@
+* {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+.inline {
+  display: inline;
+  border: 1px solid red;
+}
+
+.block {
+  display: block;
+  border: 1px solid green;
+}
+
+.inline-block {
+  display: inline-block;
+  border: 1px solid blue;
+}
